@@ -12,8 +12,8 @@ exclude: ['/automation/', 'README.md', 'original_readme.md', 'LICENSE.txt', 'CNA
 # Site Settings
 title: "Data Science Africa VENUE 20XX"
 email: "info@datascienceafrica.org"
-description: "DSA VENUE 2020"
-baseurl: "/dsaXXXX"
+description: "DSA Uganda Chapter 2021"
+baseurl: "/dsaUganda"
 url: "http://www.datascienceafrica.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-80484960-1"
