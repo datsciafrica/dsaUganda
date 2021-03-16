@@ -1,16 +1,6 @@
-# Plugins
-plugins:
-- jekyll-sitemap
-safe: false
-future: true
-
-# Build Settings
-markdown: kramdown
-permalink: pretty
-exclude: ['/automation/', 'README.md', 'original_readme.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Data Science Africa VENUE 20XX"
+title: "Data Science Africa U"
 email: "info@datascienceafrica.org"
 description: "DSA Uganda Chapter 2021"
 baseurl: "/dsaUganda"
