@@ -1,8 +1,8 @@
 # Organizers
 -
   id: 0
-  name: "Joyce"
-  surname: "Nabende"
+  name: "Martin"
+  surname: "Mubangizi"
   title: "General Chair"
   thumbnailUrl: person.jpg
   team: true
@@ -12,9 +12,9 @@
     - {name: "twitter", link: "https://twitter.com/handle"}
     - {name: "site", link: "http://site.com/"}
 -
-  id: 2
-  name: "Martin"
-  surname: "Mubangizi"
+  id: 1
+  name: "Joyce"
+  surname: "Nabende"
   title: "Program Chair"
   thumbnailUrl: person.jpg
   team: true
@@ -24,7 +24,7 @@
     - {name: "twitter", link: "https://twitter.com/handle"}
     - {name: "site", link: "http://site.com/"}
 -
-  id: 3
+  id: 2
   name: "Eng"
   surname: "Bainomugisha"
   title: "Academia Coordinator"
@@ -36,7 +36,7 @@
     - {name: "twitter", link: "https://twitter.com/handle"}
     - {name: "site", link: "http://site.com/"}
 -
-  id: 4
+  id: 3
   name: "Ernest"
   surname: "Mwebaze"
   title: "Partnerships Coordinator"
@@ -48,7 +48,7 @@
     - {name: "twitter", link: "https://twitter.com/handle"}
     - {name: "site", link: "http://site.com/"}
 -
-  id: 5
+  id: 4
   name: ""
   surname: ""
   title: "_ Coordinator"
@@ -61,7 +61,7 @@
     - {name: "site", link: "http://site.com/"}
 
 -
-id: 5
+  id: 5
   name: "Morine"
   surname: "Amutorine"
   title: "PComms Coordinator"
