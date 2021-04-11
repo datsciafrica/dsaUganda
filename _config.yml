@@ -1,47 +1,8 @@
-# Site settings
-title: DSA Uganda Chapter
-location: DSA Response
-safe: false
-description: "Information website."
-banner: dsa_banner.jpg
-banner_title: DSA Uganda Chapter
-baseurl: "/dsaUganda"
-url: "http://www.datascienceafrica.org"
-logo_url: img/logo.png
-# logo_url: svg/min/logo.svg
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.
 
-email: info@datascienceafrica.org
-
-# Contact form
-api_token: # Enter API token here
-
-# Footer
-copyright: © 2020 Data Science Africa Conference - All rights reserved
-gem: 'kramdown'
-
-# Build settings
-markdown: kramdown
-
-exclude: [
-    package.json,
-    Gruntfile.js,
-    node_modules,
-    .sass-cache,
-    Gemfile,
-    Gemfile.lock,
-    .gitignore
-]
-
-twitter: https://twitter.com/dsa_org
-youtube: https://www.youtube.com/channel/UCkB0DCJZjJX6fdEZspidC9w/feed
-# TODO - make a proper DSA channel
-
-analytics:
-  google:
-    tracking_id: UA-80484960-1
-
-video:
-  height: 315
-  width: 560
-
-
+sass:
+  load_paths:
+    - _sass
+    - /usr/local/lib/ruby/gems/3.0.0/gems/bootstrap-4.6.0/assets/stylesheets/
