@@ -1,0 +1,8 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.
+
+sass:
+  load_paths:
+    - _sass
+    - /usr/local/lib/ruby/gems/3.0.0/gems/bootstrap-4.6.0/assets/stylesheets/
