@@ -1,7 +1,4 @@
 # DSA Event Stub
-
-The new event theme, based on [https://github.com/gdg-x/zeppelin](https://github.com/gdg-x/zeppelin).
-
 ## Usage
 For each new event installment, follow the following instructions.
 
