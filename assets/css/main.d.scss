@@ -17,6 +17,10 @@
     font-weight: bold;
 }
 
+.carousel-container .content .content-inside h3{
+    padding-top: 10px;
+}
+
 .join-community {
     background-color: #f1f3f4;
 }
@@ -51,4 +55,43 @@ body#main-dashboard .navs .chapter button.contact-us,
 body#main-dashboard .page-footer .chapter button.contact-us {
     background-color: #30a2f3 !important;
     color: #fff !important;
+}
+
+.carousel-container .content .content-inside div {
+    text-align: center;
+    height: 25px;
+    margin-top:10px;
+}
+
+.carousel-container .content .content-inside div ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    /* For IE, the outcast */
+    zoom:1;
+    *display: inline;
+    list-style: none;
+}
+
+.carousel-container .content .content-inside div ul.social-links li {
+    background-color: inherit !important;
+}
+.carousel-container .content .content-inside div ul.social-links li {
+    width: 25px;
+    height: 25px;
+    background-color: #333;
+    color: #b3b3b3;
+    border-radius: 50%;
+    margin: 0 6px 6px 0;
+    text-align: center;
+    line-height: 25px;
+    float: left;
+}
+
+#about .general-body .dsau-map {
+    width:50%;
+}
+
+#event_page h1.event-page {
+    text-align: center;
 }

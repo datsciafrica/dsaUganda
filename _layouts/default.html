@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/js/1.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.g.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/mustache.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.d.css">
     
 
@@ -15,8 +16,14 @@
   <body>
     {% include navigation.html %}
     {{ content }}
+    {% include footer.html %}
     <script src="{{ site.baseurl }}/assets/js/main.bundle.js"></script>
     <script src="{{ site.baseurl }}/assets/js/client.bundle.js"></script>
     <script src="{{ site.baseurl }}/assets/js/1.7cbd20e09b8e78d63b0f.chunk.js"></script>
+    <script>
+      /* jshint ignore:start */
+      // js globals
+      Globals = window.Globals || {};
+    </script>
   </body>
 </html>
