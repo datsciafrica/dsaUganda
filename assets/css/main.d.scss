@@ -17,6 +17,10 @@
     font-weight: bold;
 }
 
+.carousel-container .content .content-inside h3{
+    padding-top: 10px;
+}
+
 .join-community {
     background-color: #f1f3f4;
 }
@@ -51,4 +55,139 @@ body#main-dashboard .navs .chapter button.contact-us,
 body#main-dashboard .page-footer .chapter button.contact-us {
     background-color: #30a2f3 !important;
     color: #fff !important;
+}
+
+.carousel-container .content .content-inside div {
+    text-align: center;
+    height: 25px;
+    margin-top:10px;
+}
+
+.carousel-container .content .content-inside div ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    /* For IE, the outcast */
+    zoom:1;
+    *display: inline;
+    list-style: none;
+}
+
+.carousel-container .content .content-inside div ul.social-links li {
+    background-color: inherit !important;
+}
+.carousel-container .content .content-inside div ul.social-links li {
+    width: 25px;
+    height: 25px;
+    background-color: #333;
+    color: #b3b3b3;
+    border-radius: 50%;
+    margin: 0 6px 6px 0;
+    text-align: center;
+    line-height: 25px;
+    float: left;
+}
+
+#about .general-body .dsau-map {
+    width:50%;
+}
+
+hr.event-separator {
+    border: 1px solid #ddd;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.chapter h1.chapter-page, .chapter h1.small-title, 
+.chapter h2.small-title, .chapter h3.small-title {
+    margin: 60px 0 30px;
+    font-size: 36px;
+}
+
+.chapter h1.chapter-page, .chapter h1.small-title, 
+.chapter h2.small-title, .chapter h3.small-title {
+    text-align: left;
+    text-transform: none;
+    color: #6F6F6F;
+    font-weight: 400;
+}
+
+.chapter-banner .overlay, #event_page .jumbotron .color-overlay, .page-banner .overlay {
+    background-color: #ffffff;
+}
+
+
+.general-event-banner, .general-event-banner a {
+    color: #202124 !important;
+}
+
+#event_page .jumbotron .event-page.container {
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+
+
+// Internal
+
+#event_page .event-tags {
+    margin-bottom: 16px;
+}
+
+.jss1 {
+    align-items: center;
+    margin-left: -5px;
+}
+
+.jss2 {
+    -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1) 10px, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 50%), linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1) 10px, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 50%);
+}
+
+.jss3 {
+    display: flex;
+    overflow: auto;
+}
+
+.jss5 {
+}
+
+.MuiChip-root {
+    color: #333333;
+    border: none;
+    cursor: default;
+    height: 32px;
+    margin: 5px;
+    display: inline-flex;
+    outline: 0;
+    padding: 0;
+    font-size: 0.875rem;
+    box-sizing: border-box;
+    transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    align-items: center;
+    font-family: inherit;
+    white-space: nowrap;
+    border-radius: 16px;
+    vertical-align: middle;
+    justify-content: center;
+    text-decoration: none;
+    background-color: #f4f4f4;
+}
+
+.MuiChip-outlined {
+    color: #000;
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    border-color: #000;
+    background-color: transparent;
+}
+
+.MuiChip-label {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    padding-left: 12px;
+    padding-right: 12px;
 }
