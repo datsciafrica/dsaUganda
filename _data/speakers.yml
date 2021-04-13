@@ -24,7 +24,7 @@
   id: 4
   name: "Lillian Muyama"
   title: "Environment"
-  company: "GAirQo"
+  company: "AirQo"
   twitter: "#"
   image: "#"
 -
@@ -43,7 +43,7 @@
   image: "#"
 -
   id: 7
-  name: "xxxx"
+  name: "??"
   title: "Banking"
   company: "Stanbic"
   twitter: "#"
@@ -54,12 +54,11 @@
   title: "Strategy lead"
   company: "SunBird AI"
   twitter: "https://twitter.com/emwebaze"
-  image: "https://twitter.com/emwebaze/photo"
+  image: "/assets/img/people/emwebaze.jpg"
 -
   id: 9
   name: "Joyce Nabende, PHD"
   title: "Program Chair"
   company: "Makerere AI Lab"
   twitter: "https://twitter.com/j_nabende"
-  image: "https://twitter.com/j_nabende/photo"
--
+  image: "/assets/img/people/jnabende.jpg"

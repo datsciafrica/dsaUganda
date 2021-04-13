@@ -1,4 +1,5 @@
 <div id="event_page" itemscope="" itemtype="http://schema.org/Event">
+    <hr class="event-separator">
     <div id="event-banner-container" class="jumbotron responsive-event-banner">
         <div class="color-overlay"></div>
         <div class="event-page container">
@@ -61,58 +62,9 @@
                 <p>11:25 AM: Data, Applications, Policy, Opportunities</p>
                 <p>11:45 PM: Ask Me Anything Session by Engineer Bainomugisha</p>
                 <p>12:00 PM: Closing</p>
-
-                <h2><b>Partners </b></h2>
-                <p>
-                    Sunbird AI, Makerere University, Busitema University, AirQo, Umeme, MTN, Stanbic, UBOS, GIZ, 
-                    Fair Project, UP Accelerator, Pulse Lab Kampala
-                </p>
-                <h2><b>Speakers:</b></h2>
-                <p><b>Honey Sonwani</b></p>
-                <p>Product Engineer, Obvious</p>
-                <p>Honey Sonwani is an Android Engineer at Obvious and believes that the Android ecosystem we live in is
-                    only as good as we make it. A highly community-driven individual, she’s passionately involved as one
-                    of the organisers in Firebase Community Mumbai and Mumbai Women Coders.</p>
-                <p><b>Julien Salvi</b></p>
-                <p>Senior Android Engineer, Aircall</p>
-                <p>Into the Android world for almost 10 years (scary Eclipse dark time!), Julian experienced California
-                    startup way of life before coming back to France. He is currently a Senior Android Engineer at
-                    Aircall, building the best phone system for modern businesses. Alongside Android, Julien has a great
-                    interest in backend development with Kotlin and AR/VR technology. In his spare time, he is a world
-                    traveler and a beer lover always looking for the best IPAs!</p>
-                <p><b>Wajahat Karim</b></p>
-                <p>Android Lead, Airlift</p>
-                <p>Wajahat Karim is Pakistan’s first Google Developer Expert in Android. As an experience Android
-                    developer, he deeply cares about it and keeps writing and speaking about it. He has written two
-                    worldwide 300+ pages books on Android development with more than 100 articles around the internet
-                    either on his website or his Medium publications. He is also a passionate contributor in open source
-                    and has created many Android libraries used by thousands of developers in their apps worldwide. As
-                    active publ</p>
-                <p><b>Rikin Marfatia</b></p>
-                <p>Android Engineer, Pinterest</p>
-                <p>Rikin has been an Android focused engineer for about 5 years, and has recently been obsessed with all
-                    things Jetpack Compose</p>
-                <p><b>Karan Dhillon</b></p>
-                <p>Software Dev, Mobile, Hootsuite</p>
-                <p>Karan lives in toronto, and is a software developer for Hootsuite.</p>
-                <p><b>Mohit Sarveiya</b></p>
-                <p>Android and Kotlin GDE, Google Dev Expert</p>
-                <p>Mohit Sarveiya is a Google Developer Expert in Kotlin and Android. Prior to building Android apps, he
-                    was a Backend Engineer. He was an early adopter of Kotlin and absolutely loves the language. He has
-                    given many talks and workshops on Kotlin.</p>
-                <p><b>Márton Braun</b></p>
-                <p>Stream, Android Dev Advocate &amp; Engineer</p>
-                <p>A Kotlin enthusiast since the 1.0 of the language. Android Developer Advocate at Stream. Google
-                    Developer Expert for Kotlin and Android. Android/Kotlin tech editor at RayWenderlich.com. Instructor
-                    at BME-VIK, teaching Kotlin and Android. Ranked right around the very top of the Kotlin tag on
-                    StackOverflow. Creator of a couple open source Kotlin libraries.</p>
-                <p><br></p>
-                <div id="instructions-container">
-                </div>
             </div>
         </div>
     </div>
-    <hr class="event-separator">
     <div class="chapter has-people-cards-v2">
         <div class="hosts">
             <h1 class="event-page general-h1">
@@ -123,13 +75,11 @@
                 <li class="people-card general-card" itemprop="performer" itemscope=""
                     itemtype="http://schema.org/Person">
                     <img itemprop="image"
-                        src="{{ speaker.image }}"
-                        alt="{{ speaker.name}}" onerror="this.onerror = function() {
-                            this.onerror = null;
-                            this.src = '/static/images/placeholder_avatar.png';
-                        };
-  this.src='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/contentbuilder/GDG-Bevy-DefaultProfile_xY7OLAZ.png';
-" class="people-card--avatar">
+                        src="{{site.baseurl}}{{ speaker.image }}"
+                        alt="{{ speaker.name}}" 
+                        onerror="this.onerror = null;
+                                 this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';" 
+                        class="people-card--avatar">
                     <a href="{{ speaker.twitter }}" rel="nofollow" class="icon-twitter people-card--twitter"></a>
                     <div class="people-card--text">
                         <h2 itemprop="name" class="people-card--name">{{ speaker.name }}</h2>
@@ -154,14 +104,11 @@
                 <li class="people-card general-card" itemprop="performer" itemscope=""
                     itemtype="http://schema.org/Person">
                     <img itemprop="image"
-                        src="{{ organizer.image }}"
-                        alt="{{ organizer.name }}" onerror="
-  this.onerror = function() {
-    this.onerror = null;
-    this.src = '/static/images/placeholder_avatar.png';
-  };
-  this.src='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/contentbuilder/GDG-Bevy-DefaultProfile_xY7OLAZ.png';
-" class="people-card--avatar">
+                        src="{{site.baseurl}}{{ organizer.image }}"
+                        alt="{{ organizer.name }}" 
+                        onerror="this.onerror = null;
+                                 this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';" 
+                        class="people-card--avatar">
                     <a href="{{ organizer.twitter }}" rel="nofollow" class="icon-twitter people-card--twitter"></a>
                     <div class="people-card--text">
                         <h2 itemprop="name" class="people-card--name">{{ organizer.name }}</h2>
@@ -208,56 +155,19 @@
                 </a>
             </div>
         </div>
-        <button type="button" class="contact-us btn btn-primary btn-lg" data-toggle="modal"
-            data-target="#contact-host-modal">
-            <span class="icon-mail"> </span><span class="text">
-                Contact Us
-            </span>
-        </button>
-        <div class="modal fade" id="contact-host-modal" tabindex="-1" role="dialog"
-            aria-labelledby="contact-host-modal">
-            <div class="modal-dialog contact-host" role="document">
-                <div class="modal-content">
-                    <button type="button" class="icon-cancel-1" data-dismiss="modal" aria-label="Close"></button>
-                    <div class="modal-body">
-                        <form class="contact-host container" method="post" chapterid="937" eventid="37279">
-                            <input type="hidden" name="csrfmiddlewaretoken"
-                                value="WpkaArbeqSuFAGJewlF0ILQ35kW8DUe7DoRbUpXg8YlcdVuqzkfs3HgNaw4eCFCB">
-                            <span class="icon-mail header-icon"></span>
-                            <h4 class="modal-title" id="myModalLabel">Contact Us</h4>
-                            <div class="row">
-                                <p class="form-group">
-                                    <input class="form-control" id="id_sender_name" name="sender_name"
-                                        placeholder="First and Last Name">
-                                </p>
-                                <p class="form-group">
-                                    <input class="form-control" id="id_sender_email" name="sender_email"
-                                        placeholder="Your email address">
-                                </p>
-                                <p class="form-group">
-                                    <textarea class="form-control" id="id_message_plaintext" name="message_plaintext"
-                                        placeholder="Message"></textarea>
-                                </p>
-                            </div>
-                            <div class="row">
-                                <button class="btn btn-primary btn-action ladda-button" type="submit"
-                                    data-style="expand-right"><span class="ladda-label">Send</span><span
-                                        class="ladda-spinner"></span></button>
-                            </div>
-                        </form>
-                        <div class="success container">
-                            <div class="icon-success"></div>
-                            <h4 class="modal-title">Message Sent!</h4>
-                            <div class="row">
-                                <p class="message">Your message has been successfully sent.</p>
-                            </div>
-                            <div class="row">
-                                <button class="btn btn-primary btn-action" data-dismiss="modal">OK</button>
-                            </div>
-                        </div>
-                    </div>
+        <div class="hosts">
+            <h1 class="event-page general-h1">
+                Partners
+            </h1>
+            <div class="people-cards">
+                Sunbird AI, Makerere University, Busitema University, AirQo, Umeme, MTN, Stanbic, UBOS, GIZ, 
+                    Fair Project, UP Accelerator, Pulse Lab Kampala
+            </div>
+            <div class="modal fade and carousel slide modal-carousel" id="hostsbios" tabindex="-1">
+                <div class="carousel-inner">
                 </div>
             </div>
         </div>
     </div>
+    <hr class="event-separator">
 </div>
