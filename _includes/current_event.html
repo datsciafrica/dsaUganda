@@ -104,28 +104,29 @@
     <div class="chapter has-people-cards-v2">
         <div class="hosts">
             <h1 class="event-page general-h1">
-                Host
+                Speakers
             </h1>
             <div class="people-cards">
+                {% for speaker in site.data.speakers %}
                 <li class="people-card general-card" itemprop="performer" itemscope=""
                     itemtype="http://schema.org/Person">
                     <img itemprop="image"
-                        src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/1574011704778.jpg"
-                        alt="Shalom Halbert" onerror="
-  this.onerror = function() {
-    this.onerror = null;
-    this.src = '/static/images/placeholder_avatar.png';
-  };
+                        src="{{ speaker.image }}"
+                        alt="{{ speaker.name}}" onerror="this.onerror = function() {
+                            this.onerror = null;
+                            this.src = '/static/images/placeholder_avatar.png';
+                        };
   this.src='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/contentbuilder/GDG-Bevy-DefaultProfile_xY7OLAZ.png';
 " class="people-card--avatar">
-                    <a href="https://twitter.com/ShalomHalbert" rel="nofollow"
-                        class="icon-twitter people-card--twitter"></a>
+                    <a href="{{ speaker.twitter }}" rel="nofollow" class="icon-twitter people-card--twitter"></a>
                     <div class="people-card--text">
-                        <h2 itemprop="name" class="people-card--name">Shalom Halbert</h2>
-                        <p class="people-card--company">Rocket Insights</p>
-                        <p class="people-card--title">Software Engineer</p>
+                        <h2 itemprop="name" class="people-card--name">{{ speaker.name }}</h2>
+                        <p class="people-card--title">{{ speaker.title }}</p>
+                        <p class="people-card--company">{{ speaker.company }}</p>
                     </div>
+                    <a class="btn btn-secondary" href="/u/m5t737/">View Profile</a>
                 </li>
+                {% endfor %}
             </div>
             <div class="modal fade and carousel slide modal-carousel" id="hostsbios" tabindex="-1">
                 <div class="carousel-inner">
@@ -137,53 +138,25 @@
                 Organizers
             </h1>
             <div class="people-cards">
+                {% for organizer in site.data.organizers %}
                 <li class="people-card general-card" itemprop="performer" itemscope=""
                     itemtype="http://schema.org/Person">
                     <img itemprop="image"
-                        src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/avatars/nitya_narasimhan_iBi7ufj.png"
-                        alt="Nitya Narasimhan" onerror="
+                        src="{{ organizer.image }}"
+                        alt="{{ organizer.name }}" onerror="
   this.onerror = function() {
     this.onerror = null;
     this.src = '/static/images/placeholder_avatar.png';
   };
   this.src='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/contentbuilder/GDG-Bevy-DefaultProfile_xY7OLAZ.png';
 " class="people-card--avatar">
-                    <a href="https://twitter.com/nitya" rel="nofollow" class="icon-twitter people-card--twitter"></a>
+                    <a href="{{ organizer.twitter }}" rel="nofollow" class="icon-twitter people-card--twitter"></a>
                     <div class="people-card--text">
-                        <h2 itemprop="name" class="people-card--name">Nitya Narasimhan</h2>
-                        <p class="people-card--title">GDG Organizer</p>
+                        <h2 itemprop="name" class="people-card--name">{{ organizer.name }}</h2>
+                        <p class="people-card--title">{{ organizer.title }}</p>
                     </div>
-                    <a class="btn btn-secondary" href="/u/m5t737/">View Profile</a>
                 </li>
-                <li class="people-card general-card" itemprop="performer" itemscope=""
-                    itemtype="http://schema.org/Person">
-                    <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/contentbuilder/GDG-Bevy-DefaultProfile_xY7OLAZ.png"
-                        alt="Ralph Yozzo" class="people-card--avatar">
-                    <a href="https://twitter.com/fedex1" rel="nofollow" class="icon-twitter people-card--twitter"></a>
-                    <div class="people-card--text">
-                        <h2 itemprop="name" class="people-card--name">Ralph Yozzo</h2>
-                        <p class="people-card--title">GDG Organizer</p>
-                    </div>
-                    <a class="btn btn-secondary" href="/u/m6nnrc/">View Profile</a>
-                </li>
-                <li class="people-card general-card" itemprop="performer" itemscope=""
-                    itemtype="http://schema.org/Person">
-                    <img itemprop="image"
-                        src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/avatars/anna_nerezova_w3fO1uZ.jpg"
-                        alt="Anna Nerezova" onerror="
-  this.onerror = function() {
-    this.onerror = null;
-    this.src = '/static/images/placeholder_avatar.png';
-  };
-  this.src='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/contentbuilder/GDG-Bevy-DefaultProfile_xY7OLAZ.png';
-" class="people-card--avatar">
-                    <a href="https://twitter.com/blv" rel="nofollow" class="icon-twitter people-card--twitter"></a>
-                    <div class="people-card--text">
-                        <h2 itemprop="name" class="people-card--name">Anna Nerezova</h2>
-                        <p class="people-card--title">GDG Organizer</p>
-                    </div>
-                    <a class="btn btn-secondary" href="/u/anna5/">View Profile</a>
-                </li>
+                {% endfor %}
             </div>
             <div class="modal fade and carousel slide modal-carousel" id="hostsbios" tabindex="-1">
                 <div class="carousel-inner">
