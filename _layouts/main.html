@@ -19,25 +19,103 @@ layout: default
         </div>
     </div>
 </div>
-<div id="about" class="container about section">
-    <h1 class="chapter-page general-h1">About DSA Uganda</h1>
-    <div class="general-body">
-        <div><br></div>
-        <div>Data Science Africa Uganda Chapter will replicate DSA at region/local chapters in Uganda to grow a pool of 
-            Ugandans with data science and related skills/qualifications. 
-            <br>
+
+<div class="mission-widget">
+
+    <div class="container">
+        <h1 class="section-header little-margin-bottom general-widget-title general-h1">Mission Statement</h1>
+        <div class="general-body">
+            We are an all-inclusive network of data scientists, enthusiasts, and organisations inspired to 
+            grow data science skills and their usage to contribute to Uganda's development aspirations (NDPIII)
         </div>
-        <div><br></div>
-        <div>This comes at the right timing as NDPIII 2020/2021-2025/2026 has concretely identified  these skills and 
-            qualifications as gaps  required to achieve Uganda’s National development.<br></div>
-        <div><br></div>
-        <div>DSA Uganda chapter will be instrumental in contributing to the NDP III target of creating 520,000 jobs 
-            created annually.<br></div>
-        <div><br></div>To learn more about the DSA Uganda program, visit <a
-            href="{{site.baseurl}}/about.html">http://www.datascienceafrica.org{{site.baseurl}}/about.html</a>
     </div>
 </div>
-{% include current_event.html %}
+
+<div class="objectives-widget">
+
+    <div class="container">
+        <h1 class="section-header little-margin-bottom general-widget-title general-h1">Objectives</h1>
+        <div class="general-body">
+            <ul>
+                <li>To create a forum for interaction amongst data scientists, enthusiasts, government, 
+                    academia, UN, NGO, private sector, and civil society organisations keen on data science 
+                    and its use for social good;</li>
+                <li>To increase Uganda's data science capacity by raising awareness and stimulating interest 
+                    through a pool of local case studies and training;</li>
+                <li>To provide information and access to various data science resources and artifacts, 
+                    including data, jobs, internships, scholarships and funding;</li>
+                <li>To support the improvement of the policy and regulatory environment for data science in 
+                    Uganda by inspiring new policies and/or amend and harmonize existing policies. These 
+                    include policies around data access and sharing, data privacy, and issues of fairness 
+                    and ethics.</li>
+            </ul>
+        </div>
+    </div> 
+
+</div>
+
+<div class="activities-widget">
+
+    <div class="container">
+        <h1 class="section-header little-margin-bottom general-widget-title general-h1">Proposed Activities</h1>
+        <div class="general-body">
+            <ul>
+                <li>Regular data science meet-ups and convenings on topical issues including; data, techniques, 
+                    technology, career guidance, policy and application-specific issues.</li>
+                <li>Capacity building events target all stakeholders, especially students and early career 
+                    professionals, through workshops and short courses online and offline.</li>
+                <li>Hackathons, training of trainers, grant-writing, result presentation and management sessions.</li>
+                <li>Stakeholder engagements, including specific project planning and implementation meetings, 
+                    ensure ownership and wholesome contribution to the local chapter's successful implementation.</li>
+                <li>Producing an annual state of data science report for Uganda.</li>
+                <li>Collaborative research and project implementation with the different stakeholders in the data 
+                    science ecosystem of Uganda.</li>
+                <li>Data science consulting and advisory services.</li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+<div class="roadmap-widget">
+
+    <div class="container">
+        <h1 class="section-header little-margin-bottom general-widget-title general-h1">Roadmap</h1>
+        <div class="general-body">
+            <img src="{{site.baseurl}}/assets/img/roadmap.jpg" alt="" >
+        </div>
+    </div>
+    
+</div>
+
+<div class="team-widget">
+
+    <div class="container">
+        <h1 class="section-header little-margin-bottom general-widget-title general-h1">Interim Coordination Team</h1>
+        <div class="general-body">
+            <div class="people-cards">
+                {% for organizer in site.data.organizers %}
+                <li class="people-card general-card" itemprop="performer" itemscope=""
+                    itemtype="http://schema.org/Person">
+                    <img itemprop="image"
+                        src="{{site.baseurl}}{{ organizer.image }}"
+                        alt="{{ organizer.name }}" 
+                        onerror="this.onerror = null;
+                                 this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';" 
+                        class="people-card--avatar">
+                    <a href="{{ organizer.twitter }}" rel="nofollow" class="icon-twitter people-card--twitter"></a>
+                    <div class="people-card--text">
+                        <h2 itemprop="name" class="people-card--name">{{ organizer.name }}</h2>
+                        <p class="people-card--title">{{ organizer.title }}</p>
+                    </div>
+                </li>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    
+</div>
+
 {% include upcoming_events.html %}
 {% include contact_us.html %}
 {{ content }}
