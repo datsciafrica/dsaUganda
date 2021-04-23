@@ -1,0 +1,37 @@
+<div id="past-events" class="container section chapter">
+    <h1 class="section-header general-h1">Past Events</h1>
+    <div class="general-body">
+        <ul class="vertical-boxes past-event-list">
+            {% assign events = site.events %}
+            {% for event in site.events %}
+                {% assign event_date = event.date | date: '%s' %}
+                {% assign i = 0 %}
+                {% if today_date > event_date %}
+                    {% assign i = i | plus:1 %}
+            <a href="/events/details/google-gdg-nyc-presents-international-womens-day-northeast-2021/"
+                class="vertical-box-container __bds-thumbnail-roundness"
+                title="International Women’s Day Northeast 2021">
+
+                <img class="event-image __bds-thumbnail-roundness" alt=""
+                    src="{{site.baseurl}}/assets/img/placeholder_event.jpg">
+
+                <p class="vertical-box--event-date">
+                    {{ event.date | date: "%B %-d, %Y" }}
+                </p>
+                <p class="event-page vertical-box--event-type">
+                    {{ event.title }}
+                </p>
+                <p class="event-page vertical-box--event-title">
+                    {{ event.name }}
+                </p>
+            </a>
+                {% endif %}
+            {% endfor %}
+
+            {% if i==0 %}
+                There are no past events at the moment.
+            {% endif %}
+        </ul>
+        
+    </div>
+</div>

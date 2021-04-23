@@ -11,9 +11,14 @@
     padding: 30px;
 }
 
-.carousel-container .content .content-inside h2, 
+.carousel-container .content .content-inside h2 {
+    color: #189ea0 !important;
+    font-weight: bold;
+}
+
+
 .carousel-container .content .content-inside h3{
-    color: #F38130 !important;
+    color: #036938 !important;
     font-weight: bold;
 }
 
@@ -138,6 +143,32 @@ hr.event-separator {
     width: 100%;
 }
 
+.carousel-container .content {
+    height: 500px !important;
+}
+
+body:not(#main-dashboard) .btn.btn-primary:not(.dropdown-toggle):not(.grey) {
+    background-color: #189ea0 !important;
+    color: #fff !important;
+}
+
+body:not(#main-dashboard) .btn.btn-primary:not(.dropdown-toggle):not(.grey):hover {
+    background-color: #4ebea4 !important;
+    color: #fff !important;
+}
+
+#event_page .contact-host.modal-dialog .header-icon {
+    color: #189ea0;
+}
+
+.chapter .vertical-boxes .vertical-box--event-date,
+.chapter .vertical-boxes .vertical-box--event-title {
+    color: #5f6368;
+}
+
+.general-body .center {
+    text-align: center;
+}
 
 
 
