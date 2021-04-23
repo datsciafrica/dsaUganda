@@ -60,5 +60,12 @@
   title: "Strategic Partner"
   company: "GIZ - Uganda"
   twitter: "#"
-  image: "#"
+  image: "/assets/img/people/imukiibi.jpg"
+-
+  id: 10
+  name: "Clare Babirye"
+  title: "Secretary"
+  company: ""
+  twitter: "#"
+  image: "/assets/img/people/cbabirye.jpg"
 
