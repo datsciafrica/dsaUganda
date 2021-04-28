@@ -170,6 +170,159 @@ body:not(#main-dashboard) .btn.btn-primary:not(.dropdown-toggle):not(.grey):hove
     text-align: center;
 }
 
+.icon-twitter:before{
+    line-height: 26px;
+}
+
+.event-partners .cards {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    margin-top: 20px;
+}
+
+.event-partners .container:before {
+    display: table;
+    content: " ";
+}
+
+.event-partners .cards .card-container {
+    margin: 10px 10px;
+    // margin-left: 10px;
+    // margin-right: 10px;
+    color: inherit;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.event-partners .cards .card-container .card {
+    background-size: 50%;
+}
+
+.event-partners .cards .card-container .card {
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #f1f3f4;
+    width: 220px;
+    height: 160px;
+}
+
+.event-partners .card {
+    background-color: #fff;
+    padding: 50px 40px;
+    border: 1px solid #ddd;
+    color: #333;
+}
+
+.event-partners .cards .card-container .label {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
+    color: #333;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.event-partners .label {
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    color: #fff;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.event-partners .label {
+    font-weight: 700;
+    line-height: 1;
+    white-space: nowrap;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+// Logos
+.event-partners .cards .card-container .fallback-image {
+    display: flex;
+    justify-content: center;
+}
+
+.event-partners .cards .card-container .fallback-image p{
+    display: inline-block;
+    align-self: flex-end;
+    margin: 0 0 -5px;
+    color: #BCBDC1;
+    font-family: 'Google Sans';
+    font-weight: bold;
+    
+}
+
+.event-partners .cards .sunbird.card-container {
+    position: relative;
+    z-index: 1;
+}
+
+.event-partners .cards .sunbird.card-container:after {    
+    content: '';
+    position: absolute;
+    display: block;
+    top: 50px;
+    left: 30px;
+    height: 60px;
+    width: 160px;
+    z-index: -1;
+    background-color: #292850;
+}
+
+.event-partners .cards .sunbird.card-container .card {
+    background-size: 60%;
+    background-color: transparent;
+}
+
+.event-partners .cards .busitema.card-container .card {
+    background-size: 80%;
+}
+
+.event-partners .cards .mtn.card-container .card {
+    background-size: 35%;
+}
+
+.event-partners .cards .airqo.card-container .card {
+    background-size: 45%;
+}
+
+.event-partners .cards .stanbic.card-container .card {
+    background-size: 100%;
+}
+
+.event-partners .cards .ubos.card-container .card {
+    background-size: 40%;
+}
+
+.event-partners .cards .giz.card-container .card {
+    background-size: 40%;
+}
+
+.event-partners .cards .upacc.card-container .card {
+    background-size: 40%;
+    background-position-y: 35px;
+}
+
+.event-partners .cards .plk.card-container .card {
+    background-size: 95%;
+}
 
 
 
