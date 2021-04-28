@@ -157,6 +157,6 @@ organizers:
         company: "GIZ - Uganda"
         twitter: "#"
         image: "/assets/img/people/imukiibi.jpg"
-partners: Sunbird AI, Makerere University, Busitema University, AirQo, Umeme, MTN, Stanbic, UBOS, GIZ, 
-                    Fair Project, UP Accelerator, Pulse Lab Kampala
+partners: [sunbird, muk, busitema, airqo, umeme, mtn, stanbic, ubos, giz, 
+           fairprj, upacc, plk]
 ---

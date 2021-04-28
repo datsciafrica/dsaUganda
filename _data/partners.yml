@@ -1,0 +1,36 @@
+sunbird:
+  name: Sunbird AI
+  image: /assets/img/partners/sunbird.png
+muk:
+  name: Makerere University
+  image: /assets/img/partners/muk.jpg
+busitema:
+  name: Busitema University
+  image: /assets/img/partners/busitema.png
+airqo:
+  name: AirQo
+  image: /assets/img/partners/airqo.png
+umeme:
+  name: Umeme
+  image: /assets/img/partners/umeme.png
+mtn:
+  name: MTN
+  image: /assets/img/partners/mtn.png
+stanbic:
+  name: Stanbic
+  image: /assets/img/partners/stanbic.png
+ubos:
+  name: UBOS
+  image: /assets/img/partners/ubos.jpeg
+giz:
+  name: GIZ
+  image: /assets/img/partners/giz.png
+fairprj:
+  name: Fair Project
+  image: /assets/img/partners/fairprj.png
+upacc:
+  name: UP Accelerator
+  image: /assets/img/partners/upacc.png
+plk:
+  name: Pulse Lab Kampala
+  image: /assets/img/partners/plklogo.png
