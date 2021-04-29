@@ -157,6 +157,5 @@ organizers:
         company: "GIZ - Uganda"
         twitter: "#"
         image: "/assets/img/people/imukiibi.jpg"
-partners: [sunbird, muk, busitema, airqo, umeme, mtn, stanbic, ubos, giz, 
-           fairprj, upacc, plk]
+partners: [sunbird, muk, busitema, airqo, giz, plk]
 ---
