@@ -50,7 +50,7 @@ speakers:
         title: "Agriculture"
         company: "Busitema, Makerere AI Lab"
         twitter: "#"
-        image: "/assets/img/people/godliver.jpeg."
+        image: "/assets/img/people/godliver.jpeg"
     -
         id: 4
         name: "Lillian Muyama"
