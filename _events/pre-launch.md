@@ -43,21 +43,21 @@ speakers:
         title: "Health"
         company: "Busitema, Makerere AI Lab"
         twitter: "#"
-        image: "https://media-exp1.licdn.com/dms/image/C4E03AQHHN-7HKpAhoA/profile-displayphoto-shrink_400_400/0/1547111826627?e=1625097600&v=beta&t=11bNNyAEe8E8pUQphkBkgxJW3kbKgduN6-P6OxxTaas"
+        image: "/assets/img/people/rose.jpeg"
     -
         id: 3
         name: "Godliver Owomugisha"
         title: "Agriculture"
         company: "Busitema, Makerere AI Lab"
         twitter: "#"
-        image: "https://media-exp1.licdn.com/dms/image/C5603AQFYSzIZfCCQKA/profile-displayphoto-shrink_400_400/0/1565796479913?e=1625097600&v=beta&t=WfIRkMIntVTxpA9uCjFsHPqJWx_fUJbAHv69gyc48sI"
+        image: "/assets/img/people/godliver.jpeg."
     -
         id: 4
         name: "Lillian Muyama"
         title: "Environment"
         company: "AirQo"
         twitter: "#"
-        image: "https://media-exp1.licdn.com/dms/image/C5603AQF4sPs1-TNFug/profile-displayphoto-shrink_400_400/0/1583583947955?e=1625097600&v=beta&t=MFOLO-JCI7xfugJsuVqGNjDvHrjxKaU9HasaxMILxl4"
+        image: "/assets/img/people/lillian.jpeg"
     -
         id: 5
         name: "Francis Ddamulira"
@@ -71,28 +71,22 @@ speakers:
         title: "Telecoms"
         company: "MTN"
         twitter: "https://twitter.com/wsenfuma?lang=en"
-        image: "https://twitter.com/wsenfuma/photo"
+        image: "/assets/img/people/senfuna.jpeg"
     -
         id: 7
         name: "Grace Ashabe"
         title: "Banking"
         company: "Stanbic"
         twitter: "#"
-        image: "https://media-exp1.licdn.com/dms/image/C4E03AQEuYeJleuzsMw/profile-displayphoto-shrink_400_400/0/1590485387385?e=1625097600&v=beta&t=0gVphTTKxUkP07Q7GqrvZSftfxTA89ZBGRuHDHEOUgU"
+        image: "/assets/img/people/grace.jpeg"
     -
         id: 8
-        name: "Ernest Mwebaze, PhD"
-        title: "Strategy lead"
-        company: "SunBird AI"
-        twitter: "https://twitter.com/emwebaze"
-        image: "/assets/img/people/emwebaze.jpg"
-    -
-        id: 9
-        name: "Joyce Nabende, PHD"
-        title: "Program Chair"
-        company: "Makerere AI Lab"
-        twitter: "https://twitter.com/j_nabende"
-        image: "/assets/img/people/jnabende.jpg"
+        name: "Martin Gordon Mubangizi"
+        title: "Data Innovation"
+        company: "Pulse Lab Kampala"
+        twitter: "https://twitter.com/mmubangizi15"
+        image: "/assets/img/people/mmubangizi.jpg"
+   
 organizers: 
     -
         id: 1
