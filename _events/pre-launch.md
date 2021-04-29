@@ -21,8 +21,7 @@ agenda:
         - "10:30 AM: Utility  Case Studies by Francis Ddamulira (Umeme)"
         - "10:35 AM: Telecoms Case Studies by William Senfuma (MTN)"
         - "10:40 AM: Banking Case Studies by Grace Ashabe (Stanbic)"
-        - "10:45 AM: Ivan Mukiibi (GIZ, FAIR Project)"
-        - "11:50 AM: Data Innovation by Martin Mubangizi (Pulse Lab Kampala)"
+        - "11:45 AM: Data Innovation by Martin Mubangizi (Pulse Lab Kampala)"
     5 minutes to grab a cup of coffee:
         - "11:00 AM: Question and Answer around the case studies."
         - "11:45 PM: Ask Me Anything - responding to questions directed to DSA Uganda coordination committee"
