@@ -3,31 +3,29 @@ title: Pre-launch
 name: Virtual Pre-launch
 chapter: DSA UG
 date: 2021-04-30
-time: 8:30 AM
+time: 10:00 AM
 timezone: EAT
 about: In collaboration with Academia, Governement agencies, Private sector and 
        UN agancies we are excited 💯 to bring you the pre-launch event of DSA Uganda Chapter 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 agenda: 
     Opening: 
-        - "9:30 AM: Prayer and Introductions"
+        - "10:00 AM: Prayer and Introductions"
     Background on DSA Uganda:
-        - "10:00 AM: Background on DSA by Ernest Mwebaze"
-        - "10:05 AM: Background on DSA by Joyce Nabende"
+        - "10:05 AM: Background on DSA by Ernest Mwebaze"
+        - "10:10 AM: Background on DSA by Joyce Nabende"
     Data Science Case Studies in Uganda: 
-        - "10:10 AM: Health Case Studies by Rose Nakasi"
-        - "10:15 AM: Agriculture Case Studies by Godliver Owomugisha"
-        - "10:20 AM: Environment Case Studies by Lillian Muyama"
-        - "10:25 AM: Utility  Case Studies by Francis (Umeme)"
-        - "10:30 AM: Telecoms Case Studies by William Senfuma (MTN)"
-        - "10:40 AM: Banking Case Studies by TBC (Stanbic)"
-        - "10:50 AM: Statistics Case Studies by TBC (UBOS)"
-        - "10:55 AM: TBC (IZ, FAIR Project)"
-        - "11:10 AM: TBC (UP Accelerator)"
-        - "11:15 AM: TBC by Martin Mubangizi (Pulse Lab Kampala)"
-    Break out rooms by theme (5 minutes to grab a cup of coffee and join rooms): 
-        - "11:25 AM: Data, Applications, Policy, Opportunities"
-        - "11:45 PM: Ask Me Anything Session by Engineer Bainomugisha"
+        - "10:15 AM: Health Case Studies by Rose Nakasi"
+        - "10:20 AM: Agriculture Case Studies by Godliver Owomugisha"
+        - "10:25 AM: Environment Case Studies by Lillian Muyama"
+        - "10:30 AM: Utility  Case Studies by Francis Ddamulira (Umeme)"
+        - "10:35 AM: Telecoms Case Studies by William Senfuma (MTN)"
+        - "10:40 AM: Banking Case Studies by Grace Ashabe (Stanbic)"
+        - "10:45 AM: Ivan Mukiibi (GIZ, FAIR Project)"
+        - "11:50 AM: Data Innovation by Martin Mubangizi (Pulse Lab Kampala)"
+    5 minutes to grab a cup of coffee!
+        - "11:00 AM: Question and Answer around the case studies."
+        - "11:45 PM: Ask Me Anything - responding to questions directed to DSA Uganda coordination committee"
         - "12:00 PM: Closing"
 speakers: 
     -
