@@ -23,7 +23,7 @@ agenda:
         - "10:40 AM: Banking Case Studies by Grace Ashabe (Stanbic)"
         - "10:45 AM: Ivan Mukiibi (GIZ, FAIR Project)"
         - "11:50 AM: Data Innovation by Martin Mubangizi (Pulse Lab Kampala)"
-    5 minutes to grab a cup of coffee!
+    5 minutes to grab a cup of coffee:
         - "11:00 AM: Question and Answer around the case studies."
         - "11:45 PM: Ask Me Anything - responding to questions directed to DSA Uganda coordination committee"
         - "12:00 PM: Closing"
