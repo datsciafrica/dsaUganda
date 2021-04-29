@@ -28,13 +28,6 @@ agenda:
         - "12:00 PM: Closing"
 speakers: 
     -
-        id: 1
-        name: "Mukiibi Ivan"
-        title: "Strategic Partner"
-        company: "GIZ - Uganda"
-        twitter: "#"
-        image: "/assets/img/people/imukiibi.jpg"
-    -
         id: 2
         name: "Rose Nakasi"
         title: "Health"
