@@ -34435,8 +34435,9 @@ div#upcoming-events.container.section {
     min-height: 30px;
     overflow: visible
 }
- 
-    .presentations th td{
+
+.presentations th td{
         padding: 10px;
         margin-left: 10px;
+        border: 1px solid red;
     }
