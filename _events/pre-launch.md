@@ -1,6 +1,6 @@
 ---
 title: Pre-launch
-name: Virtual Pre-launch
+name: 1/3 Virtual Pre-launch
 chapter: DSA UG
 date: 2021-04-30
 time: 10:00 AM
@@ -9,23 +9,133 @@ about: In collaboration with Academia, Governement agencies, Private sector and
        UN agancies we are excited 💯 to bring you the pre-launch event of DSA Uganda Chapter 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 agenda: 
-    Opening: 
-        - "10:00 AM: Prayer and Introductions"
-    Background on DSA Uganda:
-        - "10:05 AM: Background on DSA by Ernest Mwebaze"
-        - "10:10 AM: Background on DSA by Joyce Nabende"
-    Data Science Case Studies in Uganda: 
-        - "10:15 AM: Health Case Studies by Rose Nakasi"
-        - "10:20 AM: Agriculture Case Studies by Godliver Owomugisha"
-        - "10:25 AM: Environment Case Studies by Lillian Muyama"
-        - "10:30 AM: Utility  Case Studies by Francis Ddamulira (Umeme)"
-        - "10:35 AM: Telecoms Case Studies by William Senfuma (MTN)"
-        - "10:40 AM: Banking Case Studies by Grace Ashabe (Stanbic)"
-        - "11:45 AM: Data Innovation by Martin Mubangizi (Pulse Lab Kampala)"
-    5 minutes to grab a cup of coffee:
-        - "11:00 AM: Question and Answer around the case studies."
-        - "11:45 PM: Ask Me Anything - responding to questions directed to DSA Uganda coordination committee"
-        - "12:00 PM: Closing"
+- title: "Welcoming and setting of ground rules"
+  start: "10:00"
+  end: "10:05"
+  speaker: "Martin Mubangizi and Mourine Amutorine" 
+  organisation: "Pulse Lab Kampala"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "NDPIII"
+  start: "10:05"
+  end: "10:15"
+  speaker: "Deborah Ayebare"
+  organisation: "National Planning Authority"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Background on DSA"
+  start: "10:15"
+  end: "10:20"
+  speaker: "Ernest Mwebaze"
+  organisation: "Sunbird AI"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Background on DSA Uganda"
+  start: "10:20"
+  end: "10:25"
+  speaker: "Joyce Nabende"
+  organisation: "Makerere University"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Health Case Studies"
+  start: "10:25"
+  end: "10:30"
+  speaker: "Rose Nakasi"
+  organisation: "Bustema University & Makerere AI Lab"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Agriculture Case Studies"
+  start: "10:30"
+  end: "10:35"
+  speaker: "Godliver Owomugisha"
+  organisation: "Bustema University & Makerere AI Lab"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Environment Case Studies"
+  start: "10:35"
+  end: "10:40"
+  speaker: "Lillian Muyama"
+  organisation: "AirQo"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Utility  Case Studies"
+  start: "10:35"
+  end: "10:40"
+  speaker: "Francis Ddamulira"
+  organisation: "Umeme"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Telecoms Case Studies"
+  start: "10:40"
+  end: "10:45"
+  speaker: "William Senfuma"
+  organisation: "MTN Uganda"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Banking Case Studies"
+  start: "10:45"
+  end: "10:55"
+  speaker: "Grace Ashabe"
+  organisation: "Stanbic Bank Uganda"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Data Innovation for Development and Humanitarian Action"
+  start: "10:55"
+  end: "11:00"
+  speaker: "Martin Mubangizi"
+  organisation: "Pulse Lab Kampala"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "5 Minutes to grab a cup of coffee"
+  start: "11:00"
+  end: "11:05"
+  speaker: 
+  organisation: 
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Question and Answer around the case studies" 
+  start: "11:05"
+  end: "11:45"
+  speaker: "Martin Mubangizi and Morine Amutorine"
+  organisation: "Pulse Lab Kampala"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "AMA questions about DSA Uganda"
+  start: "11:45"
+  end: "12:00"
+  speaker: "Martin Mubangizi"
+  organisation: "Pulse Lab Kampala"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+  
 speakers: 
     -
         id: 2

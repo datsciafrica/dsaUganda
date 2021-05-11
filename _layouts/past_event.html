@@ -39,30 +39,7 @@ layout: default
     <div class="description-container unpurchased-virtual-no-info ">
         <div class="container">
             <h2 class="general-h1 event-description--title">About this event</h2>
-            
-            
-            <table>
-	      <thead>
-		<tr>
-		  <th><h4 class="text-center">Time</h4></th>
-		  <th><h4 class="text-center">Presentation</h4></th>
-		  <th></th>
-		</tr>
-	      </thead>
-	      <tbody>
-              
-		{% for talk in page.agenda %}
-              <!--<pre> {{ talk | inspect}} </pre>-->
-		{% include listtalk.html %}
-		{% endfor %}
-	      </tbody>	      
-            </table>
-            
-            
-            
-            
-            
-          <!--  <div class="event-description general-body">
+            <div class="event-description general-body">
                 <h2 class="center">📄 <b>Agenda (all times are in {{ page.timezone }})</b></h2>
                 {% if page.agenda %}
                     {% for topic in page.agenda %}
@@ -74,7 +51,7 @@ layout: default
                 {% else %}
                 <p class="center">No agenda available</p>
                 {% endif %}
-            </div> -->
+            </div>
         </div>
     </div>
     <div class="chapter has-people-cards-v2">
