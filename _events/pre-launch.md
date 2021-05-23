@@ -25,7 +25,7 @@ agenda:
   organisation: "National Planning Authority"
   youtube:
   abstract:
-  slides: "../assets/DoreenNPASkillsQualificationGap13Pre-launch.pdf"
+  slides: "https://drive.google.com/file/d/1EKUCspW5tUHFqdq34cAwfQDnbkI83J0i/view?usp=sharing"
   ipynb:
 - title: "Background on DSA"
   start: "10:15"
@@ -52,7 +52,7 @@ agenda:
   organisation: "Bustema University & Makerere AI Lab"
   youtube:
   abstract:
-  slides: "../assets/RoseMalariaDiagnosis13Pre-Launch.pdf"
+  slides: "https://drive.google.com/file/d/1d72BooSGE4JfF1iU34fu-8d5dwT0MYD7/view?usp=sharing"
   ipynb:
 - title: "Artifical intelligence in Agriculture"
   start: "10:30"
@@ -61,7 +61,7 @@ agenda:
   organisation: "Bustema University & Makerere AI Lab"
   youtube:
   abstract:
-  slides: "../assets/GodliverMakerereAILab13Pre-launch.pdf"
+  slides: "https://drive.google.com/file/d/1d5ENtktLYBux0aNwC0webVOJk77uncJH/view?usp=sharing"
   ipynb:
 - title: "Environment Case Studies"
   start: "10:35"
@@ -70,7 +70,7 @@ agenda:
   organisation: "AirQo"
   youtube:
   abstract:
-  slides: "../assets/LilianAirQo13Pre-launch.pptx"
+  slides: "https://drive.google.com/file/d/1ZplkTztne8FHNhcJMXVed_16dXPWVL26/view?usp=sharing"
   ipynb:
 - title: "Utility Case Studies"
   start: "10:35"
@@ -88,7 +88,7 @@ agenda:
   organisation: "MTN Uganda"
   youtube:
   abstract:
-  slides: "../assets/William13Pre-LaunchDeviceFinancing.pdf"
+  slides: "https://drive.google.com/file/d/1BtkDxvlMHrKQbE8edy-cSxZZLXMmMA51/view?usp=sharing"
   ipynb:
 - title: "Banking Case Studies"
   start: "10:45"
@@ -97,7 +97,7 @@ agenda:
   organisation: "Stanbic Bank Uganda"
   youtube:
   abstract:
-  slides:
+  slides: "https://drive.google.com/file/d/1acAnshSP8F1YzGNbOeeXT_q-q7dD9Ybb/view?usp=sharing" 
   ipynb:
 - title: "Data Innovation for Development and Humanitarian Action"
   start: "10:55"
@@ -142,13 +142,13 @@ speakers:
     title: "Data Science Africa"
     company: "Sunbird AI"
     twitter: "#"
-    image: ""
+    image: "/assets/img/people/emwebaze.jpg"
   - id: 2
     name: "Joyce Nabende"
     title: "DSA Uganda"
     company: "Makerere AI Lab"
     twitter: "#"
-    image: ""
+    image: "/assets/img/people/jnabende.jpg"
   - id: 3
     name: "Deborah Ayebare"
     title: "Man Power and Skilling"
@@ -161,18 +161,21 @@ speakers:
     company: "Busitema, Makerere AI Lab"
     twitter: "#"
     image: "/assets/img/people/rose.jpeg"
+    bio: "Rose Nakasi is a Lecturer at Busitema University, a PhD student at Makerere University  as well as a Researcher at Makerere AI Lab. My research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for improved health. I have majorly worked on automated microscopy diagnosis and prediction of Malaria in low resourced but highly endemic settings."
   - id: 5
     name: "Godliver Owomugisha"
     title: "Agriculture"
     company: "Busitema, Makerere AI Lab"
     twitter: "#"
     image: "/assets/img/people/godliver.jpeg"
+    bio: "Godliver Owomugisha is a lecturer at the Faculty of Engineering, Busitema University. She is also researcher and  a former PhD student at the Data Science & AI Lab, Makerere University under a project entitled: “Automated mobile survey technology and spatial modeling of viral cassava diseases” Her PhD thesis titled “Computational intelligence & modeling of crop disease data in Africa.” can be summarised into these areas: (i). Developed algorithms to auto-diagnose diseases in crops using an image dataset captured with a mobile phone camera. (ii). Investigated on the diagnosis of disease in crops before they become symptomatic by use of spectrograms. (ii). Investigated on the development of a low-cost 3-D printed smartphone add-on spectrometer that can be used to diagnose crop diseases in the fields. Her research work has won her a couple of awards including; Best Engineering Thesis Award 2020, University of Groningen and Research Grant from Data Science Africa, 2020."
   - id: 6
     name: "Lillian Muyama"
     title: "Environment"
     company: "AirQo"
     twitter: "#"
     image: "/assets/img/people/lillian.jpeg"
+    bio: "Lillian holds bachelor's and master's degrees in computer science from Makerere University. She has over three years' experience in the data science field and is passionate about machine learning and how it can be used to solve real world problems that have a direct impact on society."
   - id: 7
     name: "Francis Ddamulira"
     title: "Utility "
@@ -186,6 +189,7 @@ speakers:
     company: "MTN"
     twitter: "https://twitter.com/wsenfuma?lang=en"
     image: "/assets/img/people/senfuna.jpeg"
+    bio: "William is a certified Data Scientist with over 8 years of combined technical and senior management experience. He previously worked at Tiaxa as a Senior Data Scientist where he was part of the team that designed and implemented credit scoring models for micro-lending to bottom of the pyramid telecom customers. He worked at MTN Uganda as Head of Analytics and Pricing under Mobile Finance Services where he designed and implemented advanced analytics and credit scoring solutions for micro-lending and device financing. Currently, he is the Head of Big Data and Analytics at MTN Uganda where he is currently leading a team implementing the company's big data strategy under the Technology division. William holds a Bachelor of Science degree in Computer Science and Math from the Makerere University in Uganda and a Master of Science in Computer Science from Makerere University in Uganda. He has certifications in Software Engineering from Makerere University, Machine Learning from Stanford University, Big Data Hadoop Foundation from IBM and Data Science & Big Data from UPX Academy. He is also a member of Data Science Africa and Makerere AI Lab."
   - id: 9
     name: "Grace Ashabe"
     title: "Banking"

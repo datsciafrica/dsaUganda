@@ -38,7 +38,7 @@ layout: default
     </div>
     <div class="description-container unpurchased-virtual-no-info ">
         <div class="container">
-            <h2 class="general-h1 event-description--title">About this event</h2>
+            <h2 class="general-h1 event-description--title">Event Schedule</h2>
             
             
             <table class="presentations">
@@ -102,7 +102,59 @@ layout: default
                     <p> {{speaker.bio}}</p>
                         {% endif %} -->
                     </div>
-                    <a class="btn btn-secondary" href="#">View Profile</a>
+<!--                    <a class="btn btn-secondary" href="#">View Profile</a>-->
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#exampleModal{{ speaker.id }}">
+  View Profile
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal{{ speaker.id }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">{{ speaker.name }}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+                    <center>
+                    <img itemprop="image"
+                        src="{{site.baseurl}}{{ speaker.image }}"
+                        alt="{{ speaker.name}}" 
+                        onerror="this.onerror = null;
+                                 this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';" 
+                        class="people-card--avatar">
+                    <div class="people-card--text">
+                        <h2 itemprop="name" class="people-card--name">{{ speaker.name }}</h2>
+                        <p class="people-card--title">{{ speaker.title }}</p>
+                        <p class="people-card--company">{{ speaker.company }}</p>
+                        <!--{%if speaker.bio %}
+                    <p> {{speaker.bio}}</p>
+                        {% endif %} -->
+                    </div>
+<!--
+                    <span><strong>Skills: </strong></span>
+                        <span class="label label-warning">HTML5/CSS</span>
+                        <span class="label label-info">Adobe CS 5.5</span>
+                        <span class="label label-info">Microsoft Office</span>
+                        <span class="label label-success">Windows XP, Vista, 7</span>
+-->
+                    </center>
+                    <hr>
+                    <center>
+                    <p class="text-left"><strong>Bio: </strong><br>
+                        {{ speaker.bio }}</p>
+                    <br>
+                    </center>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
                 </li>
                     {% endfor %}
                 {% else %}
