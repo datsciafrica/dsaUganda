@@ -83,7 +83,7 @@ agenda:
 - title: "TBD"
   start: "10:40"
   end: "10:45"
-  speaker: "Francis Muwonge"
+  speaker: "Francis Lubanga"
   organisation: "FINCA International"
   youtube:
   abstract:
@@ -156,7 +156,7 @@ speakers:
     title: "Founder & CEO"
     company: "ClinicPesa"
     twitter: "#"
-    image: ""
+    image: "/assets/img/people/Onyancha.jpg"
     bio: "Onyancha is a passionate Entrepreneur, Technology Expert and a Software Engineer by profession. He is the CEO of clinicPesa a platform established to provide a wider access to healthcare financing to the innumerable uninsured members of African Communities with a mission to empower `every person and organisation to save lives and do more`.  He has steered big partnerships that have seen the firms growth plan actualize even faster. He is also currently an MIT D-LAB fellow and 9 years ago, he Co-Founded and Managed creativeDNA Uganda an information technology company that worked with Top Media companies such as National Media Group amongst others. Onyancha has show-cased the turning of problematic Ideas to sustainable businesses, while moving beyond limitations and exceptionally designing solutions around problems in new ways. In the field of writing and authoring, he has previously been an author and instructor with Packt Publishers in the United Kingdom as well as consulted for Multinationals like Equity Bank, Google among others."
   - id: 7
     name: "Gilbert Beyamba"
@@ -170,7 +170,7 @@ speakers:
     title: "Manager Governance and Risk"
     company: "National IT Authority Uganda"
     twitter: "#"
-    image: ""
+    image: "/assets/img/people/Mugabi.jpg"
     bio: "Emmanuel Mugabi is an IT professional with expertise in ICT Governance, Advisory, Privacy and Security. He currently works at the National Information Technology Authority – Uganda as the Senior Manager Governance and Risk where he is instrumental in driving the implementation of the National Information Security Framework. He holds a Master of Science Degree in ICT Management, Policy & Architectural Design, is a Certified Data Privacy Solutions Engineer (CDPSE), Certified Information Security Manager (CISM), Certified Information Systems Auditor, ISO/IEC 27001 Senior Lead Implementer and EC Council Incident Handler. He is also an active member of the ISACA Kampala Chapter."
   - id: 9
     name: "Solomon Opio"
@@ -180,11 +180,12 @@ speakers:
     image: "/assets/img/people/OpioSolomon.jpeg" 
     bio: "I am the Google Cloud Developer Community Lead and Technology Community Lead at the Innovation Village. I hold a Bachelor's degree in Software Engineering from Makerere University. I have led the Google Developer Groups for over 5 years now, focussing on helping developers, DevOps, IT pros and Architects, learn Google technologies, other products and platforms. Currently focussing on Cloud and Data Science. At the Innovation Village, I focus on supporting the developer communities in Uganda through training, mentorship and job linkages."
   - id: 10
-    name: "Francis Muwonge"
+    name: "Francis Lubanga"
     title: "Regional Business Data Analyst"
     company: "FINCA International"
-    twitter: "#"
-    image: ""    
+    twitter: "https://twitter.com/lubangf"
+    image: "/assets/img/people/FrancisLubanga.png"
+    bio: "Francis has broad experience in the interpretation, use and application of information contained within an organization's data to inform a range of business improvement activities, particularly those related to the implementation, design, development, enhancement of business processes, systems, product development, and decision making. Additionally, he has assisted organizations, particularly financial institutions, fintechs, NGOs, PAYGo and telecommunication companies, perform the following; (1) Data Engineering, (2) Data Science, (3) Analytics & Reporting, (4) Software Development | Tally ERP9 & Prime | QuickBooks Development, (5) Process & Business Analysis, (6) Project Management, (7) Data Warehouse Design & Development. I have broad experience in the interpretation, use and application of information contained within an organization's data to inform a range of business improvement activities, particularly those involved in the implementation, design, development, enhancement and maintenance of business systems and business processes."
   - id: 11
     name: "Loic Juillard"
     title: "VP, Research and Development"
