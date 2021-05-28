@@ -17,80 +17,71 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "TBD"
+- title: "Data Science Africa: Building an African data science community together"
   start: "10:05"
   end: "10:15"
   speaker: "Ciira Maina"
   organisation: "Data Science Africa"
   youtube:
   abstract:
-  slides: ""
+  slides: "https://drive.google.com/file/d/1aKh_cjHNhbq6Yw_1BBQTWLFORncFqF3G/view?usp=sharing"
   ipynb:
-- title: "TBD"
+- title: "Artificial Intelligence Opportunities in Uganda and the Region"
   start: "10:15"
   end: "10:25"
   speaker: "Julius Torach"
   organisation: "Mininstry of ICT and National Guidance"
   youtube:
   abstract:
-  slides:
+  slides: "https://drive.google.com/file/d/1S0W5NhUz27s3LDmgGIVeCjz_ZIPXYzWh/view?usp=sharing"
   ipynb:
 - title: "TBD"
   start: "10:25"
   end: "10:35"
-  speaker: "Chris lukolyo"
-  organisation: "UN Capital Development Fund"
-  youtube:
-  abstract:
-  slides:
-  ipynb:
-- title: "TBD"
-  start: "10:35"
-  end: "10:45"
   speaker: "Eng. Chrispinus Onyancha"
   organisation: "ClinicPesa"
   youtube:
   abstract:
-  slides: ""
+  slides: 
   ipynb:
-- title: "TBD"
-  start: "10:45"
-  end: "10:55"
+- title: "Opportunities in, for and around Data Science in  Uganda"
+  start: "10:35"
+  end: "10:45"
   speaker: "Gilbert Beyamba"
   organisation: "Policy"
   youtube:
   abstract:
-  slides: ""
+  slides: "https://drive.google.com/file/d/1EWoe69yCiR5weUMR6wb1trJkTw8AITrm/view?usp=sharing"
   ipynb:
-- title: "TBD"
-  start: "10:55"
-  end: "11:05"
+- title: "Balancing Privacy & Data Science"
+  start: "10:45"
+  end: "10:55"
   speaker: "Emmanuel Mugabi"
   organisation: "National IT Authority Uganda"
   youtube:
   abstract:
-  slides: ""
+  slides: "https://drive.google.com/file/d/1VGMGMuJsLoRV4Umu0VcULEwJMksZ9Nrc/view?usp=sharing"
   ipynb:
-- title: "TBD"
-  start: "11:05"
-  end: "11:15"
+- title: "Harnessing Data Science Opportunities through the Cloud"
+  start: "10:55"
+  end: "11:05"
   speaker: "Solomon Opio"
   organisation: "Innovation Village"
   youtube:
   abstract:
-  slides:
+  slides: "https://drive.google.com/file/d/1G_iUT4112gsXOaVE8E0iYmzn2MeR-FTK/view?usp=sharing"
   ipynb:
-- title: "TBD"
-  start: "11:15"
-  end: "11:25"
+- title: "Data Science in Banking"
+  start: "11:05"
+  end: "11:15"
   speaker: "Francis Lubanga"
   organisation: "FINCA International"
   youtube:
   abstract:
-  slides: ""
+  slides: "https://drive.google.com/file/d/1X5WQ3F9na-9agzpYW_lDfVj_1-yILixG/view?usp=sharing"
   ipynb:
 - title: "Question and Answer around the case studies" 
-  start: "11:25"
+  start: "11:15"
   end: "11:45"
   speaker: "Joyce Nabende and Lillian Muyama" 
   organisation: "Makerere AI Lab and AirQo"
@@ -135,54 +126,43 @@ speakers:
     title: "Commissioner Information Technology"
     company: "Mininstry of ICT and National Guidance"
     twitter: "#"
-    image: "/assets/img/people/JuliusTorach.jpg" 
+    image: "/assets/img/people/JuliusTorach.jpg"
+    bio: "Mr. Julius Torach is the Commissioner for Information Technology/E-Services at the Ministry of ICT and National Guidance in Uganda, spearheading Government efforts in eGovernment, eCommerce and other electronic transactions in support of National development. He is a Member of the Expert National Task Force on the Fourth Industrial Revolution (4IR). He is also a Board Member of the National Information Technology Authority – Uganda (NITA-U). In the region, he is the Vice Chairperson of the AI Working Group at the African Union, a Member of East African Sub-Regional Forum on Artificial Intelligence, and a Member of the Uganda IoT & AI Challenge 2021 Steering Committee supported by IEEE Technology and Engineering Management Society (IEEE TEMS). Furthermore, he is a Member of World Economic Forum Global Council on Agile Governance. He was also a Member of AI Strategy Blueprint Working Group under Smart Africa. He previously worked as the Director for eGovernment Services at NITA-U. He has also served in various capacities in the academia, private sector and with the civil society. \n Mr. Torach holds a Masters degree in Business Administration with Specialism in Strategic Planning (Edinburgh), a Graduate Diploma in ICT Leadership and the Knowledge Society (Dublin), a Masters Degree in Computer Science (Makerere), a Postgraduate Diploma in Computer Science (Makerere), a Diploma in Law (Law Development Centre) and a Bachelors Degree in Information Science (Makerere). He is a Microsoft Certified Systems Engineer (MCSE), Microsoft Certified Azure Fundamentals, a Certified Public Private Partnership Professional (PPP) and holds several industry certifications from ITIL, CompTIA and CISCO."
   - id: 5
-    name: "Chris lukolyo"
-    title: "Digital Country Lead"
-    company: "UN Capital Development Fund"
-    twitter: "#"
-    image: "/assets/img/people/ChrisLukolyo.jpg"    
-  - id: 6
     name: "Eng. Chrispinus Onyancha"
     title: "Founder & CEO"
     company: "ClinicPesa"
     twitter: "#"
     image: "/assets/img/people/Onyancha.jpg"
     bio: "Onyancha is a passionate Entrepreneur, Technology Expert and a Software Engineer by profession. He is the CEO of clinicPesa a platform established to provide a wider access to healthcare financing to the innumerable uninsured members of African Communities with a mission to empower `every person and organisation to save lives and do more`.  He has steered big partnerships that have seen the firms growth plan actualize even faster. He is also currently an MIT D-LAB fellow and 9 years ago, he Co-Founded and Managed creativeDNA Uganda an information technology company that worked with Top Media companies such as National Media Group amongst others. Onyancha has show-cased the turning of problematic Ideas to sustainable businesses, while moving beyond limitations and exceptionally designing solutions around problems in new ways. In the field of writing and authoring, he has previously been an author and instructor with Packt Publishers in the United Kingdom as well as consulted for Multinationals like Equity Bank, Google among others."
-  - id: 7
+  - id: 6
     name: "Gilbert Beyamba"
     title: "Head of Programs"
     company: "Policy"
     twitter: "#"
     image: "/assets/img/people/GilbertBeyamba.jpg"
     bio: "Gilbert Bayemba is the head of Programs at Pollicy, a civic technology organisation based in Kampala, Pollicy works with the government and civil society to effectively use data and technology to improve public service delivery. Where his leadership assists the programs team in meeting the goals of the various business campaigns. Gilbert has ten years of executive leadership experience, with a proven track record of strategic management, policy and partnership and implementation, and aligning human resources with the organization's culture, processes, and business priorities. Since his early days as VP of programming at Unreasonable East Africa (now SHONA) and the Mara Foundation, and most recently at Reach A Hand Uganda, where he has played a critical role in the organization's rapid expansion and development since joining the team in 2014. He is currently pursuing an IMBA at Beijing's University of International Business and Economics."
-  - id: 8
+  - id: 7
     name: "Emmanuel Mugabi"
     title: "Manager Governance and Risk"
     company: "National IT Authority Uganda"
     twitter: "#"
     image: "/assets/img/people/Mugabi.jpg"
     bio: "Emmanuel Mugabi is an IT professional with expertise in ICT Governance, Advisory, Privacy and Security. He currently works at the National Information Technology Authority – Uganda as the Senior Manager Governance and Risk where he is instrumental in driving the implementation of the National Information Security Framework. He holds a Master of Science Degree in ICT Management, Policy & Architectural Design, is a Certified Data Privacy Solutions Engineer (CDPSE), Certified Information Security Manager (CISM), Certified Information Systems Auditor, ISO/IEC 27001 Senior Lead Implementer and EC Council Incident Handler. He is also an active member of the ISACA Kampala Chapter."
-  - id: 9
+  - id: 8
     name: "Solomon Opio"
     title: "Google Cloud Developer Community Lead, Technology Community lead"
     company: "Innovation Village"
     twitter: "#"
     image: "/assets/img/people/OpioSolomon.jpeg" 
     bio: "I am the Google Cloud Developer Community Lead and Technology Community Lead at the Innovation Village. I hold a Bachelor's degree in Software Engineering from Makerere University. I have led the Google Developer Groups for over 5 years now, focussing on helping developers, DevOps, IT pros and Architects, learn Google technologies, other products and platforms. Currently focussing on Cloud and Data Science. At the Innovation Village, I focus on supporting the developer communities in Uganda through training, mentorship and job linkages."
-  - id: 10
+  - id: 9
     name: "Francis Lubanga"
     title: "Regional Business Data Analyst"
     company: "FINCA International"
     twitter: "https://twitter.com/lubangf"
     image: "/assets/img/people/FrancisLubanga.png"
-    bio: "Francis has broad experience in the interpretation, use and application of information contained within an organization's data to inform a range of business improvement activities, particularly those related to the implementation, design, development, enhancement of business processes, systems, product development, and decision making. Additionally, he has assisted organizations, particularly financial institutions, fintechs, NGOs, PAYGo and telecommunication companies, perform the following; (1) Data Engineering, (2) Data Science, (3) Analytics & Reporting, (4) Software Development | Tally ERP9 & Prime | QuickBooks Development, (5) Process & Business Analysis, (6) Project Management, (7) Data Warehouse Design & Development. I have broad experience in the interpretation, use and application of information contained within an organization's data to inform a range of business improvement activities, particularly those involved in the implementation, design, development, enhancement and maintenance of business systems and business processes."
-  - id: 11
-    name: "Loic Juillard"
-    title: "VP, Research and Development"
-    company: "Sama"
-    twitter: "#"
-    image: ""    
+    bio: "Francis has broad experience in the interpretation, use and application of information contained within an organization's data to inform a range of business improvement activities, particularly those related to the implementation, design, development, enhancement of business processes, systems, product development, and decision making. Additionally, he has assisted organizations, particularly financial institutions, fintechs, NGOs, PAYGo and telecommunication companies, perform the following; (1) Data Engineering, (2) Data Science, (3) Analytics & Reporting, (4) Software Development | Tally ERP9 & Prime | QuickBooks Development, (5) Process & Business Analysis, (6) Project Management, (7) Data Warehouse Design & Development. I have broad experience in the interpretation, use and application of information contained within an organization's data to inform a range of business improvement activities, particularly those involved in the implementation, design, development, enhancement and maintenance of business systems and business processes." 
   
 organizers: 
   - id: 1
