@@ -48,7 +48,7 @@ agenda:
   start: "10:35"
   end: "10:45"
   speaker: "Gilbert Beyamba"
-  organisation: "Policy"
+  organisation: "Pollicy"
   youtube:
   abstract:
   slides: "https://drive.google.com/file/d/1EWoe69yCiR5weUMR6wb1trJkTw8AITrm/view?usp=sharing"
@@ -114,6 +114,7 @@ speakers:
     company: "AirQo"
     twitter: "#"
     image: "/assets/img/people/lillian.jpeg"
+    bio: "Lillian holds bachelor's and master's degrees in computer science from Makerere University. She has over three years' experience in the data science field and is passionate about machine learning and how it can be used to solve real world problems that have a direct impact on society."
   - id: 3
     name: "Ciira Maina"
     title: "Chairman"
@@ -138,7 +139,7 @@ speakers:
   - id: 6
     name: "Gilbert Beyamba"
     title: "Head of Programs"
-    company: "Policy"
+    company: "Pollicy"
     twitter: "#"
     image: "/assets/img/people/GilbertBeyamba.jpg"
     bio: "Gilbert Bayemba is the head of Programs at Pollicy, a civic technology organisation based in Kampala, Pollicy works with the government and civil society to effectively use data and technology to improve public service delivery. Where his leadership assists the programs team in meeting the goals of the various business campaigns. Gilbert has ten years of executive leadership experience, with a proven track record of strategic management, policy and partnership and implementation, and aligning human resources with the organization's culture, processes, and business priorities. Since his early days as VP of programming at Unreasonable East Africa (now SHONA) and the Mara Foundation, and most recently at Reach A Hand Uganda, where he has played a critical role in the organization's rapid expansion and development since joining the team in 2014. He is currently pursuing an IMBA at Beijing's University of International Business and Economics."
