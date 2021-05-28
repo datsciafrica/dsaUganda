@@ -28,7 +28,7 @@ agenda:
   ipynb:
 - title: "TBD"
   start: "10:15"
-  end: "10:20"
+  end: "10:25"
   speaker: "Julius Torach"
   organisation: "Mininstry of ICT and National Guidance"
   youtube:
@@ -36,8 +36,8 @@ agenda:
   slides:
   ipynb:
 - title: "TBD"
-  start: "10:20"
-  end: "10:25"
+  start: "10:25"
+  end: "10:35"
   speaker: "Chris lukolyo"
   organisation: "UN Capital Development Fund"
   youtube:
@@ -45,8 +45,8 @@ agenda:
   slides:
   ipynb:
 - title: "TBD"
-  start: "10:25"
-  end: "10:30"
+  start: "10:35"
+  end: "10:45"
   speaker: "Eng. Chrispinus Onyancha"
   organisation: "ClinicPesa"
   youtube:
@@ -54,8 +54,8 @@ agenda:
   slides: ""
   ipynb:
 - title: "TBD"
-  start: "10:30"
-  end: "10:35"
+  start: "10:45"
+  end: "10:55"
   speaker: "Gilbert Beyamba"
   organisation: "Policy"
   youtube:
@@ -63,8 +63,8 @@ agenda:
   slides: ""
   ipynb:
 - title: "TBD"
-  start: "10:35"
-  end: "10:40"
+  start: "10:55"
+  end: "11:05"
   speaker: "Emmanuel Mugabi"
   organisation: "National IT Authority Uganda"
   youtube:
@@ -72,8 +72,8 @@ agenda:
   slides: ""
   ipynb:
 - title: "TBD"
-  start: "10:35"
-  end: "10:40"
+  start: "11:05"
+  end: "11:15"
   speaker: "Solomon Opio"
   organisation: "Innovation Village"
   youtube:
@@ -81,25 +81,16 @@ agenda:
   slides:
   ipynb:
 - title: "TBD"
-  start: "10:40"
-  end: "10:45"
+  start: "11:15"
+  end: "11:25"
   speaker: "Francis Lubanga"
   organisation: "FINCA International"
   youtube:
   abstract:
   slides: ""
   ipynb:
-- title: "5 Minutes to grab a cup of coffee"
-  start: "11:00"
-  end: "11:05"
-  speaker: 
-  organisation: 
-  youtube:
-  abstract:
-  slides:
-  ipynb:
 - title: "Question and Answer around the case studies" 
-  start: "11:05"
+  start: "11:25"
   end: "11:45"
   speaker: "Joyce Nabende and Lillian Muyama" 
   organisation: "Makerere AI Lab and AirQo"
