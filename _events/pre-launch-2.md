@@ -128,7 +128,7 @@ speakers:
     title: "Chairman"
     company: "Data Science Africa"
     twitter: "#"
-    image: "/assets/img/people/ciira.jpg"
+    image: "/assets/img/people/Ciira.jpg"
     bio: "Ciira Maina graduated from the University of Nairobi, Kenya with a Bsc. degree in Electrical Engineering in 2007 and with a Ph.D. from Drexel University in Philadelphia, USA in September 2011. Between October 2011 and August 2013 he was a postdoctoral researcher in machine learning and computational Biology at the University of Sheffield. Since September 2013 he has been a Lecturer in Electrical Engineering at Dedan Kimathi University of Technology in Nyeri, Kenya. He is a member of the organizing committee for Data Science Africa which aims to improve knowledge of machine learning in Africa and served as program chair for DSA 2017 and general chair for DSA 2015 and 2018. He is currently involved in several projects aimed at applying machine learning and the internet of things to problems relevant in the African context."
   - id: 4
     name: "Julius Torach"
@@ -249,5 +249,4 @@ organizers:
     image: "/assets/img/people/imukiibi.jpg"
 partners: [sunbird, plk, airqo, giz, muk, busitema]
 ---
-
 
