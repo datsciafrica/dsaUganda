@@ -10,7 +10,7 @@ agenda:
   start: "16:00"
   end: "16:05"
   speaker: "Dr. Ernest Mwebaze and Claire Babirye" 
-  organisation: "Makerere AI Lab and AirQo"
+  organisation: "SunBird AI and Makerere AI Lab"
   youtube:
   abstract:
   slides:
@@ -117,8 +117,8 @@ agenda:
 - title: "Question and Answer around the case studies" 
   start: "17:45"
   end: "18:00"
-  speaker: "Joyce Nabende and Lillian Muyama" 
-  organisation: "Makerere AI Lab and AirQo"
+  speaker: "Dr. Ernest Mwebaze and Claire Babirye" 
+  organisation: "SunBird AI and Makerere AI Lab"
   youtube:
   abstract:
   slides:
@@ -134,77 +134,77 @@ speakers:
     image: "/assets/img/people/emwebaze.jpg"
   - id: 2
     name: "Claire Babirye"
-    title: ""
-    company: ""
+    title: "Research Assistant"
+    company: "Makerere University"
     twitter: "#"
     image: 
     bio:
   - id: 3
     name: "Betty Mirembe"
-    title: ""
+    title: "Student"
     company: "Makerere University"
     twitter: "#"
     image: 
     bio: 
   - id: 4
     name: "Jonathan Ssali Kiggundu"
-    title: ""
+    title: "Student"
     company: "UTAMU"
     twitter: "#"
     image: 
     bio: 
   - id: 5
     name: "Omara Jonathan"
-    title: ""
+    title: "Student"
     company: "Busitema University"
     twitter: "#"
     image: 
     bio: 
   - id: 6
     name: "Daniel Ogenrwot"
-    title: ""
+    title: "Staff"
     company: "Gulu University"
     twitter: "#"
     image: 
     bio: 
   - id: 7
     name: "Jeremy Francis Tusubira"
-    title: ""
+    title: "Student"
     company: "Makerere University"
     twitter: "#"
     image: 
     bio: 
   - id: 8
     name: "Francis Xavier Inyangat"
-    title: ""
+    title: "Student"
     company: "Busitema University"
     twitter: 
     image: 
     bio: 
   - id: 9
     name: "Dorothy Ainomugisha"
-    title: ""
-    company: ""
+    title: "Student"
+    company: "UTAMU"
     twitter: 
     image: 
     bio: 
   - id: 10
     name: "Dr. William"
-    title: ""
+    title: "Lead"
     company: "MUST"
     twitter: 
     image: 
     bio: 
   - id: 11
     name: "Alvin Kimbowa"
-    title: ""
+    title: "Student"
     company: "Makerere University"
     twitter: 
     image: 
     bio: 
   - id: 12
     name: "Irene Nandutu"
-    title: ""
+    title: "PhD Student"
     company: "Rhodes University"
     twitter: 
     image: 
