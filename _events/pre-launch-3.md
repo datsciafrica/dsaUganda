@@ -137,35 +137,35 @@ speakers:
     title: "Research Assistant"
     company: "Makerere University"
     twitter: "#"
-    image: 
+    image: "/assets/img/people/cbabirye.jpg"
     bio:
   - id: 3
     name: "Betty Mirembe"
     title: "Student"
     company: "Makerere University"
     twitter: "#"
-    image: 
+    image: "/assets/img/people/bettyMirembe.png"
     bio: 
   - id: 4
     name: "Jonathan Ssali Kiggundu"
     title: "Student"
     company: "UTAMU"
     twitter: "#"
-    image: 
+    image: "/assets/img/people/johnathanSsaliKiggundu.png"
     bio: 
   - id: 5
     name: "Omara Jonathan"
     title: "Student"
     company: "Busitema University"
     twitter: "#"
-    image: 
+    image: "/assets/img/people/OmaraJonathan.png"
     bio: 
   - id: 6
     name: "Daniel Ogenrwot"
     title: "Staff"
     company: "Gulu University"
     twitter: "#"
-    image: 
+    image: "/assets/img/people/danielOgenrwot.png"
     bio: 
   - id: 7
     name: "Jeremy Francis Tusubira"
@@ -179,21 +179,21 @@ speakers:
     title: "Student"
     company: "Busitema University"
     twitter: 
-    image: 
+    image: "/assets/img/people/FrancisXavierInyangat.png"
     bio: 
   - id: 9
     name: "Dorothy Ainomugisha"
     title: "Student"
     company: "UTAMU"
     twitter: 
-    image: 
+    image: "/assets/img/people/DorothyAinomugisha.png"
     bio: 
   - id: 10
     name: "Dr. William"
     title: "Lead"
     company: "MUST"
     twitter: 
-    image: 
+    image: "/assets/img/people/DrWasswaWilliam.png"
     bio: 
   - id: 11
     name: "Alvin Kimbowa"
