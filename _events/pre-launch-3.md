@@ -5,6 +5,7 @@ date: 2021-06-25
 time: 4:00 PM
 timezone: EAT
 about: Showcasing data science research and projects in Universities 
+zoomlink: "https://undp.zoom.us/j/82350458862"
 agenda: 
 - title: "Welcoming and setting of ground rules"
   start: "16:00"

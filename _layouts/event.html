@@ -20,6 +20,9 @@ layout: default
                 <span itemprop="endDate" content="2021-04-28T03:15:00+00:00"></span>
                 <p class="event-short-description-on-banner">{{ page.about }}
                 </p>
+                <p class="event-short-description-on-banner"><b>Zoom Link:</b> 
+ <a target="_blank" href="{{ page.zoomlink }}">{{ page.zoomlink }}</a>
+                </p>
                 <aside id="react-root-event-tags">
                     <div class="MuiBox-root jss5 jss3 jss2 jss1 event-tags">
                         {% for event_tag in page.tags %}
