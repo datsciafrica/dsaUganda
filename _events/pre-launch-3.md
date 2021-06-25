@@ -11,7 +11,7 @@ agenda:
   start: "16:00"
   end: "16:05"
   speaker: "Dr. Ernest Mwebaze and Claire Babirye" 
-  organisation: "SunBird AI and Makerere AI Lab"
+  organisation: "Sunbird AI and Makerere AI Lab"
   youtube:
   abstract:
   slides:
@@ -52,20 +52,11 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "Using Machine Learning to Understand the Association of Design Smells with Role-stereotypes in Software Systems."
-  start: "16:35"
-  end: "16:45"
-  speaker: "Daniel Ogenrwot"
-  organisation: "Gulu University"
-  youtube:
-  abstract:
-  slides:
-  ipynb:
-- title: "TBC"
+- title: "Utilization of Machine learning algorithms to predict susceptibility to Urinary tract infections."
   start: "16:45"
   end: "16:55"
-  speaker: "Jeremy Francis Tusubira"
-  organisation: "Makerere University"
+  speaker: "Jean Amukwatse"
+  organisation: "UTAMU"
   youtube:
   abstract:
   slides:
@@ -119,7 +110,7 @@ agenda:
   start: "17:45"
   end: "18:00"
   speaker: "Dr. Ernest Mwebaze and Claire Babirye" 
-  organisation: "SunBird AI and Makerere AI Lab"
+  organisation: "Sunbird AI and Makerere AI Lab"
   youtube:
   abstract:
   slides:
@@ -169,11 +160,11 @@ speakers:
     image: "/assets/img/people/danielOgenrwot.png"
     bio: 
   - id: 7
-    name: "Jeremy Francis Tusubira"
+    name: "Jean Amukwatse"
     title: "Student"
-    company: "Makerere University"
-    twitter: "#"
-    image: 
+    company: "UTAMU"
+    twitter: "#" 
+    image: "/assets/img/people/JeanAmukwatse.png"
     bio: 
   - id: 8
     name: "Francis Xavier Inyangat"
@@ -236,7 +227,7 @@ organizers:
   - id: 4
     name: "Ernest Mwebaze, PhD"
     title: "Strategy lead"
-    company: "SunBird AI"
+    company: "Sunbird AI"
     twitter: "https://twitter.com/emwebaze"
     image: "/assets/img/people/emwebaze.jpg"
     
