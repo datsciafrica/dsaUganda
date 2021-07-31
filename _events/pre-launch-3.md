@@ -265,6 +265,13 @@ organizers:
     company: "GIZ - Uganda"
     twitter: "#"
     image: "/assets/img/people/imukiibi.jpg"
+  
+  - id: 10
+    name: "Claire Babirye"
+    title: "Secretary"
+    company: "Makerere University"
+    twitter: "#"
+    image: "/assets/img/people/cbabirye.jpg"
 partners: [sunbird, plk, airqo, giz, muk, busitema]
 ---
 
