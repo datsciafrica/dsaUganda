@@ -45,7 +45,7 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "TBC"
+- title: "Machine Learning projects conducted by Soroti University staff in the recent years."
   start: "04:35"
   end: "04:45"
   speaker: "Prof.Florence Tushabe"
