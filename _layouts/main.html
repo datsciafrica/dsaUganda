@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+
 <div class="homepage-full-header">
     <div class="jumbotron carousel-container carousel-with-blurred-background Homepage-carousel"
         style="visibility: visible;">
@@ -26,7 +28,7 @@ layout: default
 
 	<article class="postcard blue">
 		<a class="postcard__img_link" href="#">
-			<img class="postcard__img img-fluid" height="200px" src="{{site.baseurl}}/assets/img/andrew-s-s4ldly858Wc-unsplash.jpg" alt="Image Title" />
+			<img class="postcard__img img-fluid" id="image1" height="200px" src="" alt="Image Title" />
 		</a>
 		<div class="postcard__text">
 			<h1 class="postcard__title blue"><a href="#">Mission Statement</a></h1>
@@ -52,7 +54,7 @@ layout: default
 	</article>
 	<article class="postcard blue">
 		<a class="postcard__img_link" href="#">
-			<img class="postcard__img img-fluid" height="400px" src="{{site.baseurl}}/assets/img/bill-wegener-zUJyCH_EpzA-unsplash.jpg" alt="Image Title" />	
+			<img class="postcard__img img-fluid" id="image2" height="400px" src="" alt="Image Title" />	
 		</a>
 		<div class="postcard__text">
 			<h1 class="postcard__title blue"><a href="#">Objectives</a></h1>
@@ -82,10 +84,11 @@ layout: default
 	</article>
 	<article class="postcard blue">
 		<a class="postcard__img_link" href="#">
-			<img class="postcard__img img-fluid" height="450px" src="{{site.baseurl}}/assets/img/hassan-omar-wamwayi-GQlPyrZFIEw-unsplash.jpg" alt="Image Title" />
+			<img class="postcard__img img-fluid" id="image3" height="450px" src="" alt="Image Title" />
 		</a>
 		<div class="postcard__text">
 			<h1 class="postcard__title blue"><a href="#">Proposed Activities</a></h1>
+            
 <!--
 			<div class="postcard__subtitle small">
 				<time datetime="2020-05-25 12:00:00">
@@ -483,4 +486,35 @@ layout: default
     </div>
   </div>
 </div>
-        
+<script type="text/javascript">
+    
+                function randomUniqueNum(range, outputCount) {
+                  let arr = []
+                  for (let i = 1; i <= range; i++) {
+                    arr.push(i)
+                  }
+
+                  let result = [];
+
+                  for (let i = 1; i <= outputCount; i++) {
+                    const random = Math.floor(Math.random() * (range - i));
+                    result.push(arr[random]);
+                    arr[random] = arr[range - i];
+                  }
+
+                  return result;
+                }
+                let arrayNames = randomUniqueNum(36, 3);
+                var image1 = "{{site.baseurl}}/assets/img/WebsitePhotos/" + arrayNames[0] + ".jpg";
+                var image2 = "{{site.baseurl}}/assets/img/WebsitePhotos/" + arrayNames[1] + ".jpg";
+                var image3 = "{{site.baseurl}}/assets/img/WebsitePhotos/" + arrayNames[2] + ".jpg";
+                //
+                //console.log(image2);
+                
+                
+                document.getElementById("image1").src = image1;
+                document.getElementById("image2").src = image2;
+                document.getElementById("image3").src = image3;
+    
+                
+</script>    
