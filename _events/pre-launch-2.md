@@ -5,6 +5,7 @@ chapter: DSA UG
 date: 2021-05-28
 time: 10:00 AM
 timezone: EAT
+photolink: "/assets/img/placeholder_event.jpg"
 about: Opportunities in, for and around Data Science in Uganda 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 agenda: 
@@ -192,7 +193,7 @@ organizers:
     title: "Strategy lead"
     company: "SunBird AI"
     twitter: "https://twitter.com/emwebaze"
-    image: "/assets/img/people/emwebaze.jpg"
+    image: "/assets/img/people/emwebaze.png"
     
   - id: 5
     name: "Daudi Jjingo, PhD"

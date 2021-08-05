@@ -5,6 +5,7 @@ chapter: DSA UG
 date: 2021-08-27
 time: 04:00 PM
 timezone: EAT
+photolink: "/assets/img/dsa pre - launch Northern region 22-01.png"
 about: Data Science research, case studies and opportunities in Northern Uganda 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 zoomlink:
@@ -178,7 +179,7 @@ organizers:
     title: "Strategy lead"
     company: "SunBird AI"
     twitter: "https://twitter.com/emwebaze"
-    image: "/assets/img/people/emwebaze.jpg"
+    image: "/assets/img/people/emwebaze.png"
     
   - id: 5
     name: "Daudi Jjingo, PhD"

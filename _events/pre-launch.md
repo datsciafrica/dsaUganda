@@ -5,6 +5,7 @@ chapter: DSA UG
 date: 2021-04-30
 time: 10:00 AM
 timezone: EAT
+photolink: "/assets/img/placeholder_event.jpg"
 about: In collaboration with Academia, Governement agencies, Private sector and 
        UN agancies we are excited 💯 to bring you the pre-launch event of DSA Uganda Chapter 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
@@ -142,7 +143,7 @@ speakers:
     title: "Data Science Africa"
     company: "Sunbird AI"
     twitter: "#"
-    image: "/assets/img/people/emwebaze.jpg"
+    image: "/assets/img/people/emwebaze.png"
   - id: 2
     name: "Joyce Nabende"
     title: "DSA Uganda"
@@ -229,7 +230,7 @@ organizers:
     title: "Strategy lead"
     company: "SunBird AI"
     twitter: "https://twitter.com/emwebaze"
-    image: "/assets/img/people/emwebaze.jpg"
+    image: "/assets/img/people/emwebaze.png"
     
   - id: 5
     name: "Daudi Jjingo, PhD"

@@ -6,6 +6,7 @@ time: 4:00 PM
 timezone: EAT
 about: Showcasing data science research and projects in Universities 
 zoomlink: "https://undp.zoom.us/j/82350458862"
+photolink: "/assets/img/placeholder_event.jpg"
 agenda: 
 - title: "Welcoming and setting of ground rules"
   start: "16:00"
@@ -123,7 +124,7 @@ speakers:
     title: "Strategy Lead"
     company: "Data Science Africa"
     twitter: "#"
-    image: "/assets/img/people/emwebaze.jpg"
+    image: "/assets/img/people/emwebaze.png"
   - id: 2
     name: "Claire Babirye"
     title: "Research Assistant"
@@ -229,7 +230,7 @@ organizers:
     title: "Strategy lead"
     company: "Sunbird AI"
     twitter: "https://twitter.com/emwebaze"
-    image: "/assets/img/people/emwebaze.jpg"
+    image: "/assets/img/people/emwebaze.png"
     
   - id: 5
     name: "Daudi Jjingo, PhD"
