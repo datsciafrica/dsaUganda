@@ -1,6 +1,6 @@
 ---
 title: DSA Uganda Pre-Launch Event - North
-name: 1/4 DSA Uganda Regional Virtual Event
+name: 1st Regional DSA Uganda Pre-launch Event
 chapter: DSA UG
 date: 2021-08-27
 time: 04:00 PM
@@ -57,8 +57,8 @@ agenda:
 - title: "TBC"
   start: "04:45"
   end: "04:55"
-  speaker: "Dr Geoffrey Olok Tabo"
-  organisation: "TBC"
+  speaker: "Dr. Tabo Olok Geoffrey (PhD)"
+  organisation: "Gulu University"
   youtube:
   abstract:
   slides: 
@@ -136,12 +136,12 @@ speakers:
     image: "/assets/img/people/TushabeFlorence.png"
     bio: "Prof. Florence is an Associate Professor of Computer Science based at Soroti University. She is the Principal Investigator of a project that intelligently recognises afflatoxins in grain. She started her interesting research in machine learning from 2007 while undertaking her PhD studies, where she applied ML/DS within image based retrieval and for the recognition of traffic lights and recognition of every day common objects from a 20,000 image database. Prof. Florence studied at the University of Groningen in the Netherlands, Makerere University and the University of Dar es salaam in Tanzania."
   - id: 7
-    name: "Dr Geoffrey Olok Tabo"
-    title: "TBC"
-    company: "TBC"
+    name: "Dr. Tabo Olok Geoffrey (PhD)"
+    title: "Lecturer"
+    company: "Gulu University"
     twitter: "#"
-    image: 
-    bio: 
+    image: "/assets/img/people/DrTaboOlokGeoffrey.png"
+    bio: "Tabo is currently a lecturer at the Department of Computer Science at Gulu University. He holds a PhD in user-driven innovation, learning and design from Aalborg University, Denmark and a Master of Science in Computer Science from Makerere University, Uganda. His research activities currently cover digital learning and Artificial Intelligence (AI) in higher education. In collaboration with CanopyLAB we are researching on AI as a supporting tool in higher education. We are currently evaluating effectiveness of a recommender system module integrated on the learning platform with teachers and students at Gulu University."
   - id: 8
     name: "Anthony Okello"
     title: "TBC"
