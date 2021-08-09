@@ -6,6 +6,7 @@ date: 2021-08-27
 time: 04:00 PM
 timezone: EAT
 photolink: "/assets/img/dsa pre - launch Northern region 22-01.png"
+eventPhoto: "/assets/img/north-prelaunch.png"
 about: Data Science research, case studies and opportunities in Northern Uganda 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 zoomlink:
