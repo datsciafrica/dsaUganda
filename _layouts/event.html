@@ -4,7 +4,7 @@ layout: default
 
 <div id="event_page" itemscope="" itemtype="http://schema.org/Event" >
     <hr class="event-separator">
-    <div id="event-banner-container" class="jambotron responsive-event-banner" style="background-image:url({{site.baseurl}}{{ page.eventPhoto }});">
+    <div id="event-banner-container" class="jambotron responsive-event-banner" style="background-image:url({{site.baseurl}}{{ page.eventPhoto }}); background-position: center;">
         <div class="color-overlay"></div>
         <div class="event-page container" >
             <div class="col-md-12 general-event-banner">
@@ -116,10 +116,11 @@ layout: default
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">{{ speaker.name }}</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
+        <h5 class="modal-title" id="exampleModalLabel">{{ speaker.name }}</h5>
+        
       </div>
       <div class="modal-body">
                     <center>

@@ -136,7 +136,7 @@ speakers:
     company: "Soroti University"
     twitter: "#"
     image: "/assets/img/people/TushabeFlorence.png"
-    bio: "Prof. Florence is an Associate Professor of Computer Science based at Soroti University. She is the Principal Investigator of a project that intelligently recognises afflatoxins in grain. She started her interesting research in machine learning from 2007 while undertaking her PhD studies, where she applied ML/DS within image based retrieval and for the recognition of traffic lights and recognition of every day common objects from a 20,000 image database. Prof. Florence studied at the University of Groningen in the Netherlands, Makerere University and the University of Dar es salaam in Tanzania."
+    bio: "She is the Principal Investigator of a project that intelligently recognises aflatoxins in grain. She started her interesting research in machine learning from 2007 while undertaking her PhD studies, where she applied ML/DS within image based retrieval and for the recognition of traffic lights and recognition of everyday common objects from a 20,000 image database.<br>Prof. Florence studied at the University of Groningen in the Netherlands, Makerere University and the University of Dar es salaam in Tanzania.."
   - id: 7
     name: "Dr. Tabo Olok Geoffrey (PhD)"
     title: "Lecturer"
