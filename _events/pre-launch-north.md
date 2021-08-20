@@ -20,13 +20,13 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "Document enrichment for reading technical documents (words) in the medical field"
+- title: "The Effect of Document Enrichment on eLearning"
   start: "04:05"
   end: "04:15"
   speaker: "Dr Proscovia Olango"
   organisation: "Gulu University"
   youtube:
-  abstract:
+  abstract: "In order to realize the idea of document enrichment we developed a tool called TermPedia which predicts and defines technical terms. The definitions are extracted from Wikipedia, and the technical terms are also linked to contextually relevant Wikipedia articles which provide further explanation for the definitions. This paper presents results from a user study that was carried out to find out the effect of document enrichment on e-learning from educational documents (textbooks). In particular the study tried to answer the following questions, 1. Does document enrichment improve understanding of an e-content? 2. Does document enrichment reduce the time needed to e-Learn from an educational document?"
   slides: 
   ipynb:
 - title: "Analysis of information network using web based algorithm-page rank."
@@ -35,7 +35,7 @@ agenda:
   speaker: "Bernard Abola(PhD)"
   organisation: "Gulu University"
   youtube:
-  abstract:"Modelling physical/natural systems as networks is one of fast-growing research areas in applied mathematics. These systems include: social, bio-stochastics, telecommunication, queuing, reliability systems and citation networks. Importantly, attributes (nodes) of such systems are usually millions or billions. In some instances, the attributes can be few but the system keep changing from time to time this dynamics phenomenon rather exist algorithms ineffective. Moreover, networks models are recognised as potential objects to filter information from such systems.  In fact, modelling physical or engineering systems as networks have greatly improved understanding of complex systems. <br>In this talk, the popular Markov models commonly used in ranking (PageRank) problems will be presented.   The focus will be on analysis of information Markov chain, where the phase spaces split into non-communicative groups of states. Recent analytical and numerical results will be given."
+  abstract: "Modelling physical/natural systems as networks is one of fast-growing research areas in applied mathematics. These systems include: social, bio-stochastics, telecommunication, queuing, reliability systems and citation networks. Importantly, attributes (nodes) of such systems are usually millions or billions. In some instances, the attributes can be few but the system keep changing from time to time this dynamics phenomenon rather exist algorithms ineffective. Moreover, networks models are recognised as potential objects to filter information from such systems.  In fact, modelling physical or engineering systems as networks have greatly improved understanding of complex systems. <br>In this talk, the popular Markov models commonly used in ranking (PageRank) problems will be presented.   The focus will be on analysis of information Markov chain, where the phase spaces split into non-communicative groups of states. Recent analytical and numerical results will be given."
   slides: 
   ipynb:
 - title: "Using big data to predict sales of retail and whole sale shops to predict consumers desires over time"
@@ -83,9 +83,18 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "Question and Answer around the case studies"
+- title: "How AI is Changing the Shopping Experience"
   start: "05:15"
   end: "05:30"
+  speaker: "Bruno Kayiza"
+  organisation: "Samasource Uganda"
+  youtube:
+  abstract:
+  slides: 
+  ipynb:
+- title: "Question and Answer around the case studies"
+  start: "05:30"
+  end: "05:45"
   speaker: "Emmanuel Okello Ogwal and Daniel Ogen" 
   organisation: "TBC"
   youtube:
@@ -114,8 +123,8 @@ speakers:
     title: "HoD Computer Science"
     company: "Gulu University"
     twitter: "#"
-    image: 
-    bio: 
+    image: "/assets/img/people/P.Olango.png"
+    bio: "Dr. Proscovia Olango graduated with a PhD from University of Groningen in 2020 and is currently a full-time lecturer and head of department of computer science at Gulu University in Uganda. Her research interest is in improving reading comprehension through document enrichment. The four pillars that currently support this interest are Design Science, Big Data, Human Language Technologies, and Innovative ICT for eLearning and Sustainable Development. Proscovia is the Chair of a Doctorial Community and a member of the Information Retrieval research group at the department of Computer Science, Gulu University."
   - id: 4
     name: "Bernard Abola(PhD)"
     title: "Lecturer"
@@ -151,6 +160,13 @@ speakers:
     twitter: "#"
     image:  
     bio: 
+  - id: 9
+    name: "Bruno Kayiza"
+    title: "Project Manager"
+    company: "Samasource Uganda"
+    twitter: "#"
+    image: "/assets/img/people/BrunoKayiza.jpg" 
+    bio: "Bruno Kayiza is a Snr. Project Manager at Samasource Uganda in Gulu vested in the generation of training data, managing the delivery of a secure alternative to traditional crowdsourced data annotation models by combining industry-leading software with a trained, directly managed workforce. Passionate about training data, he has supported its generation making use of image, video and sensor data annotation for computer vision and natural language processing in industries including automotive, navigation, AR/VR, biotech, agriculture, manufacturing, and e-commerce."
   
   
 organizers: 
