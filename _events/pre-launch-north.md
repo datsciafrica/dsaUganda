@@ -15,7 +15,7 @@ agenda:
   start: "04:00"
   end: "04:05"
   speaker: "Emmanuel Okello Ogwal and Daniel Ogenrwot" 
-  organisation: ", Gulu University"
+  organisation: "Innov 8 hub, Gulu University"
   youtube:
   abstract:
   slides:
@@ -86,8 +86,8 @@ agenda:
 - title: "TBC"
   start: "05:35"
   end: "05:45"
-  speaker: "Anthony Okello"
-  organisation: "TBC"
+  speaker: "Muchwa Christopher Mogal"
+  organisation: "Innov 8 hub"
   youtube:
   abstract:
   slides: 
@@ -95,8 +95,8 @@ agenda:
 - title: "Question and Answer around the case studies"
   start: "05:45"
   end: "05:55"
-  speaker: "Emmanuel Okello Ogwal and Daniel Ogen" 
-  organisation: "TBC"
+  speaker: "Emmanuel Okello Ogwal and Daniel Ogenrwot" 
+  organisation: "Innov 8 hub, Gulu University"
   youtube:
   abstract:
   slides:
@@ -104,8 +104,8 @@ agenda:
 - title: "Closing"
   start: "05:55"
   end: "06:00"
-  speaker: "TBC" 
-  organisation: "TBC"
+  speaker: "Emmanuel Okello Ogwal" 
+  organisation: "Innov 8 hub"
   youtube:
   abstract:
   slides:
@@ -155,7 +155,7 @@ speakers:
     company: "Arua Municipal Council "
     twitter: "#"
     image: "/assets/img/people/odaboJohn.png" 
-    bio: "" 
+    bio: "A graduate of Bachelor of Computer Engineering, John is currently Information Technology (IT) Officer at Arua City having previously served as Training Coordinator at Aruabits, a youth based social enterprise of CEFORD that empowers talented youth from vulnerable backgrounds in West Nile, Uganda with multimedia ICT skills, Entrepreneurship and Life Skills. <br>He is also the Technical Director at Premium Technologies Consultancy (U) Ltd, a registered Company based in Arua that provides ICT solutions aimed at transforming Small and Medium Enterprises in Uganda.<br> John uses his expertise in graphics design, web design and development, networking, software systems analysis and development to develop user friendly experiences. He is passionate about using data driven evidence for decision making. <br> When not behind the monitor, John spends most of his time offering service through Rotary Club of Arua Eco City and Community Based Organizations he co-founded; Save the Maracha Girl, Hedwig Education and Health Fund Association, Trusted Friends Savings and Loans Association in which he holds Executive Positions." 
   - id: 2
     name: "Daniel Ogenrwot"
     title: "Staff"
@@ -172,17 +172,18 @@ speakers:
     bio: "Priscilla Adong is a Data scientist at AirQo, Department of Computer Science, Makerere University. She holds an MSc. in Data communications and Software Engineering and BSc. in Computer Science from Makerere University. Priscilla is passionate about using her experience and technical expertise to solve real-world problems. Her research interests include Machine learning, wireless sensor networks and Internet of Things."
   - id: 1
     name: "Emmanuel Okello Ogwal"
-    title: "TBC"
-    company: "TBC"
+    title: "Co-founder"
+    company: "Innov 8 hub"
     twitter: "#"
-    image: 
+    image: "/assets/img/people/emmanuelOkello.png"
+    bio: "Emmanuel is a  cofounder of Innov 8 an innovation space in Lira with an acceleratiotor program and  focus on education tech,climate and fintech.He has also been cordinating  DSA engagements across Universities in Lango,Acholi,Karamoja, Teso,West Nile sub regions and organizing the 1st Regional DSA prelaunch event."
   - id: 8
-    name: "Anthony Okello"
-    title: "TBC"
-    company: "TBC"
+    name: "Muchwa Christopher Mogal"
+    title: "intern"
+    company: "Innov 8 hub"
     twitter: "#"
-    image:  
-    bio: 
+    image: "/assets/img/people/muchwaChristopher.png" 
+    bio: "Muchwa Christopher Mogal is an intern with Innov 8 hub and a 4 th year Law Student at Uganda Christian University passionate about cyber law.He has developed several apps most notably the Statutebot chat a legal chat bot that extracts relevant provisions of the law required by legal practioners."
   
 organizers: 
   - id: 1
@@ -203,9 +204,9 @@ organizers:
   - id: 4
     name: "Emmanuel Okello Ogwal"
     title: "Coordinator Lango Region"
-    company: "TBC"
-    twitter: ""
-    image: ""
+    company: "Innov 8 hub"
+    twitter: "#"
+    image: "/assets/img/people/emmanuelOkello.png"
   - id: 3
     name: "Claire Babirye"
     title: "Secretary"
@@ -216,6 +217,6 @@ organizers:
   
     
   
-partners: [sunbird, plk, airqo, giz, muk, busitema, soroti, gulu, sama]
+partners: [sunbird, plk, airqo, giz, muk, busitema, soroti, gulu, sama, innov8]
 ---
 
