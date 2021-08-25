@@ -51,7 +51,7 @@ agenda:
   start: "04:35"
   end: "04:45"
   speaker: "Emmanuel Okello Ogwal and Daniel Ogenrwot" 
-  organisation: "TBC"
+  organisation: "Innov 8 hub, Gulu University"
   youtube:
   abstract:
   slides:
@@ -83,7 +83,7 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "TBC"
+- title: "The use of Data Science in legal practice"
   start: "05:35"
   end: "05:45"
   speaker: "Muchwa Christopher Mogal"
