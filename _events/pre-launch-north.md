@@ -189,7 +189,7 @@ organizers:
   - id: 1
     name: "John Odabo"
     title: "Coordinator West Nile Region"
-    company: "Arua Municipal Council "
+    company: "Arua City"
     twitter: "#"
     image: "/assets/img/people/odaboJohn.png"
   
