@@ -9,7 +9,7 @@ photolink: "/assets/img/dsa pre - launch Northern region 22-01.png"
 eventPhoto: "/assets/img/north-prelaunch.png"
 about: Data Science research, case studies and opportunities in Northern Uganda 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
-zoomlink:
+zoomlink: "https://undp.zoom.us/j/83203887208"
 agenda: 
 - title: "Welcoming and setting of ground rules"
   start: "04:00"
@@ -59,7 +59,7 @@ agenda:
 - title: "Panel session + Questions"
   start: "04:45"
   end: "05:15"
-  speaker: "Priscilla Adong, Bruno Kayiza, Prof.Florence Tushabe, Dr Proscovia Olango"
+  speaker: "Priscilla Adong(Moderator), Bruno Kayiza, Prof.Florence Tushabe, Dr Proscovia Olango"
   organisation: "AirQo, Soroti University, Samasource Uganda, Gulu University"
   youtube:
   abstract:
