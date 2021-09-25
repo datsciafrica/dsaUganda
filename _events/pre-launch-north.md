@@ -152,7 +152,7 @@ speakers:
   - id: 10
     name: "John Odabo"
     title: "IT Officer"
-    company: "Arua Municipal Council "
+    company: "Arua City "
     twitter: "#"
     image: "/assets/img/people/odaboJohn.png" 
     bio: "A graduate of Bachelor of Computer Engineering, John is currently Information Technology (IT) Officer at Arua City having previously served as Training Coordinator at Aruabits, a youth based social enterprise of CEFORD that empowers talented youth from vulnerable backgrounds in West Nile, Uganda with multimedia ICT skills, Entrepreneurship and Life Skills. <br>He is also the Technical Director at Premium Technologies Consultancy (U) Ltd, a registered Company based in Arua that provides ICT solutions aimed at transforming Small and Medium Enterprises in Uganda.<br> John uses his expertise in graphics design, web design and development, networking, software systems analysis and development to develop user friendly experiences. He is passionate about using data driven evidence for decision making. <br> When not behind the monitor, John spends most of his time offering service through Rotary Club of Arua Eco City and Community Based Organizations he co-founded; Save the Maracha Girl, Hedwig Education and Health Fund Association, Trusted Friends Savings and Loans Association in which he holds Executive Positions." 
@@ -189,7 +189,7 @@ organizers:
   - id: 1
     name: "John Odabo"
     title: "Coordinator West Nile Region"
-    company: "Arua Municipal Council "
+    company: "Arua City"
     twitter: "#"
     image: "/assets/img/people/odaboJohn.png"
   
