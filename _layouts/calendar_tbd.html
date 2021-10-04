@@ -17,9 +17,9 @@ calendar_bootstrap_css: <link rel="stylesheet" href="!PATH_TO_COMPONENTS!/bootst
 
   document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
-
+      
     var calendar = new FullCalendar.Calendar(calendarEl, {
-      height: '80%',
+      height: '100%',
       expandRows: true,
       slotMinTime: '08:00',
       slotMaxTime: '20:00',
@@ -110,7 +110,10 @@ calendar_bootstrap_css: <link rel="stylesheet" href="!PATH_TO_COMPONENTS!/bootst
 </script>
 <style>
 
-  
+  #calendar {
+/*  max-width: 100%;*/
+  margin: 40px 40px;
+}
 
   #calendar-container {
     position: fixed;
@@ -129,8 +132,9 @@ calendar_bootstrap_css: <link rel="stylesheet" href="!PATH_TO_COMPONENTS!/bootst
     padding-left: 1em;
     padding-right: 1em;
   }
-
+    
 </style>
+
 
 
     <div id='calendar'></div>
