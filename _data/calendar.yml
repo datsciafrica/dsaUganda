@@ -67,13 +67,21 @@
  title: "Workshop, Environmental Data Acquisition and Data Processing"
  start: '2021-10-20'
  end: '2021-10-20'
- url: 'https://twitter.com/dsa_org/status/1447883053603434496'
+ url: ' https://bit.ly/3iQPMBo'
+ color: "#ff6b00"
 -
  title: "Clinic on Dynamic Approaches to Infectious Disease Data (DAIDD 2021) - virtual edition"
  start: '2021-12-12'
- end: '2021-12-18'
+ end: '2021-12-19'
  url: 'http://www.ici3d.org/daidd/rfa'
+ color: '#15378a'
 -
  title: "Conversational AI"
  start: '2021-10-28T10:00:00'
  url: 'https://zoom.us/j/96228244771?pwd=T093NWxJWjRER0k4b0QwODhsN2s2Zz09'
+-
+ title: "Women in Data science: 7-week digital course for ladies to learn: Statistics. Data Science. Applied Finance. Machine Learning. R or Python Programming"
+ start: '2021-11-10'
+ end: '2021-11-17'
+ url: 'https://ingressive.org/women-in-data-scholarship/'
+ color: "#01bab7"
