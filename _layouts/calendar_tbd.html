@@ -39,15 +39,30 @@ calendar_bootstrap_css: <link rel="stylesheet" href="!PATH_TO_COMPONENTS!/bootst
       events: [
         
         {% for event in site.data.calendar %}
+          
+          {% if event.type == 'call' %}
                             
              {
-             title: '{{ event.title }}',
-             start: '{{ event.start }}',
-             end: '{{ event.end }}',
-             url: '{{ event.url }}',
-             color: '{{ event.color }}',
+                 title: '{{ event.title }}',
+                 start: '{{ event.start }}',
+                 url: '{{ event.url }}',
+                 color: '{{ event.color }}',
              },
-                                             
+             {
+                 title: '{{ event.title }}',
+                 start: '{{ event.end }}',
+                 url: '{{ event.url }}',
+                 color: '{{ event.color }}',
+             },
+          {% else %}
+             {
+                 title: '{{ event.title }}',
+                 start: '{{ event.start }}',
+                 end: '{{ event.end }}',
+                 url: '{{ event.url }}',
+                 color: '{{ event.color }}',
+             },
+          {% endif %}
         {% endfor %}
           
         
