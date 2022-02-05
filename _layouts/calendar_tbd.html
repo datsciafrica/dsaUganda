@@ -43,7 +43,7 @@ calendar_bootstrap_css: <link rel="stylesheet" href="!PATH_TO_COMPONENTS!/bootst
           {% if event.type == 'call' %}
                             
              {
-                 title: '{{ event.title }}',
+                 title: '*{{ event.title }}',
                  start: '{{ event.start }}',
                  url: '{{ event.url }}',
                  color: '{{ event.color }}',

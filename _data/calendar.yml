@@ -143,6 +143,39 @@
  url: 'https://aaai.org/Conferences/AAAI-22/ws22workshops/#ws02'
  color: '#013d7a'
  type: 'event'
+-
+ title: 'Automated Diagnosis of Malaria in Thick Blood Smear Films: Deep Neural Network Approach'
+ start: '2021-12-09T10:00:00'
+ url: 'https://zoom.us/j/99122680763?pwd=OGNZWHpSazV0MUZ0UUZoZUdTVWNTQT09'
+ color: '#232333'
+ type: 'event'
+-
+ title: "Deadline for Application to Participate i  the Climate Change AI Summer School 2022"
+ end: '2021-12-17T23:59:00'
+ url: 'https://www.climatechange.ai/summer_school2022_application'
+ color: '#202124'
+ type: 'call'
+-
+ title: "Climate Change AI Summer School 2022"
+ start: '2022-08-15'
+ end: '2022-08-26'
+ url: 'https://www.climatechange.ai/events/summer_school2022.html'
+ color: '#202124'
+ type: 'event'
+-
+ title: "Blackathon 2022"
+ start: '2022-02-04'
+ end: '2022-02-06'
+ url: 'https://www.blackathon.tech/call-for-participants'
+ color: '#000000'
+ type: 'call'
+-
+ title: "Application for the Google Research Residency program in Accra, Ghana"
+ start: '2022-01-04'
+ end: '2022-01-19'
+ url: 'https://careers.google.com/jobs/results/102473540919272134-research-resident-university-graduate-fixed-term-contract/'
+ color: '#202124'
+ type: 'call'
 
 
  
