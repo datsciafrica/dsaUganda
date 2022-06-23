@@ -1,6 +1,6 @@
 ---
-title: Data Science Africa Launch
-name: Data Science Africa Launch
+title: Data Science Africa Uganda Launch
+name: Data Science Africa Uganda Launch
 chapter: DSA UG
 date: 2022-07-08
 time: 07:30 AM
