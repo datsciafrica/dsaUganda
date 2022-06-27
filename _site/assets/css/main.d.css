@@ -2,7 +2,7 @@
 
 .carousel-container .content .content-inside { background-color: rgba(255, 255, 255, 0.6); border-radius: 10px; padding: 30px; }
 
-.carousel-container .content .content-inside h2 { color: #189ea0 !important; font-weight: bold; }
+.carousel-container .content .content-inside h2 { color: #008542 !important; font-weight: bold; }
 
 .carousel-container .content .content-inside h3 { color: #036938 !important; font-weight: bold; }
 
@@ -42,11 +42,11 @@ hr.event-separator { border: 1px solid #ddd; margin-top: 0; margin-bottom: 0; }
 
 .carousel-container .content { height: 500px !important; }
 
-body:not(#main-dashboard) .btn.btn-primary:not(.dropdown-toggle):not(.grey) { background-color: #189ea0 !important; color: #fff !important; }
+body:not(#main-dashboard) .btn.btn-primary:not(.dropdown-toggle):not(.grey) { background-color: #008542 !important; color: #fff !important; }
 
 body:not(#main-dashboard) .btn.btn-primary:not(.dropdown-toggle):not(.grey):hover { background-color: #4ebea4 !important; color: #fff !important; }
 
-#event_page .contact-host.modal-dialog .header-icon { color: #189ea0; }
+#event_page .contact-host.modal-dialog .header-icon { color: #008542; }
 
 .chapter .vertical-boxes .vertical-box--event-date, .chapter .vertical-boxes .vertical-box--event-title { color: #5f6368; }
 

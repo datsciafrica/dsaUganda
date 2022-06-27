@@ -426,11 +426,11 @@ footer.page-footer {
 }
 
 footer.page-footer .footer-brand.footer-brand-svg img {
-    height: 22px;
+    height: 50px;
 }
 
 footer.page-footer .footer-brand.footer-brand-png img {
-    max-height: 22px;
+    max-height: 50px;
 }
 
 footer.page-footer .footer-bottom {
@@ -1253,7 +1253,7 @@ body:not(#main-dashboard) .general-body a {
 }
 
 .navbar > .container .navbar-brand img {
-  height: 45%;
+  height: 100%;
 }
 
 /* Slider */
