@@ -6,11 +6,13 @@ date: 2022-08-05
 time: 07:30 AM
 timezone: EAT
 photolink: "/assets/img/dsa pre - launch Northern region 22-01.png"
-eventPhoto: "/assets/img/north-prelaunch.png"
+eventPhoto: "/assets/img/dsa_banner_launch_1.png"
 about: Let us shape DSA Uganda, together, to what we want.
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 zoomlink: 
 type: launch
+harshtag: "#DSAU"
+twitter: "@dsa_Uganda"
 agenda: 
 - title: "Arrival of guest and breakfast"
   start: "07:30"

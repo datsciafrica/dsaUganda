@@ -4,7 +4,7 @@ layout: default
 
 <div id="event_page" itemscope="" itemtype="http://schema.org/Event" >
     <hr class="event-separator">
-    <div id="event-banner-container" class="jambotron responsive-event-banner" style="background-image:url({{site.baseurl}}{{ page.eventPhoto }}); background-position: center; background-repeat: no-repeat">
+    <div id="event-banner-container" class="jambotron responsive-event-banner" style="background-image:url({{site.baseurl}}{{ page.eventPhoto }}); background-position: right; background-repeat: no-repeat; border-bottom: 2px solid #008542; background-color: white;">
         <div class="color-overlay"></div>
         <div class="event-page container" >
             <div class="col-md-12 general-event-banner">
@@ -20,9 +20,12 @@ layout: default
                 <span itemprop="endDate" content="2021-04-28T03:15:00+00:00"></span>
                 <p class="event-short-description-on-banner">{{ page.about }}
                 </p>
-                <p class="event-short-description-on-banner"><b>Zoom Link:</b> 
- <a target="_blank" href="{{ page.zoomlink }}">{{ page.zoomlink }}</a>
+                {% if page.type == "launch" %}
+                    <p class="event-short-description-on-banner"><b>Harsh Tag:</b> {{ page.harshtag }}
                 </p>
+                <p class="event-short-description-on-banner"> <b>Twitter:</b> {{ page.twitter }}
+                </p>
+                {% endif %}
                 <aside id="react-root-event-tags">
                     <div class="MuiBox-root jss5 jss3 jss2 jss1 event-tags">
                         {% for event_tag in page.tags %}

@@ -34470,7 +34470,7 @@ div#upcoming-events.container.section {
                 }
             
             .launch ul {
-              list-style: none;
+              list-style: square;
             }
 
             .launch li {
@@ -34481,14 +34481,16 @@ div#upcoming-events.container.section {
               margin:10px;
             }
 
+/*
             .launch ul li::before {
-              content: "\1F892";
+              content: "\21B4";
               color: #008542;
               position: absolute;
               font-size: 30px;
               left: -18px;
               top:-12px;
             }
+*/
             
             /* === HEADING STYLE #3 === */
             .launch h1 {
