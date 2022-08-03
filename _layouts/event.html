@@ -406,6 +406,222 @@ layout: default
         </table>
         </div>
     </div>
+    
+    <div class="description-container unpurchased-virtual-no-info ">
+        <div class="container launch">
+            <h1 class="">Event Schedule</h1>
+            
+            
+            <table class="presentations">
+	      <thead>
+		<tr>
+		  <th><h4 class="text-center">Time</h4></th>
+		  <th><h4 class="text-center">Presentation</h4></th>
+		  <th></th>
+		</tr>
+	      </thead>
+	      <tbody>
+              
+		{% for talk in page.agenda %}
+              <!--<pre> {{ talk | inspect}} </pre>-->
+		{% include listtalk.html %}
+		{% endfor %}
+	      </tbody>	      
+            </table>
+            
+        </div>
+        
+    </div>
+    <div class="chapter has-people-cards-v2">
+        <div class="hosts">
+            <h1 class="event-page general-h1">
+                Speakers
+            </h1>
+            <div class="people-cards">
+                {% if page.speakers %}
+                    {% for speaker in page.speakers %}
+                <li class="people-card general-card" itemprop="performer" itemscope=""
+                    itemtype="http://schema.org/Person">
+                    <img itemprop="image"
+                        src="{{site.baseurl}}{{ speaker.image }}"
+                        alt="{{ speaker.name}}" 
+                        onerror="this.onerror = null;
+                                 this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';" 
+                        class="people-card--avatar">
+                    <a href="{{ speaker.twitter }}" rel="nofollow" class="icon-twitter people-card--twitter"></a>
+                    <div class="people-card--text">
+                        <h2 itemprop="name" class="people-card--name">{{ speaker.name }}</h2>
+                        <p class="people-card--title">{{ speaker.title }}</p>
+                        <p class="people-card--company">{{ speaker.company }}</p>
+                        <!--{%if speaker.bio %}
+                    <p> {{speaker.bio}}</p>
+                        {% endif %} -->
+                    </div>
+<!--                    <a class="btn btn-secondary" href="#">View Profile</a>-->
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#exampleModal{{ speaker.id }}">
+  View Profile
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal{{ speaker.id }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h5 class="modal-title" id="exampleModalLabel">{{ speaker.name }}</h5>
+        
+      </div>
+      <div class="modal-body">
+                    <center>
+                    <img itemprop="image"
+                        src="{{site.baseurl}}{{ speaker.image }}"
+                        alt="{{ speaker.name}}" 
+                        onerror="this.onerror = null;
+                                 this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';" 
+                        class="people-card--avatar">
+                    <div class="people-card--text">
+                        <h2 itemprop="name" class="people-card--name">{{ speaker.name }}</h2>
+                        <p class="people-card--title">{{ speaker.title }}</p>
+                        <p class="people-card--company">{{ speaker.company }}</p>
+                        <!--{%if speaker.bio %}
+                    <p> {{speaker.bio}}</p>
+                        {% endif %} -->
+                    </div>
+<!--
+                    <span><strong>Skills: </strong></span>
+                        <span class="label label-warning">HTML5/CSS</span>
+                        <span class="label label-info">Adobe CS 5.5</span>
+                        <span class="label label-info">Microsoft Office</span>
+                        <span class="label label-success">Windows XP, Vista, 7</span>
+-->
+                    </center>
+                    <hr>
+                    <center>
+                    <p class="text-left"><strong>Bio: </strong><br>
+                        {{ speaker.bio }}</p>
+                    <br>
+                    </center>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+                </li>
+                    {% endfor %}
+                {% else %}
+                <p>No speakers available</p>
+                {% endif %}
+            </div>
+            <div class="modal fade and carousel slide modal-carousel" id="hostsbios" tabindex="-1">
+                <div class="carousel-inner">
+                </div>
+            </div>
+        </div>
+        <div class="hosts">
+            <h1 class="event-page general-h1">
+                Organizers
+            </h1>
+            <div class="people-cards">
+                {% if page.organizers %}
+                    {% for organizer in page.organizers %}
+                <li class="people-card general-card" itemprop="performer" itemscope=""
+                    itemtype="http://schema.org/Person">
+                    <img itemprop="image"
+                        src="{{site.baseurl}}{{ organizer.image }}"
+                        alt="{{ organizer.name }}" 
+                        onerror="this.onerror = null;
+                                 this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';" 
+                        class="people-card--avatar">
+                    <a href="{{ organizer.twitter }}" rel="nofollow" class="icon-twitter people-card--twitter"></a>
+                    <div class="people-card--text">
+                        <h2 itemprop="name" class="people-card--name">{{ organizer.name }}</h2>
+                        <p class="people-card--title">{{ organizer.title }}</p>
+                    </div>
+                </li>
+                    {% endfor %}
+                {% else %}
+                <p>No organizers available</p>
+                {% endif %}
+            </div>
+            <div class="modal fade and carousel slide modal-carousel" id="hostsbios" tabindex="-1">
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                            <img class="picture" src="" alt=" ()">
+                            <h4 class="name"></h4>
+                            <h5 class="company"></h5>
+                            <div class="bio"></div>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                            <img class="picture" src="" alt=" ()">
+                            <h4 class="name"></h4>
+                            <h5 class="company"></h5>
+                            <div class="bio"></div>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                            <img class="picture" src="" alt=" ()">
+                            <h4 class="name"></h4>
+                            <h5 class="company"></h5>
+                            <div class="bio"></div>
+                        </div>
+                    </div>
+                </div>
+                <a class="left carousel-control" href="#hostsbios" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>
+                <a class="right carousel-control" href="#hostsbios" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <div class="hosts event-partners">
+            <h1 class="event-page general-h1">
+                Partners
+            </h1>
+            <div class="container cards">
+                
+                {% if page.partners %}
+                    {% for partner in page.partners %}
+                        {% assign p = site.data.partners[partner] %}
+                        {% if p %}
+                <a class="{{ partner }} card-container" href="#" rel="nofollow" target="_blank">
+                    <div style="background-image: url({{site.baseurl}}{{ p.image }})" role="figure" class="card">
+                        <!-- this is a helper, only needed because "background-image" did not fire a "onerror" event -->
+                        <img style="display: none;" 
+                            src="{{site.baseurl}}{{ p.image }}" 
+                            onerror="var fallbackImage = 'url({{site.baseurl}}/assets/img/partners/logo-placeholder.jpeg)'; 
+                                     var textSpan = document.createElement('p')
+                                     textSpan.textContent = '{{ p.name }}';
+                                     document.querySelector('.{{ partner }} .card').classList.add('fallback-image');
+                                     document.querySelector('.{{ partner }} .card').style.backgroundImage = fallbackImage;
+                                     document.querySelector('.{{ partner }} .card').appendChild(textSpan)">
+                    </div>
+                    <!-- <span class="label">{{ p.name }}</span> -->
+                </a>
+                        {% endif %}   
+                    {% endfor %}
+                {% else %}
+                    <p>No partners available</p>
+                {% endif %}
+            </div>
+            <div class="modal fade and carousel slide modal-carousel" id="hostsbios" tabindex="-1">
+                <div class="carousel-inner">
+                </div>
+            </div>
+        </div>
+    </div>
     {% endif %}
     
     <hr class="event-separator">

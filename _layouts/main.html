@@ -21,11 +21,126 @@ layout: default
         </div>
     </div>
 </div>
+<div class="main countdown">
+  <h1>Countdown to the Launch</h1>
+  <div class="countdown">
+    <div>
+      <span class="number months"></span>
+      <span>Months</span>
+    </div>
+     <div>
+      <span class="number days"></span>
+      <span>Days</span>
+    </div>
+     <div>
+      <span class="number hours"></span>
+      <span>Hours</span>
+    </div>
+     <div>
+      <span class="number minutes"></span>
+      <span>Minutes</span>
+    </div>
+     <div>
+      <span class="number seconds"></span>
+      <span>Seconds</span>
+    </div>
+  </div>
+</div>
+           
+<script type="text/javascript">
+  
+const newDate = new Date('aug 05 22 07:00:00').getTime()
+const countdown = setInterval(() =>{
+  
+const date = new Date().getTime()
+const diff = newDate - date
 
+const month =  Math.floor((diff % (1000 * 60 * 60 * 24 * (365.25 / 12) * 365)) / (1000 * 60 * 60 * 24 * (365.25 / 12)))
+const days = Math.floor(diff % (1000 * 60 * 60 * 24 * (365.25 / 12)) / (1000 * 60 * 60 * 24))
+const hours =  Math.floor(diff % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
+const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60))
+const seconds = Math.floor((diff % (1000 * 60)) / 1000)
+
+      document.querySelector(".seconds").innerHTML = seconds < 10 ? '0' + seconds : seconds
+      document.querySelector(".minutes").innerHTML = minutes < 10 ? '0' + minutes :minutes
+      document.querySelector(".hours").innerHTML = hours < 10 ? '0' + hours : hours
+      document.querySelector(".days").innerHTML = days < 10 ? '0' + days : days
+      document.querySelector(".months").innerHTML = month < 10 ? '0' + month : month
+
+if(diff === 0){
+  clearInterval(countdown)
+        document.querySelector(".countdown").innerHTML = 'Happy Birthday Ahmed'
+}
+
+}, 1000)
+    </script>
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+
+.main{
+  height: 30vh;
+  background-size: cover;
+/*  background: url('https://i.ibb.co/jfLZFhm/Bitmap.png') no-repeat top center;*/
+}
+
+.countdown h1{
+  text-align: center;
+  font-weight: 400;
+  font-size: 60px;
+  padding-top: 30px;
+}
+
+.countdown .countdown{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.countdown .countdown > div{
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  box-shadow: 1px 1px 15px rgba(0,0,0,0.25);
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+}
+.countdown .number {
+  font-weight: 500;
+  font-size: 44px;
+  color: #008542;
+}
+
+.countdown div span:last-of-type{
+  font-size: 12px;
+}
+
+@media screen and (max-width:600px){
+  .countdown h1{
+    font-size: 40px;
+  }
+  .countdown .countdown{
+    gap: 10px;
+  }
+  .countdown .countdown > div{
+  width: 60px;
+  height: 80px;
+}
+  
+  .countdown .number {
+  font-size: 34px;
+}
+}
+    </style>
 <br>
 <main class="container">
 <!--	<div class="h1 text-center" id="pageHeaderTitle">My Cards</div>-->
-
+    
+    
+    
 	<article class="postcard green">
 		<a class="postcard__img_link" href="#">
 <!--			<img class="postcard__img img-fluid" id="image1" height="200px" src="" alt="Image Title" />-->

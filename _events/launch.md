@@ -114,13 +114,14 @@ Bronze Sponsor (1 minute)"
 speakers: 
   
   
+  
 organizers: 
   
     
   
     
-  
-partners: [sunbird, plk, airqo, giz, muk]
+---  
+partners: []
 ---
 
         <h1>Background </h1>
