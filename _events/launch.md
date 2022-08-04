@@ -139,6 +139,56 @@ speakers:
   
   
 organizers: 
+  - id: 1
+    name: "Joyce Nabende, PHD"
+    title: "Program Chair"
+    company: "Makerere AI Lab"
+    twitter: "https://twitter.com/j_nabende"
+    image: "/assets/img/people/joyce_photo.png"
+   
+  - id: 2
+    name: "Martin Gordon Mubangizi"
+    title: "General Chair"
+    company: "Pulse Lab Kampala"
+    twitter: "https://twitter.com/mmubangizi15"
+    image: "/assets/img/people/martin.png"
+   
+  - id: 3
+    name: "Egineer Bainomugisha, PhD"
+    title: "Academic Coordinator"
+    company: "Makerere University"
+    twitter: "https://twitter.com/iBaino"
+    image: "/assets/img/people/Engineer.jpg"
+   
+  - id: 4
+    name: "Ernest Mwebaze, PhD"
+    title: "Strategy lead"
+    company: "Sunbird AI"
+    twitter: "https://twitter.com/emwebaze"
+    image: "/assets/img/people/Ernest.jpg"
+    
+  - id: 5
+    name: "Daudi Jjingo, PhD"
+    title: "Health Sector Coordinator	ACE"
+    company: "Infectious Disease Institute"
+    twitter: "https://twitter.com/Daudi_j"
+    image: "/assets/img/people/djjingo.jpg"
+    
+  - id: 6
+    name: "Morine Amutorine"
+    title: "Media and Communications"
+    company: "Pulse Lab Kampala"
+    twitter: "https://twitter.com/theAmutorine"
+    image: "/assets/img/people/mamutorine.jpg"
+    
+  - id: 7
+    name: "Micheal Niyitegeka"
+    title: "Private Sector Coordinator"
+    company: "Refactory"
+    twitter: "https://twitter.com/niyimic"
+    image: "/assets/img/people/Michael.jpeg"
+    
+
   
     
 gold: [ nssf]  
