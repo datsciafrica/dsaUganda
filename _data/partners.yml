@@ -46,3 +46,12 @@ sama:
 innov8:
   name: Innov 8 hub
   image: /assets/img/partners/innov8.png
+ucu:
+  name: UCU
+  image: /assets/img/partners/ucu.png
+fairForward:
+  name: FAIR Forward
+  image: /assets/img/partners/fairforward.jpg
+nssf:
+  name: NSSF
+  image: /assets/img/partners/NSSF-logo.png

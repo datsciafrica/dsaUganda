@@ -281,7 +281,7 @@ layout: default
 
     <div class="description-container unpurchased-virtual-no-info ">
         <div class="container">
-            <div class="card-container">
+            <div class="card-container-guest">
               <div class="photo-container">
                 <div class="date">
                   <div class="day">05</div>
@@ -588,16 +588,51 @@ layout: default
         </div>
         <div class="hosts event-partners">
             <h1 class="event-page general-h1">
-                Partners
+                Gold Sponsors
             </h1>
             <div class="container cards">
                 
-                {% if page.partners %}
-                    {% for partner in page.partners %}
+                {% if page.gold %}
+                    {% for partner in page.gold %}
                         {% assign p = site.data.partners[partner] %}
                         {% if p %}
                 <a class="{{ partner }} card-container" href="#" rel="nofollow" target="_blank">
-                    <div style="background-image: url({{site.baseurl}}{{ p.image }})" role="figure" class="card">
+                    <div style="background-image: url({{site.baseurl}}{{ p.image }}); width:400px;" role="figure" class="card">
+                        <!-- this is a helper, only needed because "background-image" did not fire a "onerror" event -->
+                        <img style="display: none;" 
+                            src="{{site.baseurl}}{{ p.image }}" 
+                            onerror="var fallbackImage = 'url({{site.baseurl}}/assets/img/partners/logo-placeholder.jpeg)'; 
+                                     var textSpan = document.createElement('p')
+                                     textSpan.textContent = '{{ p.name }}';
+                                     document.querySelector('.{{ partner }} .card').classList.add('fallback-image');
+                                     document.querySelector('.{{ partner }} .card').style.backgroundImage = fallbackImage;
+                                     document.querySelector('.{{ partner }} .card').appendChild(textSpan)">
+                    </div>
+                    <!-- <span class="label">{{ p.name }}</span> -->
+                </a>
+                        {% endif %}   
+                    {% endfor %}
+                {% else %}
+                    <p>No partners available</p>
+                {% endif %}
+            </div>
+            <div class="modal fade and carousel slide modal-carousel" id="hostsbios" tabindex="-1">
+                <div class="carousel-inner">
+                </div>
+            </div>
+        </div>
+        <div class="hosts event-partners">
+            <h1 class="event-page general-h1">
+                bronze Sponsors
+            </h1>
+            <div class="container cards">
+                
+                {% if page.bronze %}
+                    {% for partner in page.bronze %}
+                        {% assign p = site.data.partners[partner] %}
+                        {% if p %}
+                <a class="{{ partner }} card-container" href="#" rel="nofollow" target="_blank">
+                    <div style="background-image: url({{site.baseurl}}{{ p.image }}); width:400px;" role="figure" class="card">
                         <!-- this is a helper, only needed because "background-image" did not fire a "onerror" event -->
                         <img style="display: none;" 
                             src="{{site.baseurl}}{{ p.image }}" 
