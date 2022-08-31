@@ -18,3 +18,26 @@ defaults:
       type: "events"
     values:
       layout: "event"
+      
+#Gallery
+gallerylinks:
+ - {imagename: "IMG_9541.jpg", thumbnail: "IMG_9541.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9543.jpg", thumbnail: "IMG_9543.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9558.jpg", thumbnail: "IMG_9558.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9561.jpg", thumbnail: "IMG_9561.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9589.jpg", thumbnail: "IMG_9589.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9613.jpg", thumbnail: "IMG_9613.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9617.jpg", thumbnail: "IMG_9617.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9628.jpg", thumbnail: "IMG_9628.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9633.jpg", thumbnail: "IMG_9633.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9648.jpg", thumbnail: "IMG_9648.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9654.jpg", thumbnail: "IMG_9654.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9662.jpg", thumbnail: "IMG_9662.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9707.jpg", thumbnail: "IMG_9707.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9751.jpg", thumbnail: "IMG_9751.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9807.jpg", thumbnail: "IMG_9807.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9809.jpg", thumbnail: "IMG_9809.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9814.jpg", thumbnail: "IMG_9814.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "IMG_9817.jpg", thumbnail: "IMG_9817.jpg",  datasubhtml: "", datasubparagraph: ""}
+ 
+ 
