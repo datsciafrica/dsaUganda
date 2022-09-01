@@ -1,11 +1,14 @@
 <div id="carousel-id-1" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner" role="listbox">
+<!--
         <div class="item active">
             <div class="background-image"
-                style="background-image: linear-gradient(rgba(0, 0, 0, 0.727),rgba(0, 0, 0, 0.7)), url({{ site.url }}{{ site.baseurl }}/assets/img/gallery/IMG_9633_1.jpg); background-color: #ddd;"
+                style="background-image:  url({{ site.url }}{{ site.baseurl }}/assets/img/gallery/IMG_9633_1.jpg); background-color: #ddd;"
                 role="img">
             </div>
             <div class="content" style="height: 500px">
+-->
+<!--
                 <div class="content-inside banner-message">
                     <h2>Data Science Africa - Uganda Chapter</h2>
                     <p>Data Science Africa Launch: 5th August 2022</p>
@@ -22,17 +25,39 @@
                         <ul class="social-links">
                             <li><a style="font-size: 30px; margin: 10px 0 5px 0;" class="social-button icon-twitter" href="https://twitter.com/dsa_Uganda"
                                     target="_blank" rel="noopener noreferrer" title="Twitter"></a></li>
-<!--                             <li><a class="social-button icon-linkedin"
-                                    href="#"
-                                    target="_blank" rel="noopener noreferrer" title="LinkedIn"></a></li> -->
+                       
                             <li><a style="font-size: 30px; margin: 10px 10px 5px 10px;" class="social-button icon-youtube" href="https://www.youtube.com/channel/UCG_XDHclKZxP8MknQQYSw-g"
                                     target="_blank" rel="noopener noreferrer" title="YouTube"></a></li>
                         </ul>
                     </div>
                 </div>
+-->
+<!--
             </div>
         </div>
-        <!-- <a class="pause carousel-control" href="#0" role="button">
+-->
+        {% assign i = 0 %}
+        {% for image in site.gallerylinks %}
+        
+        <!-- Begin slide       -->
+        <div class="item {% if i==0 %} active {% endif %}">
+            <div class="background-image"
+                style="background-image:  url({{ site.url }}{{ site.baseurl }}/assets/img/gallery/{{ image.imagename }}); background-color: #ddd;"
+                role="img">
+            </div>
+            <div class="content" style="height: 500px">
+
+            </div>
+        </div>
+<!--  end slide      -->
+            {% assign i = i | plus:1 %}      
+          {% endfor %}
+
+        
+        
+        
+        
+         <a class="pause carousel-control" href="#0" role="button">
             <span class="glyphicon glyphicon-pause" aria-hidden="true"></span>
             <span class="sr-only">Play/Pause</span>
         </a>
@@ -43,6 +68,6 @@
         <a class="right carousel-control" href="#carousel-id-1" role="button" data-slide="next">
             <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
-        </a> -->
+        </a> 
     </div>
 </div>
