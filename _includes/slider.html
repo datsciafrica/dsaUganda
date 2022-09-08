@@ -36,6 +36,11 @@
             </div>
         </div>
 -->
+        <style>
+        .content-inside{
+            background-color:rgba(0,0,0,0.75);
+            }
+        </style>
         {% assign i = 0 %}
         {% for image in site.gallerylinks %}
         
@@ -45,9 +50,19 @@
                 style="background-image:  url({{ site.url }}{{ site.baseurl }}/assets/img/gallery/{{ image.imagename }}); background-color: #ddd;"
                 role="img">
             </div>
-            <div class="content" style="height: 500px">
-
+            <div class="content">
+            <div class="carousel-caption" style="background-color:rgba(0,0,0,0.75);">
+              <p>{{ image.datasubhtml }}</p>
             </div>
+            </div>
+<!--
+            <div class="content" style="background-color:rgba(0,0,0,0.75);">
+                <div class="content-inside banner-message">
+                    <h2>Data Science Africa - Uganda Chapter</h2>
+                    <p>{{ image.datasubhtml }}</p>
+                </div>
+            </div>
+-->
         </div>
 <!--  end slide      -->
             {% assign i = i | plus:1 %}      
