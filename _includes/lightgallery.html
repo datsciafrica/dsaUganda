@@ -61,7 +61,7 @@
           
           {% for image in site.gallerylinks %}
                 <a data-lg-size="1600-1000" class="gallery-item" data-src="{{ site.baseurl }}/assets/img/gallery/{{ image.imagename }}" data-sub-html="<h4>{% if image.datasubhtml != null %}{{ image.datasubhtml }}{% endif %}</h4><p>{% if image.datasubparagraph != null %}{{ image.datasubparagraph }}{% endif %}</p>">
-                  <img style="width: 140px;" alt="layers of blue." class="img-responsive" src="{{ site.baseurl }}/assets/img/gallery/{{ image.thumbnail }}" />
+                  <img style="width: 140px;" alt="layers of blue." class="img-responsive" src="{{ site.baseurl }}/assets/img/gallery/thumbnails/{{ image.thumbnail }}" />
                 </a>
           {% endfor %}
         
