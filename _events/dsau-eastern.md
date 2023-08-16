@@ -158,7 +158,7 @@ speakers:
     company: "Busitema, Makerere AI Lab"
     twitter: "#"
     image: "/assets/img/people/godliver.jpeg"
-    bio: "Godliver Owomugisha is a lecturer at the Faculty of Engineering, Busitema University. She is also researcher and  a former PhD student at the Data Science & AI Lab, Makerere University under a project entitled: “Automated mobile survey technology and spatial modeling of viral cassava diseases” Her PhD thesis titled “Computational intelligence & modeling of crop disease data in Africa.” can be summarised into these areas: (i). Developed algorithms to auto-diagnose diseases in crops using an image dataset captured with a mobile phone camera. (ii). Investigated on the diagnosis of disease in crops before they become symptomatic by use of spectrograms. (ii). Investigated on the development of a low-cost 3-D printed smartphone add-on spectrometer that can be used to diagnose crop diseases in the fields. Her research work has won her a couple of awards including; Best Engineering Thesis Award 2020, University of Groningen and Research Grant from Data Science Africa, 2020."
+    bio: "Dr Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received my PhD in Computational intelligence & modeling of crop disease data in Africa from the University of Groningen in 2020 which also earned me the "Best PhD thesis award of the University of Groningen Engineering Center, 2020". Her Bachelors and Masters degrees are both in Computer Science from Makerere University. Her research interests are in machine learning and computational intelligence in relation to solving real world problems."
   - id: 10
     name: "Martin Gordon Mubangizi"
     title: "Data Innovation"
