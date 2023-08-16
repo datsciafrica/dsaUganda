@@ -13,3 +13,5 @@ gem "kramdown-parser-gfm", "~> 1.1"
 gem "jekyll", "~> 4.2"
 
 gem "bootstrap", "~> 4.6"
+
+gem "jekyll-watch", "~> 2.2"
