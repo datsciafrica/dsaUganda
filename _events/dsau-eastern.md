@@ -158,7 +158,7 @@ speakers:
     company: "Busitema, Makerere AI Lab"
     twitter: "#"
     image: "/assets/img/people/godliver.jpeg"
-    bio: "Dr Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received my PhD in Computational intelligence & modeling of crop disease data in Africa from the University of Groningen in 2020 which also earned me the "Best PhD thesis award of the University of Groningen Engineering Center, 2020". Her Bachelors and Masters degrees are both in Computer Science from Makerere University. Her research interests are in machine learning and computational intelligence in relation to solving real world problems."
+    bio: "Dr Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received my PhD in Computational intelligence & modeling of crop disease data in Africa from the University of Groningen in 2020 which also earned me the Best PhD thesis award of the University of Groningen Engineering Center, 2020. Her Bachelors and Masters degrees are both in Computer Science from Makerere University. Her research interests are in machine learning and computational intelligence in relation to solving real world problems."
   - id: 10
     name: "Martin Gordon Mubangizi"
     title: "Data Innovation"
@@ -184,8 +184,7 @@ organizers:
     title: "General Chair"
     company: "Makerere AI Lab"
     twitter: ""
-    image: "/assets/img/people/godliver.jpeg"
-   
+    image: "/assets/img/people/godliver.jpeg" 
   - id: 2
     name: "Martin Gordon Mubangizi"
     title: "DSA-Uganda Chair"
