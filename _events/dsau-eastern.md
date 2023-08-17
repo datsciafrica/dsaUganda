@@ -157,20 +157,20 @@ speakers:
     title: "Agriculture"
     company: "Busitema, Makerere AI Lab"
     twitter: "#"
-    image: "/assets/img/people/godliver.jpeg"
+    image: "/assets/img/people/godliver.png"
     bio: "Dr Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received my PhD in Computational intelligence & modeling of crop disease data in Africa from the University of Groningen in 2020 which also earned me the Best PhD thesis award of the University of Groningen Engineering Center, 2020. Her Bachelors and Masters degrees are both in Computer Science from Makerere University. Her research interests are in machine learning and computational intelligence in relation to solving real world problems."
   - id: 10
     name: "Martin Gordon Mubangizi"
     title: "Data Innovation"
     company: "Pulse Lab Kampala"
     twitter: "https://twitter.com/mmubangizi15"
-    image: "/assets/img/people/mmubangizi.jpg"
+    image: "/assets/img/people/martin.png"
   - id: 1
     name: "Ernest Mwebaze"
     title: "Data Science Africa"
     company: "Sunbird AI"
     twitter: "#"
-    image: "/assets/img/people/emwebaze.png"
+    image: "/assets/img/people/ernest.png"
   - id: 4
     name: "Rose Nakasi"
     title: "Health"
@@ -178,18 +178,26 @@ speakers:
     twitter: "#"
     image: "/assets/img/people/rose.jpeg"
     bio: "Rose Nakasi is a Lecturer at Busitema University, a PhD student at Makerere University  as well as a Researcher at Makerere AI Lab. My research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for improved health. I have majorly worked on automated microscopy diagnosis and prediction of Malaria in low resourced but highly endemic settings."
+  - id: 7
+    name: "Micheal Niyitegeka"
+    title: "Private Sector Coordinator"
+    company: "Refactory"
+    twitter: "https://twitter.com/niyimic"
+    image: "/assets/img/people/niyimic.jpg"
+    bio:
+    
 organizers: 
   - id: 1
     name: "Dr. Godliver Owomugisha"
     title: "General Chair"
     company: "Makerere AI Lab"
     twitter: ""
-    image: "/assets/img/people/godliver.jpeg" 
+    image: "/assets/img/people/godliver.png" 
   - id: 2
     name: "Martin Gordon Mubangizi"
     title: "DSA-Uganda Chair"
     company: "Pulse Lab Kampala"
     twitter: "https://twitter.com/mmubangizi15"
-    image: "/assets/img/people/mmubangizi.jpg"
-partners: [sunbird, plk, giz, muk, busitema]
+    image: "/assets/img/people/martin.png"
+partners: [busitema, plk, sunbird , giz, muk ]
 ---
