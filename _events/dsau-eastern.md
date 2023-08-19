@@ -9,7 +9,7 @@ photolink: "/assets/img/placeholder_event.jpg"
 about: Improving livelihoods through Data Science and interdisciplinary research 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 agenda: 
-- title: "Day One"
+- title: "<hr><b>Tutorials Schedule (Day 1 Sept/20)</b> - <i>Venue: tbc: Building AB, Busitema University, Faculty of Engineering</i><hr>"
   start: 
   end: 
 - title: "Welcome and Introductions"
@@ -33,8 +33,8 @@ agenda:
 - title: "Tutorial 1: Python programming"
   start: "09:30"
   end: "10:30"
-  speaker: "TBD"
-  organisation: "TBD"
+  speaker: "Kisitu Wilfred"
+  organisation: "Faculty of Engineering, Busitema University"
   youtube:
   abstract:
   slides:
@@ -93,7 +93,16 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "Day Two"
+- title: "Day 1 recap, reflections & networking"
+  start: "4:30"
+  end: "05:00"
+  speaker: "TBD"
+  organisation: "TBD"
+  youtube:
+  abstract:
+  slides: 
+  ipynb:
+- title: "<hr><b>Workshop Schedule (Day 2 Sept/21)</b> - <i>Venue: tbc: Building AB, Busitema University, Faculty of Engineering</i><hr>"
   start: 
   end: 
 - title: "Day 2 Welcome & recap of Day 1"
@@ -114,16 +123,16 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "Key note 1: AI & Data Science for social Good: Emerging Use Cases from Uganda"
+- title: "[Keynote]: Data Science and Interdisciplinary Research for Thriving Livelihoods"
   start: "09:20"
   end: "10:00"
-  speaker: "Dr. Ernest Mwebaze"
-  organisation: "Sunbird AI"
+  speaker: "Dr. Godliver Owomugisha"
+  organisation: "Busitema University"
   youtube:
   abstract:
   slides:
   ipynb:
-- title: "Talk: Skilling in AI and Data Science I/O pathways" 
+- title: "[Talk]: Skilling in AI and Data Science I/O pathways" 
   start: "10:00"
   end: "10:30"
   speaker: "Michael Niyitegeka"
@@ -135,17 +144,53 @@ agenda:
 - title: "Health Break and poster session"
   start: "10:30"
   end: "11:30"
-  speaker: "Martin Mubangizi"
-  organisation: "Pulse Lab Kampala"
+  speaker: 
+  organisation: 
   youtube:
   abstract:
   slides:
   ipynb:
-- title: "Plenary: Capacity building in AI and Data Science: What is the role of Universities, Industry, and Government?"
-  start: "10:30"
-  end: "11:30"
-  speaker: "Moderator – Prof. Florence Tushabe"
-  organisation: "Soroti University"
+- title: "[Panel]: Capacity building in AI and Data Science: What is the role of Universities, Industry, and Government?"
+  start: "11:30"
+  end: "01:00"
+  speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Michael Niyitegeka, Dr. Nibikora IIdephonse"
+  organisation: "Soroti University, Refactory Uganda, Busitema University"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "[Spotlight Talks]: A tour of AI and Data Science research"
+  start: "02:00"
+  end: "03:00"
+  speaker: 
+  organisation: 
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "[Talk]: AI in private sector"
+  start: "03:00"
+  end: "03:30"
+  speaker: "TBD"
+  organisation: "Stanbic" 
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "[Talk]: AI for social good Initiatives by GIZ"
+  start: "03:30"
+  end: "04:00"
+  speaker: "TBD"
+  organisation: "GIZ"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "Poster awards, closure and networking "
+  start: "04:00"
+  end: "04:50"
+  speaker: 
+  organisation: 
   youtube:
   abstract:
   slides:
@@ -199,5 +244,17 @@ organizers:
     company: "Pulse Lab Kampala"
     twitter: "https://twitter.com/mmubangizi15"
     image: "/assets/img/people/martin.png"
+  - id: 3
+    name: "Musanje Richard"
+    title: "Organizing Committee"
+    company: "Busitema University"
+    twitter: ""
+    image: "/assets/img/people/musanjeRichard.png"
+  - id: 4
+    name: "Joseph Akol"
+    title: "Innovation and Digitization"
+    company: "Busitema University"
+    twitter: ""
+    image: "/assets/img/people/josephAkol.png"
 partners: [busitema, plk, sunbird , giz, muk ]
 ---
