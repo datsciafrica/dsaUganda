@@ -199,8 +199,8 @@ agenda:
 speakers: 
   - id: 5
     name: "Godliver Owomugisha"
-    title: "Agriculture"
-    company: "Busitema, Makerere AI Lab"
+    title: "AI in Agriculture"
+    company: "Busitema University"
     twitter: "#"
     image: "/assets/img/people/godliver.png"
     bio: "Dr Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received my PhD in Computational intelligence & modeling of crop disease data in Africa from the University of Groningen in 2020 which also earned me the Best PhD thesis award of the University of Groningen Engineering Center, 2020. Her Bachelors and Masters degrees are both in Computer Science from Makerere University. Her research interests are in machine learning and computational intelligence in relation to solving real world problems."
@@ -219,7 +219,7 @@ speakers:
   - id: 4
     name: "Rose Nakasi"
     title: "Health"
-    company: "Busitema, Makerere AI Lab"
+    company: "Busitema University"
     twitter: "#"
     image: "/assets/img/people/rose.jpeg"
     bio: "Rose Nakasi is a Lecturer at Busitema University, a PhD student at Makerere University  as well as a Researcher at Makerere AI Lab. My research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for improved health. I have majorly worked on automated microscopy diagnosis and prediction of Malaria in low resourced but highly endemic settings."
@@ -229,6 +229,13 @@ speakers:
     company: "Refactory"
     twitter: "https://twitter.com/niyimic"
     image: "/assets/img/people/niyimic.jpg"
+    bio:
+  - id: 8
+    name: "Kisitu Wilfred"
+    title: "Student"
+    company: "Busitema University"
+    twitter: ""
+    image: "/assets/img/people/kisituWilfred.png"
     bio:
     
 organizers: 
