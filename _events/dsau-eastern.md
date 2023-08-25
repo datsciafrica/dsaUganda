@@ -282,5 +282,12 @@ organizers:
     twitter: ""
     bio: "Ms. Asingwire Barbara Kabwiga is a Lecturer at Busitema University in the Faculty of Engineering, Department of Computer Engineering and Informatics. Barbara is also a PhD candidate in Embedded Computing Systems at the University of Rwanda at the African Centre of Excellence in Internet of Things. Her research interest is to design an IoT-based healthcare architecture/platform considering resource constraints in developing countries and algorithms to analyse and optimize the data traffic to meet specific critical performance parameters. This will improve the overall performance of IoT- based healthcare systems and patients’ experiences reduce costs and save lives. Her main research interests are in performance analysis of wireless communication systems, Artificial Intelligence and emerging technological trends in the Internet of Things (IoT)."
     image: "/assets/img/people/asingwireBarbaraKabwiga.png"
+  - id: 6
+    name: "Mr. Kabwama Alvin Leonard"
+    title: "Sponsorship Chair"
+    company: "DSA Uganda"
+    twitter: ""
+    bio: ""
+    image: "/assets/img/people/kabwama.jpeg"
 partners: [busitema, plk, sunbird , giz, muk ]
 ---
