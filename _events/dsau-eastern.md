@@ -57,17 +57,17 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "Tutorial 3: Machine Learning Operations (MLOPs) from Industry"
+- title: "Tutorial 3: Machine Learning"
   start: "12:00"
   end: "01:00"
-  speaker: "Mr. Isaac Owomugisha"
+  speaker: "Dr. Ernest Mwebaze"
   organisation: "Sunbird AI"
   youtube:
   abstract:
   slides: 
   ipynb:
 - title: "Lunch Break"
-  start: "01:35"
+  start: "01:00"
   end: "02:00"
   speaker: 
   organisation: 
@@ -96,8 +96,8 @@ agenda:
 - title: "Day 1 recap, reflections & networking"
   start: "4:30"
   end: "05:00"
-  speaker: "TBD"
-  organisation: "TBD"
+  speaker: 
+  organisation: 
   youtube:
   abstract:
   slides: 
@@ -215,7 +215,7 @@ speakers:
     company: "Busitema University"
     twitter: "#"
     image: "/assets/img/people/godliver.png"
-    bio: "Dr Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received my PhD in Computational intelligence & modeling of crop disease data in Africa from the University of Groningen in 2020 which also earned me the Best PhD thesis award of the University of Groningen Engineering Center, 2020. Her Bachelors and Masters degrees are both in Computer Science from Makerere University. Her research interests are in machine learning and computational intelligence in relation to solving real world problems."
+    bio: "Dr. Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received her PhD in Computational Intelligence & Modeling of Crop Disease Data in Africa from the University of Groningen in 2020, an achievement that also earned her the Best PhD Thesis Award from the University of Groningen Engineering Center. This recognition was bestowed upon her due to the high scientific impact of her papers, the strong interdisciplinary engineering focus and the societal/environmental impact with the aim of helping farmers to protect crops from disease and African regions to secure food production. Dr. Owomugisha has been working with multidisciplinary collaborative research groups and currently leads Busitema University Artificial Intelligence & Interdisciplinary Research (<a href='https://bu-ai.github.io/'>BUAIIR</a>) Group. <a href='https://bu-ai.github.io/'>BUAIIR</a> was founded on April 20, 2021, with a clear mission to spearhead interdisciplinary research leveraging AI algorithms to address various everyday human challenges. "
   - id: 2
     name: "Dr. Martin Gordon Mubangizi"
     title: "Data Innovation"
@@ -268,8 +268,8 @@ speakers:
     title: "Deputy Vice Chancellor (Finance and Administration)"
     company: "Busitema University"
     twitter: ""
-    image: "/assets/img/people/andrewKatumba.png"
-    bio: ""
+    image: "/assets/img/people/biiraSaphina.png"
+    bio: "Saphina Biira is an Associate Professor of Physics. She holds a PhD in Physics (Materials Science and Nuclear Technology) from the University of Pretoria, South Africa.   She is currently the  Acting Deputy Vice-Chancellor (Finance and Administration) of Busitema University and she has been Heading the Directorate of Quality Assurance at Busitema University."
     
 organizers: 
   - id: 1
