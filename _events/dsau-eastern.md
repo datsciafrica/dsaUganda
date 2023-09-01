@@ -233,7 +233,7 @@ speakers:
     title: "Health"
     company: "Busitema University"
     twitter: "#"
-    image: "/assets/img/people/rose.jpeg"
+    image: "/assets/img/people/nakasiRose.png"
     bio: "Rose Nakasi is a Lecturer at Busitema University, a PhD student at Makerere University  as well as a Researcher at Makerere AI Lab. My research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for improved health. I have majorly worked on automated microscopy diagnosis and prediction of Malaria in low resourced but highly endemic settings."
   - id: 5
     name: "Mr. Micheal Niyitegeka"
