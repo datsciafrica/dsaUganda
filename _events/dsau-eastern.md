@@ -87,8 +87,8 @@ agenda:
 - title: "Tutorial 4: Natural Language Processing"
   start: "03:30"
   end: "04:30"
-  speaker: "TBD"
-  organisation: "TBD"
+  speaker: "Dr. Andrew Katumba"
+  organisation: "Makerere University"
   youtube:
   abstract:
   slides: 
@@ -209,20 +209,20 @@ agenda:
   end: 
   
 speakers: 
-  - id: 5
+  - id: 1
     name: "Dr. Godliver Owomugisha"
     title: "AI in Agriculture"
     company: "Busitema University"
     twitter: "#"
     image: "/assets/img/people/godliver.png"
     bio: "Dr Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received my PhD in Computational intelligence & modeling of crop disease data in Africa from the University of Groningen in 2020 which also earned me the Best PhD thesis award of the University of Groningen Engineering Center, 2020. Her Bachelors and Masters degrees are both in Computer Science from Makerere University. Her research interests are in machine learning and computational intelligence in relation to solving real world problems."
-  - id: 10
+  - id: 2
     name: "Dr. Martin Gordon Mubangizi"
     title: "Data Innovation"
     company: "Pulse Lab Kampala"
     twitter: "https://twitter.com/mmubangizi15"
     image: "/assets/img/people/martin.png"
-  - id: 1
+  - id: 3
     name: "Dr. Ernest Mwebaze"
     title: "Data Science Africa"
     company: "Sunbird AI"
@@ -235,20 +235,34 @@ speakers:
     twitter: "#"
     image: "/assets/img/people/rose.jpeg"
     bio: "Rose Nakasi is a Lecturer at Busitema University, a PhD student at Makerere University  as well as a Researcher at Makerere AI Lab. My research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for improved health. I have majorly worked on automated microscopy diagnosis and prediction of Malaria in low resourced but highly endemic settings."
-  - id: 7
+  - id: 5
     name: "Mr. Micheal Niyitegeka"
     title: "Private Sector Coordinator"
     company: "Refactory"
     twitter: "https://twitter.com/niyimic"
     image: "/assets/img/people/niyimic.jpg"
     bio:
-  - id: 8
+  - id: 6
     name: "Mr. Kisitu Wilfred"
     title: "Student"
     company: "Busitema University"
     twitter: ""
     image: "/assets/img/people/kisituWilfred.png"
     bio:
+  - id: 7
+    name: "Prof. Florence Tushabe"
+    title: "Associate Professor"
+    company: "Soroti University"
+    twitter: ""
+    image: "/assets/img/people/florenceTushabe.png"
+    bio: "Prof. Florence Tushabe is an Associate Professor of Soroti University. She was first exposed to AI in 2008 while studying her PhD at the University of Groningen and fell in love with it. She first used AI techniques for traffic sign detection and has since progressed to develop AI components for skin disease diagnosis and speech-to-text recognition. Her current ongoing project is using AI for Sickle Cell detection. Prof. Tushabe has trained several students in AI techniques in the last ten years and many have spread out all over the world, enjoying their skills."
+  - id: 8
+    name: "Dr. Andrew Katumba"
+    title: "Lecturer"
+    company: "Makerere University"
+    twitter: ""
+    image: "/assets/img/people/andrewKatumba.png"
+    bio: ""
     
 organizers: 
   - id: 1
