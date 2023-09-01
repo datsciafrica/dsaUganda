@@ -30,7 +30,7 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "Tutorial 1: Python programming"
+- title: "Tutorial 1: Python programming for data science"
   start: "09:30"
   end: "10:30"
   speaker: "Mr. Kisitu Wilfred"
@@ -75,7 +75,7 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "Tutorial 3: Computer vision applications in health"
+- title: "Tutorial 4: Computer vision applications in health"
   start: "02:00"
   end: "03:30"
   speaker: "Dr. Rose Nakasi"
@@ -84,7 +84,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "Tutorial 4: Natural Language Processing"
+- title: "Tutorial 5: Natural Language Processing"
   start: "03:30"
   end: "04:30"
   speaker: "Dr. Andrew Katumba"
@@ -153,8 +153,8 @@ agenda:
 - title: "[Panel]: Capacity building in AI and Data Science: What is the role of Universities, Industry, and Government?"
   start: "11:30"
   end: "01:00"
-  speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Mr. Michael Niyitegeka, Dr. Nibikora IIdephonse"
-  organisation: "Soroti University, Refactory Uganda, Busitema University"
+  speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Mr. Michael Niyitegeka, Dr. Nibikora IIdephonse, Prof. Biira Safina"
+  organisation: "Soroti University, Refactory Uganda, Busitema University, Busitema University"
   youtube:
   abstract:
   slides:
@@ -260,6 +260,13 @@ speakers:
     name: "Dr. Andrew Katumba"
     title: "Lecturer"
     company: "Makerere University"
+    twitter: ""
+    image: "/assets/img/people/andrewKatumba.png"
+    bio: ""
+  - id: 9
+    name: "Prof. Biira Safina"
+    title: "Deputy Vice Chancellor (Finance and Administration)"
+    company: "Busitema University"
     twitter: ""
     image: "/assets/img/people/andrewKatumba.png"
     bio: ""
