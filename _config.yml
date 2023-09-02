@@ -21,6 +21,7 @@ defaults:
       
 #Gallery
 gallerylinks:
+ - {imagename: "foe_bg.jpg", thumbnail: "foe_bg.jpg",  datasubhtml: "DSA Uganda Eastern, Busitema University, Tororo Campus, September 2023<br> <a href='https://docs.google.com/forms/d/10mJyHIVVlvA6rXruk6AAIl8FS6XsJRodtlFUK-nVEd0/viewform?ts=64e4b231&edit_requested=true' class='btn btn-primary'>Click to Register <i class='glyphicon glyphicon-edit'></i></a>", datasubparagraph: ""}
  - {imagename: "IMG_9541.jpg", thumbnail: "IMG_9541.jpg",  datasubhtml: "Official Logo for Data Science Africa, Uganda (DSAU) Chapter.", datasubparagraph: ""}
  - {imagename: "IMG_9543.jpg", thumbnail: "IMG_9543.jpg",  datasubhtml: "Panel discussion set up at the Data Science Africa, Uganda (DSAU) Chapter launched on 5th August, 2022 at the National ICT Hub, Nakawa.", datasubparagraph: ""}
  - {imagename: "IMG_9558.jpg", thumbnail: "IMG_9558.jpg",  datasubhtml: "Dr. Hatwib Mugasa, Executive Director, NITA-U officiates the launch of Data Science Africa, Uganda (DSAU) Chapter, launched on 5th August 2022 at the National ICT Hub, Nakawa. ", datasubparagraph: ""}
