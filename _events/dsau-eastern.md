@@ -271,6 +271,13 @@ speakers:
     twitter: ""
     image: "/assets/img/people/biiraSaphina.png"
     bio: "Saphina Biira is an Associate Professor of Physics. She holds a PhD in Physics (Materials Science and Nuclear Technology) from the University of Pretoria, South Africa.   She is currently the  Acting Deputy Vice-Chancellor (Finance and Administration) of Busitema University and she has been Heading the Directorate of Quality Assurance at Busitema University."
+  - id: 10
+    name: "Dr. Daniel Otim"
+    title: "Dean, Faculty of Engineering"
+    company: "Busitema University"
+    twitter: ""
+    image: "/assets/img/people/danielOtim.png"
+    bio: "Daniel Otim is a Senior Lecturer and the Dean Faculty of Engineering and Technology in Busitema University with specific expertise in soil and water conservation engineering, water resources engineering, hydrology, hydraulics, irrigation and drainage engineering. Daniel is professionally registered with the Engineers Registration Board of Uganda and he has a PhD (Agricultural Engineering) from University of KwaZulu-Natal, South Africa, MSc Engineering degree in Irrigation Engineering from University of Florence, Italy and a BSc Engineering degree in Civil Engineering which he obtained from Makerere University, Uganda. He has designed and managed a multitude of civil engineering projects and he lectures courses in Soil and Water Engineering, Flood Mitigation and Management, Applied Hydraulics and Irrigation and Drainage System Design and Management. "
     
 organizers: 
   - id: 1
