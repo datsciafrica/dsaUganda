@@ -52,8 +52,8 @@ agenda:
 - title: "Tutorial 2: Data engineering and analytics"
   start: "11:00"
   end: "12:00"
-  speaker: "TBD"
-  organisation: "TBD"
+  speaker: "Dr. Emmanuel Ahishakiye"
+  organisation: "Kyambogo University"
   youtube:
   abstract:
   slides: 
@@ -154,7 +154,7 @@ agenda:
 - title: "[Panel]: Capacity building in AI and Data Science: What is the role of Universities, Industry, and Government?"
   start: "11:30"
   end: "01:00"
-  speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Mr. Michael Niyitegeka, Dr. Nibikora IIdephonse, Prof. Biira Safina"
+  speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Mr. Michael Niyitegeka, Dr. Nibikora Ildephonse, Prof. Biira Safina"
   organisation: "Soroti University, Refactory Uganda, Busitema University, Busitema University"
   youtube:
   abstract:
@@ -278,6 +278,20 @@ speakers:
     twitter: ""
     image: "/assets/img/people/danielOtim.png"
     bio: "Daniel Otim is a Senior Lecturer and the Dean Faculty of Engineering and Technology in Busitema University with specific expertise in soil and water conservation engineering, water resources engineering, hydrology, hydraulics, irrigation and drainage engineering. Daniel is professionally registered with the Engineers Registration Board of Uganda and he has a PhD (Agricultural Engineering) from University of KwaZulu-Natal, South Africa, MSc Engineering degree in Irrigation Engineering from University of Florence, Italy and a BSc Engineering degree in Civil Engineering which he obtained from Makerere University, Uganda. He has designed and managed a multitude of civil engineering projects and he lectures courses in Soil and Water Engineering, Flood Mitigation and Management, Applied Hydraulics and Irrigation and Drainage System Design and Management. "
+  - id: 11
+    name: "Dr Nibikora Ildephonse"
+    title: "Deputy Dean, Faculty of Engineering"
+    company: "Busitema University"
+    twitter: ""
+    image: "/assets/img/people/nibikolaIldephonse.png"
+    bio: "Deputy Dean of Faculty of Engineering and technology, Busitema University (since January 2021), Senior Lecturer in Polymer Textile and Industrial Engineering department (since 2017), Head of Department of Textile and Ginning Engineering (since 2014 to December 2020), Worked as lecturer (from 2012 to 2017) in the Department of Textile and Ginning Engineering, Faculty of Engineering and Technology, Busitema University. I graduate from Donghua University, Shanghai, China, with PhD (2011) and Msc (2007) in Textile Engineering. I received a Bachelor of Science in Agronomy Engineering in 1999 any University of Burundi. Research focus areas: Optimization, modelling and simulation of textiles processes, and textile materials engineering with different applications. Contact: Busitema University, P.O BOX 236 Tororo, Eastern Uganda, Tel:+256785096691 , Email: nibikora6@gmail.com , nibikora.eng@busitema.ac.ug ."
+  - id: 12
+    name: "Dr. Emmanuel Ahishakiye"
+    title: "Lecturer and a Researcher"
+    company: "Kyambogo University"
+    twitter: ""
+    image: "/assets/img/people/emmanuelAhishakiye.png"
+    bio: "Dr. Emmanuel Ahishakiye is a Lecturer and a Researcher at Kyambogo University in the School of Computing and Information Science, Department of Data Science and Artificial Intelligence. Emmanuel’s research interests are in the Theory of Machine Learning Algorithms, and in the Design of Models that are simple to Use and Efficient especially for local Settings. Emmanuel’s general research area is Artificial Intelligence for Development (AI4D)."
     
 organizers: 
   - id: 1
