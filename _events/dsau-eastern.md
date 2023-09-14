@@ -172,7 +172,7 @@ agenda:
 - title: "[Talk]: AI in private sector"
   start: "03:00"
   end: "03:30"
-  speaker: "TBD"
+  speaker: "Mr. Kato Dickson"
   organisation: "Stanbic" 
   youtube:
   abstract:
@@ -292,8 +292,15 @@ speakers:
     twitter: ""
     image: "/assets/img/people/emmanuelAhishakiye.png"
     bio: "Dr. Emmanuel Ahishakiye is a Lecturer and a Researcher at Kyambogo University in the School of Computing and Information Science, Department of Data Science and Artificial Intelligence. Emmanuel’s research interests are in the Theory of Machine Learning Algorithms, and in the Design of Models that are simple to Use and Efficient especially for local Settings. Emmanuel’s general research area is Artificial Intelligence for Development (AI4D)."
+  - id: 13
+    name: "Mr. Katto Dickson"
+    title: "Head Data Commercialization"
+    company: "Stanbic Bank"
+    twitter: ""
+    image: "/assets/img/people/kattoDickson.jpeg"
+    bio: ""
     
-organizers: 
+organizers:
   - id: 1
     name: "Dr. Godliver Owomugisha"
     title: "General Chair"
