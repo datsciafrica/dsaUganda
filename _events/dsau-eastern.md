@@ -339,5 +339,5 @@ organizers:
     twitter: ""
     bio: ""
     image: "/assets/img/people/kabwama.jpeg"
-partners: [busitema, plk, sunbird , giz, muk ]
+partners: [dsa, busitema, plk, sunbird , giz, muk, makererAILab, marconiAILab]
 ---

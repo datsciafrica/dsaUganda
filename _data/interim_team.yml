@@ -68,4 +68,13 @@
   company: ""
   twitter: "#"
   image: "/assets/img/people/cbabirye.jpg"
+  
+  
+- 
+  id: 11
+  name: "Kabwama Alvin Leonard"
+  title: "Sponsorship Chair"
+  company: "DSA Uganda"
+  twitter: ""
+  image: "/assets/img/people/kabwama.jpeg"
 

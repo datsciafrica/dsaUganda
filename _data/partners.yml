@@ -55,3 +55,12 @@ fairForward:
 nssf:
   name: NSSF
   image: /assets/img/partners/NSSF-logo.png
+makererAILab:
+  name: Makerere AI Lab
+  image: /assets/img/partners/makerereAILab.jpeg
+marconiAILab:
+  name: Marconi AI Lab
+  image: /assets/img/partners/marconiAILab.png
+dsa:
+  name: Data Science Africa
+  image: /assets/img/partners/dsa.png
