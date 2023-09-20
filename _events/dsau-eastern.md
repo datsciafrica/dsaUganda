@@ -39,7 +39,7 @@ agenda:
   youtube:
   abstract:
   slides:
-  ipynb:https://drive.google.com/file/d/11ssPwn4kHlXI6-vBcxFIN4ERX4IjGe4c/view?usp=drive_link
+  ipynb: https://drive.google.com/file/d/11ssPwn4kHlXI6-vBcxFIN4ERX4IjGe4c/view?usp=drive_link
 - title: "Health Break"
   start: "10:30"
   end: "11:00"
