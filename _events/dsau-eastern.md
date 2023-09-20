@@ -154,8 +154,8 @@ agenda:
 - title: "[Panel]: Capacity Building in AI and Data Science: What is the role of Universities, Industry, and Government?"
   start: "11:30"
   end: "01:00"
-  speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Mr. Michael Niyitegeka, Dr. Nibikora Ildephonse, Prof. Biira Safina"
-  organisation: "Soroti University, Refactory Uganda, Busitema University, Busitema University"
+  speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Ms. Stella Kwera, Dr. Nibikora Ildephonse, Prof. Biira Safina"
+  organisation: "Soroti University, URA, Busitema University, Busitema University"
   youtube:
   abstract:
   slides:
@@ -178,11 +178,11 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "[Talk]: AI for Social Good Initiatives by GIZ"
+- title: "[Talk]: Data Ecosystems"
   start: "03:30"
   end: "04:00"
-  speaker: "TBD"
-  organisation: "GIZ"
+  speaker: "Prof. Florence Tushabe"
+  organisation: "Soroti University"
   youtube:
   abstract:
   slides:
@@ -258,11 +258,11 @@ speakers:
     image: "/assets/img/people/florenceTushabe.png"
     bio: "Prof. Florence Tushabe is an Associate Professor of Soroti University. She was first exposed to AI in 2008 while studying her PhD at the University of Groningen and fell in love with it. She first used AI techniques for traffic sign detection and has since progressed to develop AI components for skin disease diagnosis and speech-to-text recognition. Her current ongoing project is using AI for Sickle Cell detection. Prof. Tushabe has trained several students in AI techniques in the last ten years and many have spread out all over the world, enjoying their skills."
   - id: 8
-    name: "Dr. Andrew Katumba"
-    title: "Lecturer"
-    company: "Makerere University"
+    name: "Ms. Stella Kwera"
+    title: "Data Analyst"
+    company: "URA"
     twitter: ""
-    image: "/assets/img/people/andrewKatumba.png"
+    image: "/assets/img/people/stellaKwera.png"
     bio: ""
   - id: 9
     name: "Prof. Biira Safina"
