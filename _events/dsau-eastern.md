@@ -84,7 +84,7 @@ agenda:
   youtube:
   abstract:
   slides: 
-  ipynb:
+  ipynb: https://colab.research.google.com/drive/1tMqksJk2jzDgeztr9PTigJFzYD504qtF
 - title: "Tutorial 5: Natural Language Processing"
   start: "03:30"
   end: "04:30"
