@@ -30,7 +30,7 @@ agenda:
   youtube:
   abstract:
   slides: 
-  ipynb:
+  ipynb: https://drive.google.com/file/d/11ssPwn4kHlXI6-vBcxFIN4ERX4IjGe4c/view?usp=drive_link
 - title: "Tutorial 1: Python programming for data science"
   start: "09:30"
   end: "10:30"
