@@ -5,7 +5,7 @@ chapter: DSA UG
 date: 2023-09-20
 time: 09:00 AM
 timezone: EAT
-registerLink: "https://docs.google.com/forms/d/10mJyHIVVlvA6rXruk6AAIl8FS6XsJRodtlFUK-nVEd0/viewform?ts=64e4b231&edit_requested=true"
+registerLink: "https://www.youtube.com/watch?v=e5tHetBxMnM"
 photolink: "/assets/img/placeholder_event.jpg"
 about: Improving livelihoods through Data Science and interdisciplinary research 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
