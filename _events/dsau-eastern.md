@@ -54,18 +54,18 @@ agenda:
   end: "12:00"
   speaker: "Dr. Emmanuel Ahishakiye"
   organisation: "Kyambogo University"
-  youtube:
+  youtube: https://youtu.be/qWru-b6m030?si=xuRnxWhkI_638GqR
   abstract:
   slides: 
   ipynb:
-- title: "Tutorial 3: Machine Learning"
+- title: "Tutorial 3: Computer Vision Applications in Health"
   start: "12:00"
   end: "01:00"
-  speaker: "Dr. Ernest Mwebaze"
-  organisation: "Sunbird AI"
+  speaker: "Dr. Rose Nakasi"
+  organisation: "Busitema University"
   youtube:
   abstract:
-  slides: 
+  slides:
   ipynb:
 - title: "Lunch Break"
   start: "01:00"
@@ -76,14 +76,14 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "Tutorial 4: Computer Vision Applications in Health"
+- title: "Tutorial 4: Machine Learning"
   start: "02:00"
   end: "03:30"
-  speaker: "Dr. Rose Nakasi"
-  organisation: "Busitema University"
+  speaker: "Dr. Ernest Mwebaze"
+  organisation: "Sunbird AI"
   youtube:
   abstract:
-  slides:
+  slides: 
   ipynb:
 - title: "Tutorial 5: Natural Language Processing"
   start: "03:30"
