@@ -22,7 +22,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "Opening remarks"
+- title: "Opening Remarks"
   start: "09:20"
   end: "09:30"
   speaker: "Dr. Daniel Otim"
@@ -31,7 +31,7 @@ agenda:
   abstract:
   slides: 
   ipynb: 
-- title: "Tutorial 1: Python programming for data science"
+- title: "Tutorial 1: Python Programming for Data Science"
   start: "09:30"
   end: "10:30"
   speaker: "Mr. Kisitu Wilfred"
@@ -49,7 +49,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "Tutorial 2: Data engineering and analytics"
+- title: "Tutorial 2: Data Engineering and Analytics"
   start: "11:00"
   end: "12:00"
   speaker: "Dr. Emmanuel Ahishakiye"
@@ -76,7 +76,7 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "Tutorial 4: Computer vision applications in health"
+- title: "Tutorial 4: Computer Vision Applications in Health"
   start: "02:00"
   end: "03:30"
   speaker: "Dr. Rose Nakasi"
@@ -94,7 +94,7 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "Day 1 recap, reflections & networking"
+- title: "Day 1 Recap, Reflections & Networking"
   start: "4:30"
   end: "05:00"
   speaker: 
@@ -106,7 +106,7 @@ agenda:
 - title: "<hr><b>Workshop Schedule (Day 2 Sept/21)</b> - <i>Venue: Conference Hall, FoE, Building AB, Busitema University, Faculty of Engineering</i><hr>"
   start: 
   end: 
-- title: "Day 2 Welcome & recap of Day 1"
+- title: "Day 2 Welcome & Recap of Day 1"
   start: "09:00"
   end: "09:10"
   speaker: "Dr. Godliver Owomugisha and Dr. Martin Mubangizi" 
@@ -133,7 +133,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "[Talk]: Skilling in AI and Data Science I/O pathways" 
+- title: "[Talk]: Skilling in AI and Data Science I/O Pathways" 
   start: "10:00"
   end: "10:30"
   speaker: "Mr. Michael Niyitegeka"
@@ -142,7 +142,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "Health Break and poster session"
+- title: "Health Break and Poster Session"
   start: "10:30"
   end: "11:30"
   speaker: 
@@ -151,7 +151,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "[Panel]: Capacity building in AI and Data Science: What is the role of Universities, Industry, and Government?"
+- title: "[Panel]: Capacity Building in AI and Data Science: What is the role of Universities, Industry, and Government?"
   start: "11:30"
   end: "01:00"
   speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Mr. Michael Niyitegeka, Dr. Nibikora Ildephonse, Prof. Biira Safina"
@@ -160,7 +160,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "[Spotlight Talks]: A tour of AI and Data Science research"
+- title: "[Spotlight Talks]: A Tour of AI and Data Science Research"
   start: "02:00"
   end: "03:00"
   speaker: 
@@ -169,7 +169,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "[Talk]: AI in private sector"
+- title: "[Talk]: AI in Private Sector"
   start: "03:00"
   end: "03:30"
   speaker: "Mr. Kato Dickson"
@@ -178,7 +178,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "[Talk]: AI for social good Initiatives by GIZ"
+- title: "[Talk]: AI for Social Good Initiatives by GIZ"
   start: "03:30"
   end: "04:00"
   speaker: "TBD"
@@ -187,7 +187,7 @@ agenda:
   abstract:
   slides:
   ipynb:
-- title: "Poster awards, closure and networking "
+- title: "Poster Awards, Closure and Networking "
   start: "04:00"
   end: "04:50"
   speaker: 
