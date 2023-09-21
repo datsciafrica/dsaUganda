@@ -154,18 +154,9 @@ agenda:
   ipynb:
 - title: "[Panel]: Capacity Building in AI and Data Science: What is the role of Universities, Industry, and Government?"
   start: "11:30"
-  end: "12:30"
+  end: "01:00"
   speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Ms. Stella Kwera, Dr. Nibikora Ildephonse, Prof. Biira Safina"
   organisation: "Soroti University, URA, Busitema University, Busitema University"
-  youtube:
-  abstract:
-  slides:
-  ipynb:
-- title: "[Talk]: AI in Private Sector"
-  start: "12:30"
-  end: "01:00"
-  speaker: "Mr. Kato Dickson"
-  organisation: "Stanbic" 
   youtube:
   abstract:
   slides:
@@ -179,8 +170,17 @@ agenda:
   abstract:
   slides: 
   ipynb:
-- title: "[Spotlight Talks]: A Tour of AI and Data Science Research"
+- title: "[Talk]: AI in Private Sector"
   start: "02:00"
+  end: "02:30"
+  speaker: "Mr. Kato Dickson"
+  organisation: "Stanbic" 
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "[Spotlight Talks]: A Tour of AI and Data Science Research"
+  start: "02:30"
   end: "04:00"
   speaker: 
   organisation: 
