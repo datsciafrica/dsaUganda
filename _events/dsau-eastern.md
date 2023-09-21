@@ -132,31 +132,40 @@ agenda:
   organisation: "Busitema University"
   youtube:
   abstract:
-  slides:
-  ipynb:
-- title: "[Talk]: Skilling in AI and Data Science I/O Pathways" 
-  start: "10:00"
-  end: "10:30"
-  speaker: "Mr. Michael Niyitegeka"
-  organisation: "Refractory, Uganda"
-  youtube:
-  abstract:
-  slides:
+  slides: https://drive.google.com/file/d/1NXrkzKhHd2UmkEsK-WrePM1J79k8yNQ9/view?usp=sharing
   ipynb:
 - title: "Health Break and Poster Session"
-  start: "10:30"
-  end: "11:30"
+  start: "10:00"
+  end: "11:00"
   speaker: 
   organisation: 
   youtube:
   abstract:
   slides:
   ipynb:
+- title: "[Talk]: Data Handling"
+  start: "11:00"
+  end: "11:30"
+  speaker: "Prof. Florence Tushabe"
+  organisation: "Soroti University"
+  youtube:
+  abstract:
+  slides: https://docs.google.com/presentation/d/147TwV-PTX1C1zDzn6afgYPmIXQyAY-Mi/edit?usp=sharing&ouid=106169766544111501619&rtpof=true&sd=true
+  ipynb:
 - title: "[Panel]: Capacity Building in AI and Data Science: What is the role of Universities, Industry, and Government?"
   start: "11:30"
-  end: "01:00"
+  end: "12:30"
   speaker: "Moderator – Prof. Florence Tushabe<br>Panelist: Ms. Stella Kwera, Dr. Nibikora Ildephonse, Prof. Biira Safina"
   organisation: "Soroti University, URA, Busitema University, Busitema University"
+  youtube:
+  abstract:
+  slides:
+  ipynb:
+- title: "[Talk]: AI in Private Sector"
+  start: "12:30"
+  end: "01:00"
+  speaker: "Mr. Kato Dickson"
+  organisation: "Stanbic" 
   youtube:
   abstract:
   slides:
@@ -172,27 +181,9 @@ agenda:
   ipynb:
 - title: "[Spotlight Talks]: A Tour of AI and Data Science Research"
   start: "02:00"
-  end: "03:00"
+  end: "04:00"
   speaker: 
   organisation: 
-  youtube:
-  abstract:
-  slides:
-  ipynb:
-- title: "[Talk]: AI in Private Sector"
-  start: "03:00"
-  end: "03:30"
-  speaker: "Mr. Kato Dickson"
-  organisation: "Stanbic" 
-  youtube:
-  abstract:
-  slides:
-  ipynb:
-- title: "[Talk]: Data Ecosystems"
-  start: "03:30"
-  end: "04:00"
-  speaker: "Prof. Florence Tushabe"
-  organisation: "Soroti University"
   youtube:
   abstract:
   slides:
