@@ -161,6 +161,15 @@ agenda:
   abstract:
   slides:
   ipynb:
+- title: "Lunch Break"
+  start: "01:00"
+  end: "02:00"
+  speaker: 
+  organisation: 
+  youtube:
+  abstract:
+  slides: 
+  ipynb:
 - title: "[Spotlight Talks]: A Tour of AI and Data Science Research"
   start: "02:00"
   end: "03:00"
