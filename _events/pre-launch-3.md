@@ -4,6 +4,7 @@ name: Virtual Pre-launch 3
 date: 2021-06-25
 time: 4:00 PM
 timezone: EAT
+enddate: 2021-06-26
 about: Showcasing data science research and projects in Universities 
 zoomlink: "https://undp.zoom.us/j/82350458862"
 photolink: "/assets/img/placeholder_event.jpg"

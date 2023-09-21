@@ -5,6 +5,7 @@ chapter: DSA UG
 date: 2021-04-30
 time: 10:00 AM
 timezone: EAT
+enddate: 2021-05-01
 photolink: "/assets/img/placeholder_event.jpg"
 about: In collaboration with Academia, Governement agencies, Private sector and 
        UN agancies we are excited 💯 to bring you the pre-launch event of DSA Uganda Chapter 🇺🇬

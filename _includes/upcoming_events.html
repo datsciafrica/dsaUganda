@@ -12,7 +12,7 @@
         <ul class="event-list">
             {% assign today_date = 'now' | date: '%s' %}
             {% for event in site.events %}
-                {% assign event_date = event.date | date: '%s' %}
+                {% assign event_date = event.enddate | date: '%s' %}
                 {% assign i = 0 %}
                 {% if today_date < event_date %}
                     {% assign i = i | plus:1 %}

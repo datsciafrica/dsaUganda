@@ -5,6 +5,7 @@ chapter: DSA UG
 date: 2021-05-28
 time: 10:00 AM
 timezone: EAT
+enddate: 2021-05-29
 photolink: "/assets/img/placeholder_event.jpg"
 about: Opportunities in, for and around Data Science in Uganda 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]

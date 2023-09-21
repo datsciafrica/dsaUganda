@@ -5,6 +5,7 @@ chapter: DSA UG
 date: 2023-09-20
 time: 09:00 AM
 timezone: EAT
+enddate: 2023-09-22
 registerLink: "https://www.youtube.com/watch?v=e5tHetBxMnM"
 photolink: "/assets/img/placeholder_event.jpg"
 about: Improving livelihoods through Data Science and interdisciplinary research 🇺🇬
@@ -339,5 +340,5 @@ organizers:
     twitter: ""
     bio: ""
     image: "/assets/img/people/kabwama.jpeg"
-partners: [dsa, busitema, plk, sunbird , giz, muk, makererAILab, marconiAILab]
+partners: [dsa, busitema, plk, sunbird , giz, muk, makererAILab, marconiAILab, airqo]
 ---

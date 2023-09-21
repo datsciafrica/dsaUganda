@@ -5,6 +5,7 @@ chapter: DSA UG
 date: 2022-08-05
 time: 07:00 AM
 timezone: EAT
+enddate: 2022-08-06
 photolink: "/assets/img/dsa pre - launch Northern region 22-01.png"
 eventPhoto: "/assets/img/dsa_banner_launch_1.png"
 about: Let us shape DSA Uganda, together, to what we want.
