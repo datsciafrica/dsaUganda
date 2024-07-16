@@ -6,9 +6,9 @@ date: 2024-08-26
 time: 09:00 AM
 timezone: EAT
 enddate: 2024-08-28
-registerLink: "https://www.youtube.com/watch?v=e5tHetBxMnM"
+registerLink: 
 photolink: "/assets/img/placeholder_event.jpg"
-about: Improving livelihoods through Data Science and interdisciplinary research 🇺🇬
+about: Creating a coordinative and vibrant data-driven economy for socio-economic transformation 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 type: launch
 agenda: 
