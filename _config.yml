@@ -21,7 +21,7 @@ defaults:
       
 #Gallery
 gallerylinks:
- - {imagename: "dsau_westren.png", thumbnail: "dsau_westren.png",  datasubhtml: "DSA Uganda 2024 Fort Portal, Mountains of the Moon University, this August 2024 . <br>Watch this session on Youtube link below<br> <a href='https://docs.google.com/forms/d/e/1FAIpQLSca458CmTgzap7UpmPkafQLyzGXc6J5RRgxe7DtwlnUIgAyLg/viewform' class='btn btn-primary'>Click To Register <i class='glyphicon glyphicon-edit'></i></a>", datasubparagraph: ""}
+ - {imagename: "dsau_westren.png", thumbnail: "dsau_westren.png",  datasubhtml: "DSA Uganda 2024 Fort Portal, Mountains of the Moon University, this August 2024 . <br><br> <a href='https://docs.google.com/forms/d/e/1FAIpQLSca458CmTgzap7UpmPkafQLyzGXc6J5RRgxe7DtwlnUIgAyLg/viewform' class='btn btn-primary'>Click To Register <i class='glyphicon glyphicon-edit'></i></a>", datasubparagraph: ""}
  - {imagename: "foe_bg.jpg", thumbnail: "foe_bg.jpg",  datasubhtml: "DSA Uganda Eastern, Busitema University, Tororo Campus, September 2023,<br>Watch this session on Youtube link below<br> <a href='https://www.youtube.com/watch?v=e5tHetBxMnM' class='btn btn-primary'>Click to view session on Youtube <i class='glyphicon glyphicon-youtube'></i></a>", datasubparagraph: ""}
  - {imagename: "IMG_9541.jpg", thumbnail: "IMG_9541.jpg",  datasubhtml: "Official Logo for Data Science Africa, Uganda (DSAU) Chapter.", datasubparagraph: ""}
  - {imagename: "IMG_9543.jpg", thumbnail: "IMG_9543.jpg",  datasubhtml: "Panel discussion set up at the Data Science Africa, Uganda (DSAU) Chapter launched on 5th August, 2022 at the National ICT Hub, Nakawa.", datasubparagraph: ""}
