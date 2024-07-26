@@ -540,7 +540,7 @@ organizers:
     twitter: ""
     bio: ""
     image: "/assets/img/people/cbabirye.jpg"
-# gold: [ nssf, makererAIHealthLab]  
+gold: [ dsa, sunbird, airqo ]  
 # bronze: [ucu, fairForward]
 # partners: [dsa, plk, sunbird , muk, makererAILab, makererAIHealthLab, marconiAILab, airqo]
 ---
