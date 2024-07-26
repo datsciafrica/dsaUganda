@@ -517,30 +517,36 @@ organizers:
   - id: 1
     name: "Dr. Akugizibwe Edwin."
     title: "General Chair"
-    company: "Mountains of the Moon University:"
+    company: "Mountains of the Moon University"
     twitter: ""
-    image: "/assets/img/people/Dr_Akugizibwe_Edwin.jpeg" 
+    image: "/assets/img/people/Dr_Akugizibwe_Edwin.png" 
   - id: 2
+    name: "Mr. Kusemererwa Peter"
+    title: "<br>General Chair- FortPortal City</br>Senior Assistant Town Clerk & AG. Town Clerk North Division"
+    company: "Data Strategist Fort Portal City"
+    twitter: ""
+    image: "/assets/img/people/K.Peter.png" 
+  - id: 3
     name: "Dr. Martin Gordon Mubangizi"
     title: "Program Chair -Workshop"
     company: "Pulse Lab Kampala"
     twitter: "https://twitter.com/mmubangizi15"
     image: "/assets/img/people/martin.png"
-  - id: 3
+  - id: 4
     name: "Dr. Joyce Nabende Nakatumba"
     title: "Program Chair - Summer school"
     company: "DSA Uganda"
     twitter: ""
     bio: ""
-    image: "/assets/img/people/jnabende.jpg"
-  - id: 4
+    image: "/assets/img/people/joyce_photo.png"
+  - id: 5
     name: "Ms. Claire Babirye"
     title: "Program Chair - Summer school"
     company: "DSA Uganda"
     twitter: ""
     bio: ""
     image: "/assets/img/people/cbabirye.jpg"
-gold: [ dsa, sunbird, airqo ]  
+gold: [ dsa ]  
 # bronze: [ucu, fairForward]
 # partners: [dsa, plk, sunbird , muk, makererAILab, makererAIHealthLab, marconiAILab, airqo]
 ---
