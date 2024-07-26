@@ -271,9 +271,9 @@ day1:
   end: "04:00 "
   sessions:
   - room1: 
-    topic1: "NLP Labs (Case study: Agriculture|Health|Environment|Tourism)"
+    topic1: "NLP Labs (Case study: Agriculture | Health | Environment | Tourism)"
   - room2: 
-    topic2: "Computer Vision Labs (Case study: Agriculture|Health|Environment|Tourism)"
+    topic2: "Computer Vision Labs (Case study: Agriculture | Health | Environment | Tourism)"
 - slot:
   start: "04:00-"
   end: "05:00 "

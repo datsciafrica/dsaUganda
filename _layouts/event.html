@@ -152,6 +152,81 @@ layout: default
             width: 100%;
         }
     }
+
+    .launch1 h1 {
+              position: relative;
+              padding: 0;
+              margin: 0;
+              font-family: "Raleway", sans-serif;
+              font-weight: 300;
+              font-size: 30px;
+              color: #008542;
+              -webkit-transition: all 0.4s ease 0s;
+              -o-transition: all 0.4s ease 0s;
+              transition: all 0.4s ease 0s;
+            }
+            
+            /* === HEADING STYLE #3 === */
+            .launch1 h1 {
+              font-size: 28px;
+              font-weight: 500;
+              letter-spacing: 0;
+              line-height: 1.5em;
+              padding-bottom: 15px;
+              position: relative;
+            }
+            .launch1 h1:before {
+              content: "";
+              position: absolute;
+              left: 0;
+              bottom: 0;
+              height: 5px;
+              width: 55px;
+              background-color: #008542;
+            }
+            .launch1 h1:after {
+              content: "";
+              position: absolute;
+              left: 0;
+              bottom: 2px;
+              height: 1px;
+              width: 95%;
+              max-width: 255px;
+              background-color: #008542;
+            }
+            
+            .launch1 table {
+                border-collapse: collapse;
+                margin-top: 9px;
+                width: 100%;
+            }
+            
+            .launch1 table thead tr{
+                background-color:#008542; 
+                color: white;
+                border-bottom: 1px solid white;
+                
+                
+            }
+            .launch1 table thead tr td{
+                padding: 10px;
+                border-left: 1px solid white;
+                text-align: center;
+            }
+            .launch1 table tbody tr td{
+                padding: 10px;
+                border-left: 1px solid white;
+                text-align: center;
+            }
+            .launch1 table tbody tr:nth-child(2n) td{
+                background: #E3EBE2;
+            }
+            .launch1 table tbody tr:nth-child(2n-1) td{
+                background: #FEFCEA;
+            }
+            .launch1 table tbody tr td:nth-child(1){
+                text-align: center;
+            }
 </style>
 
 <div id="event_page" itemscope="" itemtype="http://schema.org/Event">
@@ -559,21 +634,21 @@ layout: default
                         <td colspan="4">Sponsorship Packages</td>
                     </tr>
                     <tr>
-                        <th>Sponsorship Categories</th>
-                        <td>Gold</td>
-                        <td>Sliver</td>
-                        <td>Bronze</td>
-                        <td>Ordinary</td>
+                        <th>Benefits</th>
+                        <td>Gold (5000 USD)</td>
+                        <td>Sliver (2000 USD)</td>
+                        <td>Bronze (1000 USD)</td>
+                        <td>Ordinary (500 USD)</td>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
+                    <!-- <tr>
                         <td>Benefits</td>
-                        <td>\$5000 USD</td>
-                        <td>\$2000 USD</td>
-                        <td>\$1000 USD</td>
-                        <td>\$500 USD</td>
-                    </tr>
+                        <td>5000 USD</td>
+                        <td>2000 USD</td>
+                        <td>1000 USD</td>
+                        <td>500 USD</td>
+                    </tr> -->
                     <tr>
                         <td>Logo on the event website</td>
                         <td>✓</td>
@@ -635,8 +710,8 @@ layout: default
     </div>
 
     <div class="description-container unpurchased-virtual-no-info ">
-        <div class="container">
-            <h1 class=""><center>Event Schedule</center></h1>
+        <div class="container launch1">
+            <h1 class="">Event Schedule</h1>
             <table>
                 <thead>
                     <tr>
