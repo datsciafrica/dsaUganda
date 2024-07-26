@@ -6,11 +6,13 @@ date: 2024-08-26
 time: 09:00 AM
 timezone: EAT
 enddate: 2024-08-28
-registerLink: 
+registerLink: 'https://docs.google.com/forms/d/e/1FAIpQLSca458CmTgzap7UpmPkafQLyzGXc6J5RRgxe7DtwlnUIgAyLg/viewform'
 photolink: "/assets/img/placeholder_event.jpg"
 about: Creating a coordinative and vibrant data-driven economy for socio-economic transformation 🇺🇬
 tags: [ Data, Applications, Case Studies, Policy, Opportunities ]
 type: launch
+harshtag: "#DSAU"
+twitter: "@dsa_Uganda"
 agenda: 
 # - title: "<hr><b>Tutorials Schedule (Day 1 Sept/20)</b> - <i>Venue: Conference Hall, FoE, Busitema University, Faculty of Engineering</i><hr>"
 #   start: 
@@ -209,7 +211,216 @@ agenda:
 #   ipynb:
 # - title: "<hr><b>Rock Climbing (Day 3 Sept/22)</b> <hr>"
 #   start: 
-#   end: 
+#   end:
+
+day1:
+- slot:
+  start:
+  end:
+  activity: "<hr><b>Day 1 (Summer School)</b> <hr>"
+- slot:
+  start: "08:30-"
+  end: "09:00"
+  activity: "<center>Arrival and Registration</center>"
+- slot:
+  start: "09:00-"
+  end: "09:25"
+  activity: "<center>Welcome keynote and Opening Remarks</center>"
+- slot:
+  start: "09:30-"
+  end: "10:30 "
+  sessions:
+  - room1:
+    topic1: "<b>Session 1: Rwenzori</b>"
+  - room2:
+    topic2: "<b>Session 1: Hot Springs</b>"
+- slot:
+  start: "09:30-"
+  end: "10:30 "
+  sessions:
+  - room1:
+    topic1: "Python in Data Science"
+  - room2:
+    topic2: "Introduction to Data Science and AI"
+- slot:
+  start: "10:30-"
+  end: "11:00 "
+  activity: "<center>Tea Break and Networking</center>"
+- slot:
+  start: "11:00-"
+  end: "12:00 "
+  sessions:
+  - room1: 
+    topic1: "Data Engineering & Analytics"
+  - room2:
+    topic2: "Data Visualization and Storytelling (UN Global Pulse + UBOS)"
+- slot:
+  start: "12:00-"
+  end: "01:00 "
+  sessions:
+  - room1: 
+    topic1: "Machine Learning Fundamentals"
+  - room2: 
+    topic2: "Deep Learning Fundamentals"
+- slot:
+  start: "01:00-"
+  end: "02:00 "
+  activity: "<center>Lunch and Networking</center>"
+- slot:
+  start: "02:00-"
+  end: "04:00 "
+  sessions:
+  - room1: 
+    topic1: "NLP Labs (Case study: Agriculture|Health|Environment|Tourism)"
+  - room2: 
+    topic2: "Computer Vision Labs (Case study: Agriculture|Health|Environment|Tourism)"
+- slot:
+  start: "04:00-"
+  end: "05:00 "
+  activity: "<center>Practice Labs + Networking + Feedback on summer school<center>"
+day2:
+- slot:
+  start:
+  end:
+  activity: "<hr><b>Day 2(Workshop)</b> <hr>"
+- slot:
+  start: 
+  end: 
+  activity: "<u><b>Opening Ceremony and Keynote Address</b></u>"
+  details:
+    - title: 
+- slot:
+  start: "08:30-"
+  end: "09:00 "
+  activity:  "Welcome remarks by university officials"
+  details:
+    - title: 
+- slot:
+  start: "09:00-"
+  end: "09:45 "
+  activity: "Keynote address on the role of Data Science and AI in sustainable development"
+- slot:
+  start: "09:45-"
+  end: "10:00 "
+  activity: "<center><b>Photo moment and breaking out</center></b>"
+- slot:
+  start: 
+  end: 
+  sessions:
+    - room1: "<b>Track 1:</b>"
+      topic1: "<u> Agriculture and Tourism</u>"
+    - room2: "<b>Track 2: </b>"
+      topic2: "<u>Health and Environment</u>"
+- slot:
+  start: "10:00-"
+  end: "10:30 "
+  sessions:
+    - room1: 
+      topic1: "Featured presentation 1: TBC"
+    - room2:
+      topic2: "Featured presentation 1: TBC"
+- slot:
+  start: "10:30-"
+  end: "11:00 "
+  sessions:
+    - room1: 
+      topic1: "Featured presentation 2: TBC"
+    - room2: 
+      topic2: "Featured presentation 2: TBC"
+- slot:
+  start: "11:00-"
+  end: "11:10 "
+  sessions:
+    - room1: 
+      topic1: "Q&A"
+    - room2: 
+      topic2: "Q&A"
+- slot:
+  start: "11:10-"
+  end: "11:45 "
+  activity: "<center><b>Coffee Break and Networking</center></b>"
+- slot:
+  start: 
+  end: 
+  sessions:
+    - room1: "<b>Track 1:</b>"
+      topic1: "<u> Agriculture and Tourism</u>"
+    - room2: "<b>Track 2: </b>"
+      topic2: "<u>Health and Environment</u>"
+- slot:
+  start: "11:45-"
+  end: "12:30 "
+  sessions:
+    - room1: 
+      topic1: "Keynote Presentation: TBC"
+    - room2: 
+      topic2: "Keynote Presentation: TBC"
+- slot:
+  start: "12:30-"
+  end: "01:00 "
+  sessions:
+    - room1: 
+      topic1: "Featured Presentation: TBC"
+    - room2: 
+      topic2: "Featured Presentation: TBC"
+- slot:
+  start: "01:00-"
+  end: "01:15 "
+  sessions:
+    - room1: 
+      topic1: "Q&A"
+    - room2:
+      topic2: "Q&A"
+- slot:
+  start: "01:15-"
+  end: "02:15 "
+  activity: "<center><b>Lunch Break</center></b>"
+- slot:
+  start: 
+  end: 
+  sessions:
+    - room1: "<b>Track 1:</b>"
+      topic1: "<u> Agriculture and Tourism</u>"
+    - room2: "<b>Track 2: </b>"
+      topic2: "<u>Health and Environment</u>"
+- slot:
+  start: "02:15-"
+  end: "03:15 "
+  sessions:
+    - room1:
+      topic1: "Panel 1: TBC"
+    - room2:
+      topic2: "Panel 1: TBC"
+- slot:
+  start: "03:15-"
+  end: "04:15 "
+  sessions:
+    - room1: 
+      topic1: "Spotlight + Mentorship 5 presentations @10 minutes"
+    - room2: 
+      topic2: "Spotlight + Mentorship 5 presentations @10 minutes"
+- slot:
+  start: "04:15-"
+  end: "04:30 "
+  sessions:
+    - room1: 
+      topic1: "Poster viewing"
+    - room2: 
+      topic2: "Poster viewing"
+- slot:
+  start: "04:30-"
+  end: "05:00 "
+  activity: "<center><b>Coffee Break and Networking</center></b>"
+- slot:
+  start: 
+  end: 
+  activity: "<u><b>Closing Remarks and Networking</b></u>"
+  details:
+    - title: 
+- slot:
+  start: "05:00-"
+  end: "05:45 "
+  activity: "Summary of the day’s discussions, Final thoughts and future directions, Closing remarks"
   
 speakers: 
   # - id: 1
@@ -303,43 +514,33 @@ speakers:
   #   bio: ""
     
 organizers:
-  # - id: 1
-  #   name: "Dr. Godliver Owomugisha"
-  #   title: "General Chair"
-  #   company: "Makerere AI Lab"
-  #   twitter: ""
-  #   image: "/assets/img/people/godliver.png" 
   - id: 1
+    name: "Dr. Akugizibwe Edwin."
+    title: "General Chair"
+    company: "Mountains of the Moon University:"
+    twitter: ""
+    image: "/assets/img/people/Dr_Akugizibwe_Edwin.jpeg" 
+  - id: 2
     name: "Dr. Martin Gordon Mubangizi"
-    title: "DSA-Uganda Chair"
+    title: "Program Chair -Workshop"
     company: "Pulse Lab Kampala"
     twitter: "https://twitter.com/mmubangizi15"
     image: "/assets/img/people/martin.png"
-  # - id: 3
-  #   name: "Mr. Musanje Richard"
-  #   title: "Organizing Committee"
-  #   company: "Busitema University"
-  #   twitter: ""
-  #   image: "/assets/img/people/musanjeRichard.png"
-  # - id: 4
-  #   name: "Mr. Joseph Akol"
-  #   title: "Innovation and Digitization"
-  #   company: "Busitema University"
-  #   twitter: ""
-  #   image: "/assets/img/people/josephAkol.png"
-  # - id: 5
-  #   name: "Ms. Asingwire Barbara Kabwiga"
-  #   title: "Organizing Committee"
-  #   company: "Busitema University"
-  #   twitter: ""
-  #   bio: "Ms. Asingwire Barbara Kabwiga is a Lecturer at Busitema University in the Faculty of Engineering, Department of Computer Engineering and Informatics. Barbara is also a PhD candidate in Embedded Computing Systems at the University of Rwanda at the African Centre of Excellence in Internet of Things. Her research interest is to design an IoT-based healthcare architecture/platform considering resource constraints in developing countries and algorithms to analyse and optimize the data traffic to meet specific critical performance parameters. This will improve the overall performance of IoT- based healthcare systems and patients’ experiences reduce costs and save lives. Her main research interests are in performance analysis of wireless communication systems, Artificial Intelligence and emerging technological trends in the Internet of Things (IoT)."
-  #   image: "/assets/img/people/asingwireBarbaraKabwiga.png"
-  # - id: 6
-  #   name: "Mr. Kabwama Alvin Leonard"
-  #   title: "Sponsorship Chair"
-  #   company: "DSA Uganda"
-  #   twitter: ""
-  #   bio: ""
-  #   image: "/assets/img/people/kabwama.jpeg"
-# partners: [dsa, busitema, plk, sunbird , giz, muk, makererAILab, marconiAILab, airqo]
+  - id: 3
+    name: "Dr. Joyce Nabende Nakatumba"
+    title: "Program Chair - Summer school"
+    company: "DSA Uganda"
+    twitter: ""
+    bio: ""
+    image: "/assets/img/people/jnabende.jpg"
+  - id: 4
+    name: "Ms. Claire Babirye"
+    title: "Program Chair - Summer school"
+    company: "DSA Uganda"
+    twitter: ""
+    bio: ""
+    image: "/assets/img/people/cbabirye.jpg"
+# gold: [ nssf, makererAIHealthLab]  
+# bronze: [ucu, fairForward]
+# partners: [dsa, plk, sunbird , muk, makererAILab, makererAIHealthLab, marconiAILab, airqo]
 ---

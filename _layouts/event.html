@@ -175,14 +175,14 @@ layout: default
                 <p class="event-short-description-on-banner">{{ page.about }}
                 </p>
                 {% if page.type == "launch" %}
-                <p class="event-short-description-on-banner">
-                    <strong>Attention:</strong>  Registration will be opening soon! Stay tuned for more updates.
-                </p>
-                <!-- <p class="event-short-description-on-banner"><b>Harsh Tag:</b> {{ page.harshtag }}
+                <!-- <p class="event-short-description-on-banner">
+                    <strong>Attention:</strong> Registration will be opening soon! Stay tuned for more updates.
+                </p> -->
+                <p class="event-short-description-on-banner"><b>Harsh Tag:</b> {{ page.harshtag }}
                 </p>
                 <p class="event-short-description-on-banner"> <b>Twitter:</b> {{ page.twitter }}
-                </p> -->
-                {% endif %}
+                </p>
+                <!-- {% endif %} -->
                 <aside id="react-root-event-tags">
                     <div class="MuiBox-root jss5 jss3 jss2 jss1 event-tags">
                         {% for event_tag in page.tags %}
@@ -203,9 +203,9 @@ layout: default
 
 
 
-                <!-- <a class="btn btn-primary" href="{{ page.registerLink }}">Click to Register <i
+                <a class="btn btn-primary" href="{{ page.registerLink }}">Click to Register <i
                         class="glyphicon glyphicon-edit"></i></a>
-                <br><br> -->
+                <br><br>
                 <div id="virtual-join-button-container" itemscope="" itemprop="location"
                     itemtype="http://schema.org/VirtualLocation">
                     <span itemprop="url" content="#"></span>
@@ -635,11 +635,28 @@ layout: default
     </div>
 
     <div class="description-container unpurchased-virtual-no-info ">
-        <div class="container launch">
-            <h1 class="">Event Schedule</h1>
+        <div class="container">
+            <h1 class=""><center>Event Schedule</center></h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th><center>Time</center></th>
+                        <th colspan="2"><center>Activity/Session</center></th>
+                        <!-- <th>Details</th> -->
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for slot in page.day1 %}
+                    {% include day1Talk.html %}
+                    {% endfor %}
+                    {% for slot in page.day2 %}
+                    {% include day1Talk.html %}
+                    {% endfor %}
+                </tbody>
+            </table>
 
 
-            <table class="presentations">
+            <!-- <table class="presentations">
                 <thead>
                     <tr>
                         <th>
@@ -648,17 +665,19 @@ layout: default
                         <th>
                             <h4 class="text-center">Presentation</h4>
                         </th>
-                        <th></th>
+                        <th>
+
+                        </th>
                     </tr>
                 </thead>
                 <tbody>
 
-                    {% for talk in page.agenda %}
+                    {% for talk in page.agenda %} -->
                     <!--<pre> {{ talk | inspect}} </pre>-->
-                    {% include listtalk.html %}
+                    <!-- {% include listtalk.html %}
                     {% endfor %}
                 </tbody>
-            </table>
+            </table> -->
 
         </div>
 
@@ -848,7 +867,7 @@ layout: default
         </div>
         <div class="hosts event-partners">
             <h1 class="event-page general-h1">
-                bronze Sponsors
+                Bronze Sponsors
             </h1>
             <div class="container cards">
 

@@ -1,0 +1,30 @@
+<tr>
+    <td>
+        <center><p>{{ slot.start }}{{ slot.end }}</p></center>
+    </td>
+    {% if slot.activity %}
+    <td colspan="2">
+        <center><b><p>{{ slot.activity }}</p></b></center>
+    </td>
+    {% else %}
+    <td>
+        {% for session in slot.sessions %}
+        <center><b><p>{{ session.topic1 }}</p></b></center>
+        {% endfor %}
+    </td>
+    <td>
+        {% for session in slot.sessions %}
+        <center><b><p>{{ session.topic2 }}</p></b></center>
+        {% endfor %}
+    </td>
+    {% endif %}
+    <!-- <td>
+        {% if slot.activity %} -->
+        <!-- Additional details can be added here if needed -->
+        <!-- {% else %}
+        {% for session in slot.sessions %} -->
+        <!-- Additional details for each session can be added here if needed -->
+        <!-- {% endfor %}
+        {% endif %}
+    </td> -->
+</tr>
