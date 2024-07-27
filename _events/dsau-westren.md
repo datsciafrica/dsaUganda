@@ -519,7 +519,7 @@ organizers:
     title: "<br/> General Chair - MMU <br/> Dean, Faculty of Science Technology and Innovation"
     company: "Mountains of the Moon University"
     twitter: ""
-    image: "/assets/img/people/Dr_Akugizibwe_Edwin.png" 
+    image: "/assets/img/people/EdwinA.png" 
   - id: 2
     name: "Mr. Kusemererwa Peter"
     title: "<br>General Chair- FortPortal City</br>Senior Assistant Town Clerk & AG. Town Clerk North Division"
