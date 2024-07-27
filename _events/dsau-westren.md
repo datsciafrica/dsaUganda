@@ -516,7 +516,7 @@ speakers:
 organizers:
   - id: 1
     name: "Dr. Akugizibwe Edwin."
-    title: "General Chair"
+    title: "<br/> General Chair - MMU <br/> Dean, Faculty of Science Technology and Innovation"
     company: "Mountains of the Moon University"
     twitter: ""
     image: "/assets/img/people/Dr_Akugizibwe_Edwin.png" 
@@ -525,13 +525,13 @@ organizers:
     title: "<br>General Chair- FortPortal City</br>Senior Assistant Town Clerk & AG. Town Clerk North Division"
     company: "Data Strategist Fort Portal City"
     twitter: ""
-    image: "/assets/img/people/K.Peter.png" 
+    image: "/assets/img/people/Peter.png" 
   - id: 3
     name: "Dr. Martin Gordon Mubangizi"
     title: "Program Chair -Workshop"
     company: "Pulse Lab Kampala"
     twitter: "https://twitter.com/mmubangizi15"
-    image: "/assets/img/people/martin.png"
+    image: "/assets/img/people/Martin-2.png"
   - id: 4
     name: "Dr. Joyce Nabende Nakatumba"
     title: "Program Chair - Summer school"
