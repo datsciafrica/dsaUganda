@@ -66,4 +66,7 @@ dsa:
   image: /assets/img/partners/dsa.png
 makererAIHealthLab:
   name: Data Science Africa
-  image: /assets/img/partners/makererAIHealthLab.jpeg
+  image: /assets/img/partners/Mak-AIHL_Logo.svg
+toroDev:
+  name: Data Science Africa
+  image: /assets/img/partners/torodev_logo.jpeg

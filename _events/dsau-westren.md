@@ -548,6 +548,6 @@ organizers:
     image: "/assets/img/people/cbabirye.jpg"
 gold: [ dsa ]  
 # bronze: [ makererAIHealthLab ]
-ordinary: [ makererAIHealthLab ]
+ordinary: [ makererAIHealthLab, toroDev ]
 # partners: [dsa, plk, sunbird , muk, makererAILab, makererAIHealthLab, marconiAILab, airqo]
 ---
