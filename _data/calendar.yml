@@ -24,6 +24,13 @@
 #  start: '2020-09-16T16:00:00'
 #  url: 'http://google.com/'
 -
+ title: 'DSA Uganda 2024 Fort Portal, Mountains of the Moon University, this August 2024 .'
+ start: '2024-08-26'
+ end: '2024-08-29'
+ url: 'https://www.datascienceafrica.org/dsaUganda/events/dsau-westren.html'
+ color: '#189ea0'
+ type: 'event'
+-
  title: '1st DSA Uganda Pre-Launch Event'
  start: '2021-03-30T10:00:00'
  url: 'http://google.com/'

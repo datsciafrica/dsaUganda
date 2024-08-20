@@ -547,6 +547,7 @@ organizers:
     bio: ""
     image: "/assets/img/people/cbabirye.jpg"
 gold: [ dsa ]  
-# bronze: [ucu, fairForward]
+# bronze: [ makererAIHealthLab ]
+ordinary: [ makererAIHealthLab ]
 # partners: [dsa, plk, sunbird , muk, makererAILab, makererAIHealthLab, marconiAILab, airqo]
 ---
