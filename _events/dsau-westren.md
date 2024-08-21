@@ -243,9 +243,9 @@ day1:
   end: "10:30 "
   sessions:
   - room1:
-    topic1: "Python in Data science. <br> Mr Ocen Samuel - Mountains of the Moon University"
+    topic1: "Python in Data science. <br> - Mr Ocen Samuel (Mountains of the Moon University)"
   - room2:
-    topic2: "Introduction to Data Science and AI. <br> Rukundo Benjamin - Makerere AI Health Lab"
+    topic2: "Introduction to Data Science and AI. <br> - Rukundo Benjamin (Makerere AI Health Lab)"
 - slot:
   start: "10:30-"
   end: "11:00 "
@@ -255,17 +255,17 @@ day1:
   end: "12:00 "
   sessions:
   - room1: 
-    topic1: "Data Engineering & Analytics <br> Wabinyai Fidel Raja, AirQo <br> Martin BBale, AirQo"
+    topic1: "Data Engineering & Analytics <br> - Wabinyai Fidel Raja, AirQo <br> - Martin BBale, AirQo"
   - room2:
-    topic2: "Data  Visualization and Storytelling <br> Amutorine Morine, UN Global Pulse <br> Wanyama Denis, UN Global Pulse <br> Otim Gerrison, UN Global Pulse"
+    topic2: "Data  Visualization and Storytelling <br> - Amutorine Morine, UN Global Pulse <br> - Wanyama Denis, UN Global Pulse <br> - Otim Gerrison, UN Global Pulse"
 - slot:
   start: "12:00-"
   end: "01:00 "
   sessions:
   - room1: 
-    topic1: "Machine Learning Fundamentals <br> Hellen Namulinda - Makerere AI Lab"
+    topic1: "Machine Learning Fundamentals <br> - Hellen Namulinda, Makerere AI Lab"
   - room2: 
-    topic2: "Deep Learning Fundamentals <br> Joel Tibabwetiza Muhanguzi - Sunbird AI "
+    topic2: "Deep Learning Fundamentals <br> - Joel Tibabwetiza Muhanguzi, Sunbird AI "
 - slot:
   start: "01:00-"
   end: "02:00 "
@@ -275,9 +275,9 @@ day1:
   end: "04:00 "
   sessions:
   - room1: 
-    topic1: "NLP Labs (Case study: Agriculture | Health | Environment | Tourism) <br> Mubaraka Banadda, Makerere AI Lab"
+    topic1: "NLP Labs (Case study: Agriculture | Health | Environment | Tourism) <br> - Mubaraka Banadda, Makerere AI Lab"
   - room2: 
-    topic2: "Computer Vision Labs (Case study: Agriculture | Health | Environment | Tourism) <br> Simon Allan Achuka - Makerere AI Lab"
+    topic2: "Computer Vision Labs (Case study: Agriculture | Health | Environment | Tourism) <br> - Simon Allan Achuka - Makerere AI Lab"
 - slot:
   start: "04:00-"
   end: "05:00 "
@@ -320,9 +320,9 @@ day2:
   end: "10:30 "
   sessions:
     - room1: 
-      topic1: "Enhancing Crop Health: The Role of Low-Cost Spectroscopy Sensors in Real-Time Disease Monitoring. Dr Godliver Owmugisha "
+      topic1: "Enhancing Crop Health: The Role of Low-Cost Spectroscopy Sensors in Real-Time Disease Monitoring. <br> - Dr Godliver Owmugisha "
     - room2:
-      topic2: "Tracking the air quality in a city: From physical environment sensing to modeling of air pollution in Fort Portal City
+      topic2: "Tracking the air quality in a city: From physical environment sensing to modeling of air pollution in Fort Portal City <br> -
 Joel Ssematimba and Raja Fidel"
 - slot:
   start: "10:30-"
@@ -331,7 +331,7 @@ Joel Ssematimba and Raja Fidel"
     - room1: 
       topic1: "TBC : Dr. Daphine Nyachacki Bitalo, NACCURI and UCU "
     - room2: 
-      topic2: "Harnessing Data to Enhance Environmental Monitoring:  Dickson Katto, Head
+      topic2: "Harnessing Data to Enhance Environmental Monitoring: <br> - Dickson Katto, Head
 of Data & Commercialization at Stanbic Bank.
 "
 - slot:
@@ -359,9 +359,9 @@ of Data & Commercialization at Stanbic Bank.
   end: "12:30 "
   sessions:
     - room1: 
-      topic1: "Keynote Presentation: National Data Strategy Ms. Doreen Gift Bujjingo, Infrastructure Engineer, Ministry of ICT and NG"
+      topic1: "Keynote Presentation: National Data Strategy. <br> - Ms. Doreen Gift Bujjingo, Infrastructure Engineer, Ministry of ICT and NG"
     - room2: 
-      topic2: "Advancing Responsible AI for Health in Africa - Dr. Rose Nakasi, Makerere AI Health Lab."
+      topic2: "Advancing Responsible AI for Health in Africa <br> - Dr. Rose Nakasi, Makerere AI Health Lab."
 - slot:
   start: "12:30-"
   end: "01:00 "
@@ -434,25 +434,25 @@ of Data & Commercialization at Stanbic Bank.
   activity: "Summary of the day’s discussions,<br> Final thoughts and future directions, <br> Closing remarks."
   
 speakers: 
-  # - id: 1
-  #   name: "Dr. Godliver Owomugisha"
-  #   title: "AI in Agriculture"
-  #   company: "Busitema University"
-  #   twitter: "#"
-  #   image: "/assets/img/people/godliver.png"
-  #   bio: "Dr. Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received her PhD in Computational Intelligence & Modeling of Crop Disease Data in Africa from the University of Groningen in 2020, an achievement that also earned her the Best PhD Thesis Award from the University of Groningen Engineering Center. This recognition was bestowed upon her due to the high scientific impact of her papers, the strong interdisciplinary engineering focus and the societal/environmental impact with the aim of helping farmers to protect crops from disease and African regions to secure food production. Dr. Owomugisha has been working with multidisciplinary collaborative research groups and currently leads Busitema University Artificial Intelligence & Interdisciplinary Research (<a href='https://bu-ai.github.io/'>BUAIIR</a>) Group. <a href='https://bu-ai.github.io/'>BUAIIR</a> was founded on April 20, 2021, with a clear mission to spearhead interdisciplinary research leveraging AI algorithms to address various everyday human challenges. "
-  # - id: 2
-  #   name: "Dr. Martin Gordon Mubangizi"
-  #   title: "Data Innovation"
-  #   company: "Pulse Lab Kampala"
-  #   twitter: "https://twitter.com/mmubangizi15"
-  #   image: "/assets/img/people/martin.png"
-  # - id: 3
-  #   name: "Dr. Ernest Mwebaze"
-  #   title: "Data Science Africa"
-  #   company: "Sunbird AI"
-  #   twitter: "#"
-  #   image: "/assets/img/people/ernest.png"
+  - id: 1
+    name: "Dr. Godliver Owomugisha"
+    title: "AI in Agriculture"
+    company: "Busitema University"
+    twitter: "#"
+    image: "/assets/img/people/godliver.png"
+    bio: "Dr. Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received her PhD in Computational Intelligence & Modeling of Crop Disease Data in Africa from the University of Groningen in 2020, an achievement that also earned her the Best PhD Thesis Award from the University of Groningen Engineering Center. This recognition was bestowed upon her due to the high scientific impact of her papers, the strong interdisciplinary engineering focus and the societal/environmental impact with the aim of helping farmers to protect crops from disease and African regions to secure food production. Dr. Owomugisha has been working with multidisciplinary collaborative research groups and currently leads Busitema University Artificial Intelligence & Interdisciplinary Research (<a href='https://bu-ai.github.io/'>BUAIIR</a>) Group. <a href='https://bu-ai.github.io/'>BUAIIR</a> was founded on April 20, 2021, with a clear mission to spearhead interdisciplinary research leveraging AI algorithms to address various everyday human challenges. "
+  - id: 2
+    name: "Dr. Martin Gordon Mubangizi"
+    title: "Data Innovation"
+    company: "Pulse Lab Kampala"
+    twitter: "https://twitter.com/mmubangizi15"
+    image: "/assets/img/people/martin.png"
+  - id: 3
+    name: "Dr. Ernest Mwebaze"
+    title: "Data Science Africa"
+    company: "Sunbird AI"
+    twitter: "#"
+    image: "/assets/img/people/ernest.png"
   # - id: 4
   #   name: "Dr. Rose Nakasi"
   #   title: "Health"
