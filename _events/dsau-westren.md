@@ -438,7 +438,7 @@ speakers:
     name: "Dr. Godliver Owomugisha"
     title: "AI in Agriculture"
     company: "Busitema University"
-    twitter: "#"
+    twitter: "https://x.com/GodliverO"
     image: "/assets/img/people/godliver.png"
     bio: "Dr. Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received her PhD in Computational Intelligence & Modeling of Crop Disease Data in Africa from the University of Groningen in 2020, an achievement that also earned her the Best PhD Thesis Award from the University of Groningen Engineering Center. This recognition was bestowed upon her due to the high scientific impact of her papers, the strong interdisciplinary engineering focus and the societal/environmental impact with the aim of helping farmers to protect crops from disease and African regions to secure food production. Dr. Owomugisha has been working with multidisciplinary collaborative research groups and currently leads Busitema University Artificial Intelligence & Interdisciplinary Research (<a href='https://bu-ai.github.io/'>BUAIIR</a>) Group. <a href='https://bu-ai.github.io/'>BUAIIR</a> was founded on April 20, 2021, with a clear mission to spearhead interdisciplinary research leveraging AI algorithms to address various everyday human challenges. "
   - id: 2
@@ -447,19 +447,21 @@ speakers:
     company: "Pulse Lab Kampala"
     twitter: "https://twitter.com/mmubangizi15"
     image: "/assets/img/people/martin.png"
+    bio: "Head of Office, Uganda / Data Science Officer UN GLOBAL PULSE"
   - id: 3
     name: "Dr. Ernest Mwebaze"
     title: "Data Science Africa"
     company: "Sunbird AI"
-    twitter: "#"
+    twitter: "https://x.com/emwebaze"
     image: "/assets/img/people/ernest.png"
-  # - id: 4
-  #   name: "Dr. Rose Nakasi"
-  #   title: "Health"
-  #   company: "Busitema University"
-  #   twitter: "#"
-  #   image: "/assets/img/people/nakasiRose.png"
-  #   bio: "Rose Nakasi is a Lecturer at Busitema University, a PhD student at Makerere University  as well as a Researcher at Makerere AI Lab. My research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for improved health. I have majorly worked on automated microscopy diagnosis and prediction of Malaria in low resourced but highly endemic settings."
+    bio: "Ernest Mwebaze has had a dual career in academia and in industry. He possesses over 10 years of teach- ing experience in computer science and machine learning. While at Makerere University he co-found- ed the Makerere University Artificial Intelligence research lab leading it to prominence in the field of practical implementation and deployment of artificial intelligence solutions.<br> In industry he has worked at the Google AI research lab in Ghana and the UN Pulse lab in Kampala where he focused on practical applications of artificial intelligence to tackle developmental challenges in agriculture, utility estimation and different focus areas of the SDGs. He is passionate about using artificial intelligence to improve society particularly in developing parts of the world. He is currently the executive director of Sunbird AI."
+  - id: 4
+    name: "Dr. Rose Nakasi"
+    title: "Health"
+    company: "Busitema University"
+    twitter: "https://x.com/RoseNakasikiire"
+    image: "/assets/img/people/nakasiRose.png"
+    bio: "Rose Nakasi is a Lecturer at Busitema University, a PhD student at Makerere University  as well as a Researcher at Makerere AI Lab. My research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for improved health. I have majorly worked on automated microscopy diagnosis and prediction of Malaria in low resourced but highly endemic settings."
   # - id: 5
   #   name: "Mr. Micheal Niyitegeka"
   #   title: "Private Sector Coordinator"
