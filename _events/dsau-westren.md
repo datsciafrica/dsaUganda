@@ -549,5 +549,5 @@ organizers:
 gold: [ dsa ]  
 # bronze: [ makererAIHealthLab ]
 ordinary: [ makererAIHealthLab, toroDev ]
-# partners: [dsa, plk, sunbird , muk, makererAILab, makererAIHealthLab, marconiAILab, airqo]
+partners: [ fortPortal, sunbird , makererAILab, airqo, busitema, dataCities, unGlobal]
 ---

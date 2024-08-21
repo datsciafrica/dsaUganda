@@ -68,5 +68,14 @@ makererAIHealthLab:
   name: Data Science Africa
   image: /assets/img/partners/Mak-AIHL_Logo.svg
 toroDev:
-  name: Data Science Africa
+  name: Toro Dev
   image: /assets/img/partners/torodev_logo.jpeg
+dataCities:
+  name: Data Cities
+  image: /assets/img/partners/data_cities_logo.png
+unGlobal:
+  name: UN Global Pulse
+  image: /assets/img/partners/UNGP-logo-black.png
+fortPortal:
+  name: Fort Portal City
+  image: /assets/img/partners/fp_logo.png
