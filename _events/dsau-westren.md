@@ -224,8 +224,12 @@ day1:
   activity: "<center>Arrival and Registration</center>"
 - slot:
   start: "09:00-"
+  end: "09:10"
+  activity: "<center>Opening Ceremony - MMU Team and DSAU</center>"
+- slot:
+  start: "09:10-"
   end: "09:25"
-  activity: "<center>Welcome keynote and Opening Remarks</center>"
+  activity: "<center>Welcome keynote - DVC MMU</center>"
 - slot:
   start: "09:30-"
   end: "10:30 "
@@ -239,9 +243,9 @@ day1:
   end: "10:30 "
   sessions:
   - room1:
-    topic1: "Python in Data Science"
+    topic1: "Python in Data science. <br> Mr Ocen Samuel - Mountains of the Moon University"
   - room2:
-    topic2: "Introduction to Data Science and AI"
+    topic2: "Introduction to Data Science and AI. <br> Rukundo Benjamin - Makerere AI Health Lab"
 - slot:
   start: "10:30-"
   end: "11:00 "
@@ -251,17 +255,17 @@ day1:
   end: "12:00 "
   sessions:
   - room1: 
-    topic1: "Data Engineering & Analytics"
+    topic1: "Data Engineering & Analytics <br> Wabinyai Fidel Raja, AirQo <br> Martin BBale, AirQo"
   - room2:
-    topic2: "Data Visualization and Storytelling (UN Global Pulse + UBOS)"
+    topic2: "Data  Visualization and Storytelling <br> Amutorine Morine, UN Global Pulse <br> Wanyama Denis, UN Global Pulse <br> Otim Gerrison, UN Global Pulse"
 - slot:
   start: "12:00-"
   end: "01:00 "
   sessions:
   - room1: 
-    topic1: "Machine Learning Fundamentals"
+    topic1: "Machine Learning Fundamentals <br> Hellen Namulinda - Makerere AI Lab"
   - room2: 
-    topic2: "Deep Learning Fundamentals"
+    topic2: "Deep Learning Fundamentals <br> Joel Tibabwetiza Muhanguzi - Sunbird AI "
 - slot:
   start: "01:00-"
   end: "02:00 "
@@ -271,9 +275,9 @@ day1:
   end: "04:00 "
   sessions:
   - room1: 
-    topic1: "NLP Labs (Case study: Agriculture | Health | Environment | Tourism)"
+    topic1: "NLP Labs (Case study: Agriculture | Health | Environment | Tourism) <br> Mubaraka Banadda, Makerere AI Lab"
   - room2: 
-    topic2: "Computer Vision Labs (Case study: Agriculture | Health | Environment | Tourism)"
+    topic2: "Computer Vision Labs (Case study: Agriculture | Health | Environment | Tourism) <br> Simon Allan Achuka - Makerere AI Lab"
 - slot:
   start: "04:00-"
   end: "05:00 "
@@ -292,13 +296,13 @@ day2:
 - slot:
   start: "08:30-"
   end: "09:00 "
-  activity:  "Welcome remarks by university officials"
+  activity:  "Welcome remarks by University, DSA Uganda and Fort Portal City, MP for Fort Portal City."
   details:
     - title: 
 - slot:
   start: "09:00-"
   end: "09:45 "
-  activity: "Keynote address on the role of Data Science and AI in sustainable development"
+  activity: "<b>Keynote:</b> Harnessing the Transformative Power of Data Science and AI for Uganda’s Ten-Fold Growth Agenda  <b>Dr. William Wasswa Member of the African Union High Level Panel on Emerging Technologies (APET)</b>"
 - slot:
   start: "09:45-"
   end: "10:00 "
@@ -308,25 +312,28 @@ day2:
   end: 
   sessions:
     - room1: "<b>Track 1:</b>"
-      topic1: "<u> Agriculture and Tourism</u>"
-    - room2: "<b>Track 2: </b>"
-      topic2: "<u>Health and Environment</u>"
+      topic1: "<u>Track 1: Agriculture and Tourism (Jack)</u>"
+    - room2: "<b>Track 2:</b>"
+      topic2: "<u>Track 2: Health and Environment (Johnstone)</u>"
 - slot:
   start: "10:00-"
   end: "10:30 "
   sessions:
     - room1: 
-      topic1: "Featured presentation 1: TBC"
+      topic1: "Enhancing Crop Health: The Role of Low-Cost Spectroscopy Sensors in Real-Time Disease Monitoring. Dr Godliver Owmugisha "
     - room2:
-      topic2: "Featured presentation 1: TBC"
+      topic2: "Tracking the air quality in a city: From physical environment sensing to modeling of air pollution in Fort Portal City
+Joel Ssematimba and Raja Fidel"
 - slot:
   start: "10:30-"
   end: "11:00 "
   sessions:
     - room1: 
-      topic1: "Featured presentation 2: TBC"
+      topic1: "TBC : Dr. Daphine Nyachacki Bitalo, NACCURI and UCU "
     - room2: 
-      topic2: "Featured presentation 2: TBC"
+      topic2: "Harnessing Data to Enhance Environmental Monitoring:  Dickson Katto, Head
+of Data & Commercialization at Stanbic Bank.
+"
 - slot:
   start: "11:00-"
   end: "11:10 "
@@ -344,25 +351,25 @@ day2:
   end: 
   sessions:
     - room1: "<b>Track 1:</b>"
-      topic1: "<u> Agriculture and Tourism</u>"
+      topic1: "<u>Track 1: Agriculture and Tourism</u>"
     - room2: "<b>Track 2: </b>"
-      topic2: "<u>Health and Environment</u>"
+      topic2: "<u>Track 2: Health and Environment</u>"
 - slot:
   start: "11:45-"
   end: "12:30 "
   sessions:
     - room1: 
-      topic1: "Keynote Presentation: TBC"
+      topic1: "Keynote Presentation: National Data Strategy Ms. Doreen Gift Bujjingo, Infrastructure Engineer, Ministry of ICT and NG"
     - room2: 
-      topic2: "Keynote Presentation: TBC"
+      topic2: "Advancing Responsible AI for Health in Africa - Dr. Rose Nakasi, Makerere AI Health Lab."
 - slot:
   start: "12:30-"
   end: "01:00 "
   sessions:
     - room1: 
-      topic1: "Featured Presentation: TBC"
+      topic1: "Panel 1: Moderated (Martin Gordon Mubangizi)<ol><li>Deborah Baguma, City Tourism Officer,</li><li>Prof. Moses Muhumuza, Director UNIRI and Echo Homes</li><li>Joseph UTB</li></ol>"
     - room2: 
-      topic2: "Featured Presentation: TBC"
+      topic2: "Panel 1: Responsible and Ethical use of Data and AI (Moderator: Dr. Rehema Baguma)<ol><li> Mr. Baker Birikujja, Manager Compliance and Investigations, Personal Data Protection</li><li>Mr. Denish Azamuke, PhD  Computer Science PhD, <a>denishazamuke@gmail.com</a></li><li>Mr. Elly Beingana,  Acting Head,Data and Analytics at Stanbic Bank Uganda</li><li>Data Protection Officer, Kabarole Research and Resource center</li></ol>"
 - slot:
   start: "01:00-"
   end: "01:15 "
@@ -376,21 +383,25 @@ day2:
   end: "02:15 "
   activity: "<center><b>Lunch Break</center></b>"
 - slot:
+  start: ""
+  end: ""
+  activity: "<center><b>Presentation on Ugandan Census 2024 - UBOS (15 minutes)</center></b>"
+- slot:
   start: 
   end: 
   sessions:
     - room1: "<b>Track 1:</b>"
-      topic1: "<u> Agriculture and Tourism</u>"
+      topic1: "<u>Track 1: Agriculture and Tourism</u>"
     - room2: "<b>Track 2: </b>"
-      topic2: "<u>Health and Environment</u>"
+      topic2: "<u>Track 2: Health and Environment</u>"
 - slot:
   start: "02:15-"
   end: "03:15 "
   sessions:
     - room1:
-      topic1: "Panel 1: TBC"
+      topic1: "Panel 2: Data Governance ( Morine Amutorine) <ol><li>ToroDev</li><li>UN Global Pulse</li><li>MinICT&NG</li><li>Fort Portal City</li></ol>"
     - room2:
-      topic2: "Panel 1: TBC"
+      topic2: "Panel 2: TBC  ( Dr. Ernest Mwebaze)<ol><li>Martin Bbaale</li><li>Dr. William Wasswa</li><li>Dr. Rose Nakasi</li><li>Dr. Andrew Katumba</li></ol>"
 - slot:
   start: "03:15-"
   end: "04:15 "
@@ -420,7 +431,7 @@ day2:
 - slot:
   start: "05:00-"
   end: "05:45 "
-  activity: "Summary of the day’s discussions, Final thoughts and future directions, Closing remarks"
+  activity: "Summary of the day’s discussions,<br> Final thoughts and future directions, <br> Closing remarks."
   
 speakers: 
   # - id: 1
