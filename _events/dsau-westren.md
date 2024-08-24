@@ -433,6 +433,33 @@ of Data & Commercialization at Stanbic Bank.
   end: "05:45 "
   activity: "Summary of the day’s discussions,<br> Final thoughts and future directions, <br> Closing remarks."
   
+day3:
+- slot:
+  start:
+  end:
+  activity: "<hr><b>Day 3 (Excursion)</b> <hr>"
+- slot:
+  start: "08:00"
+  end: "09:00"
+  activity: "<center>Pickup at Hotel</center>"
+- slot:
+  start: "09:00"
+  end: "09:20"
+  activity: "<center>Arrival at Nyamirama Cottages</center>"
+- slot:
+  start: "09:20"
+  end: "11:45"
+  activity: "<center>Hiking to Top of the World Hotel</center>"
+- slot:
+  start: "11:55"
+  end: "12:55"
+  activity: "<center>Lunch</center>"
+- slot:
+  start: "01:00"
+  end: ""
+  activity: "<center>Departure to Fort Portal City</center>"
+
+  
 speakers: 
   - id: 1
     name: "Dr. Godliver Owomugisha"
