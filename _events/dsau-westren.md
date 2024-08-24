@@ -255,7 +255,7 @@ day1:
   end: "12:00 "
   sessions:
   - room1: 
-    topic1: "Data Engineering & Analytics <br> - Wabinyai Fidel Raja, AirQo <br> - Martin BBale, AirQo"
+    topic1: "Data Engineering & Analytics <br> - Wabinyai Fidel Raja, AirQo <br> - Martin Baale, AirQo"
   - room2:
     topic2: "Data  Visualization and Storytelling <br> - Amutorine Morine, UN Global Pulse <br> - Wanyama Denis, UN Global Pulse <br> - Otim Gerrison, UN Global Pulse"
 - slot:
@@ -462,54 +462,55 @@ speakers:
     twitter: "https://x.com/RoseNakasikiire"
     image: "/assets/img/people/nakasiRose.png"
     bio: "Rose Nakasi is a Lecturer at Busitema University, a PhD student at Makerere University  as well as a Researcher at Makerere AI Lab. My research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for improved health. I have majorly worked on automated microscopy diagnosis and prediction of Malaria in low resourced but highly endemic settings."
-  # - id: 5
-  #   name: "Mr. Micheal Niyitegeka"
-  #   title: "Private Sector Coordinator"
-  #   company: "Refactory"
-  #   twitter: "https://twitter.com/niyimic"
-  #   image: "/assets/img/people/niyimic.jpg"
-  #   bio:
-  # - id: 6
-  #   name: "Mr. Kisitu Wilfred"
-  #   title: "Student"
-  #   company: "Busitema University"
-  #   twitter: ""
-  #   image: "/assets/img/people/kisituWilfred.png"
-  #   bio:
-  # - id: 7
-  #   name: "Prof. Florence Tushabe"
-  #   title: "Associate Professor"
-  #   company: "Soroti University"
-  #   twitter: ""
-  #   image: "/assets/img/people/florenceTushabe.png"
-  #   bio: "Prof. Florence Tushabe is an Associate Professor of Soroti University. She was first exposed to AI in 2008 while studying her PhD at the University of Groningen and fell in love with it. She first used AI techniques for traffic sign detection and has since progressed to develop AI components for skin disease diagnosis and speech-to-text recognition. Her current ongoing project is using AI for Sickle Cell detection. Prof. Tushabe has trained several students in AI techniques in the last ten years and many have spread out all over the world, enjoying their skills."
-  # - id: 8
-  #   name: "Ms. Stella Kwera"
-  #   title: "Data Analyst"
-  #   company: "URA"
-  #   twitter: ""
-  #   image: "/assets/img/people/stellaKwera.png"
-  #   bio: ""
-  # - id: 9
-  #   name: "Prof. Biira Safina"
-  #   title: "Deputy Vice Chancellor (Finance and Administration)"
-  #   company: "Busitema University"
-  #   twitter: ""
-  #   image: "/assets/img/people/biiraSaphina.png"
-  #   bio: "Saphina Biira is an Associate Professor of Physics. She holds a PhD in Physics (Materials Science and Nuclear Technology) from the University of Pretoria, South Africa.   She is currently the  Acting Deputy Vice-Chancellor (Finance and Administration) of Busitema University and she has been Heading the Directorate of Quality Assurance at Busitema University."
-  # - id: 10
-  #   name: "Dr. Daniel Otim"
-  #   title: "Dean, Faculty of Engineering"
-  #   company: "Busitema University"
-  #   twitter: ""
-  #   image: "/assets/img/people/danielOtim.png"
-  #   bio: "Daniel Otim is a Senior Lecturer and the Dean Faculty of Engineering and Technology in Busitema University with specific expertise in soil and water conservation engineering, water resources engineering, hydrology, hydraulics, irrigation and drainage engineering. Daniel is professionally registered with the Engineers Registration Board of Uganda and he has a PhD (Agricultural Engineering) from University of KwaZulu-Natal, South Africa, MSc Engineering degree in Irrigation Engineering from University of Florence, Italy and a BSc Engineering degree in Civil Engineering which he obtained from Makerere University, Uganda. He has designed and managed a multitude of civil engineering projects and he lectures courses in Soil and Water Engineering, Flood Mitigation and Management, Applied Hydraulics and Irrigation and Drainage System Design and Management. "
+  - id: 5
+    name: "Samuel Ocen"
+    title: "Lecturer"
+    company: "Mountains of the Moon University"
+    twitter: ""
+    image: "/assets/img/people/Samuel Ocen.png"
+    bio: "Samuel OCEN is a seasoned academician and researcher with expertise in Data Science, Machine Learning, and Artificial Intelligence. Currently pursuing his PhD at the University of Nairobi, he also serves as a lecturer in the Computer Science department at Mountains of the Moon University. His research focuses on: Data-driven approaches to tracing livestock from farm to fork, leveraging technologies such as IoT, RFID, and machine learning algorithms to enhance food safety and security (www.u-lits.com). Developing optimized machine learning models for detecting Alzheimer's Disease from Brain MRI scans. Applying data analytics and machine learning techniques to manage loan amortization, predicting credit risk, and optimizing lending portfolios (www.smartsente.com) Amongst other assorted models running in applications of Rideshare Uganda, agriplanner, amongst others. <br>With a passion for harnessing the power of data to drive insights and innovation, Samuel aims to contribute significantly to the fields of precision agriculture, healthcare, and financial technology."
+  - id: 6
+    name: "Benjamin Rukundo"
+    title: "Research Assistant "
+    company: "Makerere AI Health Lab"
+    twitter: ""
+    image: "/assets/img/people/Benjamin.JPG"
+    bio: "Benjamin Rukundo is a software engineer and research assistant at the AI Health Lab at Makerere University, working on AI-driven healthcare projects under the supervision of Dr. Rose Nakasi. With a Bachelor's Degree in Software Engineering, Benjamin specializes in computer vision and machine learning, particularly in the areas of disease diagnosis and surveillance. <br> His interests span a wide range of AI and data science domains, including foundation models, vision transformers, and visual attention. Benjamin is dedicated to leveraging AI to address real-world problems and is passionate about sharing his knowledge and experiences with others."
+  - id: 7
+    name: "Hellen Namulinda"
+    title: "Researcher"
+    company: "Makerere AI Lab"
+    twitter: ""
+    image: "/assets/img/people/Hellen.jpeg"
+    bio: "Hellen Namulinda is a researcher at the Makerere AI Lab, currently pursuing her MSc in Computer Science with a focus on AI and Data Science. Her research interests include explainable AI (XAI), ensuring the transparency and interpretability of ML models. Her work involves developing interpretable machine learning models for biomedical applications, with a strong interest in applying AI in drug discovery."
+  - id: 8
+    name: "Michael Ssengendo"
+    title: "Electrical Engineer"
+    company: "Marconi Lab"
+    twitter: ""
+    image: "/assets/img/people/Michael.png"
+    bio: "Micheal is an Electrical Engineer and he is really passionate about AI. "
+  - id: 9
+    name: "Joel Tibabwetiza Muhanguzi"
+    title: "Embedded systems Engineer"
+    company: "Sunbird AI"
+    twitter: ""
+    image: ""
+    bio: "Joel Tibabwetiza Muhanguzi is an embedded systems engineer with Sunbird AI building low cost TinyML based Acoustic Environmental Sensors. I have recently completed a Masters in Computer Science where my research has been on developing and quantizing models to run efficiently on constrained systems."
+  - id: 10
+    name: "Mubaraka Banadda"
+    title: "Researcher"
+    company: "Makerere AI Lab"
+    twitter: ""
+    image: ""
+    bio: "Mubaraka is a Machine Learning Engineer and Research Assistant at Makerere AI Research Lab, focusing on natural language processing and AI solutions for African languages"
+ 
   # - id: 11
   #   name: "Dr Nibikora Ildephonse"
   #   title: "Deputy Dean, Faculty of Engineering"
   #   company: "Busitema University"
   #   twitter: ""
-  #   image: "/assets/img/people/nibikolaIldephonse.png"
+  #   image: "/assets/img/people/Michael.png"
   #   bio: "Deputy Dean of Faculty of Engineering and technology, Busitema University (since January 2021), Senior Lecturer in Polymer Textile and Industrial Engineering department (since 2017), Head of Department of Textile and Ginning Engineering (since 2014 to December 2020), Worked as lecturer (from 2012 to 2017) in the Department of Textile and Ginning Engineering, Faculty of Engineering and Technology, Busitema University. I graduate from Donghua University, Shanghai, China, with PhD (2011) and Msc (2007) in Textile Engineering. I received a Bachelor of Science in Agronomy Engineering in 1999 any University of Burundi. Research focus areas: Optimization, modelling and simulation of textiles processes, and textile materials engineering with different applications. Contact: Busitema University, P.O BOX 236 Tororo, Eastern Uganda, Tel:+256785096691 , Email: nibikora6@gmail.com , nibikora.eng@busitema.ac.ug ."
   # - id: 12
   #   name: "Dr. Emmanuel Ahishakiye"

@@ -37,3 +37,9 @@ cd dsaYYYYcity
 10. Check that the archived page appears online at http://datascienceafrica.org/dsaYYYYcity.git
 
 11. Now go ahead and put event relevant updates. Editting only the files in `_data/` folder should be enough to update speakers, schedule, sponsors and other event items. For the schedule, remember to first put speakers and sessions data, then the schedule just combines these two.
+
+12. Run cmd to locally view
+```
+bundle exec jekyll serve --livereload
+
+````

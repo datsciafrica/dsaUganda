@@ -227,6 +227,14 @@ layout: default
             .launch1 table tbody tr td:nth-child(1){
                 text-align: center;
             }
+            .people-card--avatar {
+                width: 100%; /* Adjust width as needed */
+                height: auto; /* Maintain aspect ratio */
+                object-fit: cover; /* Scale the image to cover the container */
+                max-width: 200px; /* Adjust this to set a maximum size for the images */
+                max-height: 200px; /* Adjust this to control the maximum height */
+                border-radius: 50%; /* Make the image circular if desired */
+            }
 </style>
 
 <div id="event_page" itemscope="" itemtype="http://schema.org/Event">
@@ -767,9 +775,9 @@ layout: default
                 {% for speaker in page.speakers %}
                 <li class="people-card general-card" itemprop="performer" itemscope=""
                     itemtype="http://schema.org/Person">
-                    <img itemprop="image" src="{{site.baseurl}}{{ speaker.image }}" alt="{{ speaker.name}}" onerror="this.onerror = null;
-                                 this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';"
-                        class="people-card--avatar">
+                    <img itemprop="image" src="{{site.baseurl}}{{ speaker.image }}" alt="{{ speaker.name}}"
+                    onerror="this.onerror = null; this.src = '{{site.baseurl}}/assets/img/placeholder_avatar.png';"
+                    class="people-card--avatar">
                     <a href="{{ speaker.twitter }}" rel="nofollow" class="icon-twitter people-card--twitter"></a>
                     <div class="people-card--text">
                         <h2 itemprop="name" class="people-card--name">{{ speaker.name }}</h2>
@@ -1020,7 +1028,7 @@ layout: default
                 {% assign p = site.data.partners[partner] %}
                 {% if p %}
                 <a class="{{ partner }} card-container" href="#" rel="nofollow" target="_blank">
-                    <div style="background-image: url({{site.baseurl}}{{ p.image }}); width:300px;" role="figure"
+                    <div style="background-image: url({{site.baseurl}}{{ p.image }}); width:350px;" role="figure"
                         class="card">
                         <!-- this is a helper, only needed because "background-image" did not fire a "onerror" event -->
                         <img style="display: none;" src="{{site.baseurl}}{{ p.image }}" onerror="var fallbackImage = 'url({{site.baseurl}}/assets/img/partners/logo-placeholder.jpeg)'; 
