@@ -719,7 +719,9 @@ layout: default
 
     <div class="description-container unpurchased-virtual-no-info ">
         <div class="container launch1">
-            <h1 class="">Event Schedule</h1>
+            <!-- <h1 class="">Event Schedule</h1> -->
+            <div> </div>
+            <h1 class="">Day One</h1>
             <table>
                 <thead>
                     <tr>
@@ -732,9 +734,37 @@ layout: default
                     {% for slot in page.day1 %}
                     {% include day1Talk.html %}
                     {% endfor %}
+                </tbody>
+            </table>
+
+            <div> </div>
+            <h1 class="">Day Two</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th><center>Time</center></th>
+                        <th colspan="2"><center>Activity/Session</center></th>
+                        <!-- <th>Details</th> -->
+                    </tr>
+                </thead>
+                <tbody>
                     {% for slot in page.day2 %}
                     {% include day1Talk.html %}
                     {% endfor %}
+                </tbody>
+            </table>
+
+            <div> </div>
+            <h1 class="">Day Three</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th><center>Time</center></th>
+                        <th colspan="2"><center>Activity/Session</center></th>
+                        <!-- <th>Details</th> -->
+                    </tr>
+                </thead>
+                <tbody>
                     {% for slot in page.day3 %}
                     {% include day1Talk.html %}
                     {% endfor %}

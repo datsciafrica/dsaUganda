@@ -257,7 +257,7 @@ day1:
   - room1: 
     topic1: "Data Engineering & Analytics <br> - Wabinyai Fidel Raja, AirQo <br> - Martin Baale, AirQo"
   - room2:
-    topic2: "Data  Visualization and Storytelling <br> - Amutorine Morine, UN Global Pulse <br> - Wanyama Denis, UN Global Pulse <br> - Otim Gerrison, UN Global Pulse"
+    topic2: "Data  Visualization and Storytelling <br> - Wanyama Denis, UN Global Pulse <br> - Otim Gerrison, UN Global Pulse"
 - slot:
   start: "12:00-"
   end: "01:00 "
@@ -277,7 +277,7 @@ day1:
   - room1: 
     topic1: "NLP Labs (Case study: Agriculture | Health | Environment | Tourism) <br> - Mubaraka Banadda, Makerere AI Lab"
   - room2: 
-    topic2: "Computer Vision Labs (Case study: Agriculture | Health | Environment | Tourism) <br> - Simon Allan Achuka - Makerere AI Lab"
+    topic2: "Computer Vision Labs (Case study: Agriculture | Health | Environment | Tourism) <br> - Michael Ssengendo - Marconi Lab"
 - slot:
   start: "04:00-"
   end: "05:00 "
@@ -329,7 +329,7 @@ Joel Ssematimba and Raja Fidel"
   end: "11:00 "
   sessions:
     - room1: 
-      topic1: "TBC : Dr. Daphine Nyachacki Bitalo, NACCURI and UCU "
+      topic1: "Preserving Uganda's Legacy: The Vital Role of Data Science in Safeguarding Our Coffee Genetic Resources—Act Before It's Too Late:<br> - Dr. Daphine Nyachacki Bitalo, NACCURI and UCU "
     - room2: 
       topic2: "Harnessing Data to Enhance Environmental Monitoring: <br> - Dickson Katto, Head
 of Data & Commercialization at Stanbic Bank.
@@ -359,17 +359,17 @@ of Data & Commercialization at Stanbic Bank.
   end: "12:30 "
   sessions:
     - room1: 
-      topic1: "Keynote Presentation: National Data Strategy. <br> - Ms. Doreen Gift Bujjingo, Infrastructure Engineer, Ministry of ICT and NG"
+      topic1: "Keynote Presentation: The Power of Data: Unlocking Uganda’s Potential with the National Data Strategy for a $500 Billion Economy. <br> - Ms. Doreen Gift Bujjingo, Infrastructure Engineer, Ministry of ICT and NG"
     - room2: 
-      topic2: "Advancing Responsible AI for Health in Africa <br> - Dr. Rose Nakasi, Makerere AI Health Lab."
+      topic2: "Keynote Presentation: Securing Africa's Future: Advancing Responsible AI for Health—A Path You Can't Afford to Miss<br> - Dr. Rose Nakasi, Makerere AI Health Lab."
 - slot:
   start: "12:30-"
   end: "01:00 "
   sessions:
     - room1: 
-      topic1: "Panel 1: Moderated (Martin Gordon Mubangizi)<ol><li>Deborah Baguma, City Tourism Officer,</li><li>Prof. Moses Muhumuza, Director UNIRI and Echo Homes</li><li>Joseph UTB</li></ol>"
-    - room2: 
-      topic2: "Panel 1: Responsible and Ethical use of Data and AI (Moderator: Dr. Rehema Baguma)<ol><li> Mr. Baker Birikujja, Manager Compliance and Investigations, Personal Data Protection</li><li>Mr. Denish Azamuke, PhD  Computer Science PhD, <a>denishazamuke@gmail.com</a></li><li>Mr. Elly Beingana,  Acting Head,Data and Analytics at Stanbic Bank Uganda</li><li>Data Protection Officer, Kabarole Research and Resource center</li></ol>"
+      topic1: "Panel 1: Transforming Tourism: Harnessing Data Science and AI for Sustainable Growth in Uganda’s Emerging Cities. <br> Moderator: Martin Gordon Mubangizi, Head of Office UN Global Pulse Uganda <ol><li>Deborah Baguma, City Tourism Officer,</li><li>Prof. Moses Muhumuza, Director UNIRI and Echo Homes</li><li>Joseph UTB</li></ol>"
+    - room2:
+      topic2: "Panel 1: TBC  ( Dr. Ernest Mwebaze)<ol><li>Martin Bbaale</li><li>Dr. William Wasswa</li><li>Dr. Rose Nakasi</li><li>Dr. Andrew Katumba</li></ol>" 
 - slot:
   start: "01:00-"
   end: "01:15 "
@@ -399,9 +399,9 @@ of Data & Commercialization at Stanbic Bank.
   end: "03:15 "
   sessions:
     - room1:
-      topic1: "Panel 2: Data Governance ( Morine Amutorine) <ol><li>ToroDev</li><li>UN Global Pulse</li><li>MinICT&NG</li><li>Fort Portal City</li></ol>"
+      topic1: "Panel 2: Navigating the Data Landscape: Governance as the Key to Unlocking Trust, Innovation, and Transformative Development. <br> Moderator: Morine Amutorine <ol><li>ToroDev</li><li>UN Global Pulse</li><li>MinICT&NG</li><li>Fort Portal City</li></ol>"
     - room2:
-      topic2: "Panel 2: TBC  ( Dr. Ernest Mwebaze)<ol><li>Martin Bbaale</li><li>Dr. William Wasswa</li><li>Dr. Rose Nakasi</li><li>Dr. Andrew Katumba</li></ol>"
+      topic2: "Panel 2: Shaping Our Future: The Imperative of Responsible and Ethical Use of Data and AI. <br> Moderator: Dr. Rehema Baguma<ol><li> Mr. Baker Birikujja, Manager Compliance and Investigations, Personal Data Protection</li><li>Mr. Denish Azamuke, PhD  Computer Science PhD, <a>denishazamuke@gmail.com</a></li><li>Mr. Elly Beingana,  Acting Head,Data and Analytics at Stanbic Bank Uganda</li><li>Data Protection Officer, Kabarole Research and Resource center</li></ol>"
 - slot:
   start: "03:15-"
   end: "04:15 "
@@ -435,9 +435,9 @@ of Data & Commercialization at Stanbic Bank.
 
 day3:
 - slot:
-  start:
+  start: 
   end:
-  activity: "<hr><b>Day 3 (Excursion)</b> <hr>"
+  activity: "<hr><b> Day 3 (Excursion) <br> This trek is more than just a walk—it's an immersive journey into the heart of Uganda’s natural wonders. Our adventure begins at Nyamirima Cottages, nestled near the mystical Lake Nyamirima Crater. Located just 18 km along the Fort Portal-Kamwenge Road and approximately 3 km from Kibale National Park, Nyamirima is steeped in local legend. The name <u>Nyamirima</u>, meaning <u>Mother of Darkness</u> in the local dialect, reflects the lake’s dark waters, which appear almost otherworldly when viewed from the top of the cliff. <br> Uganda boasts more than 50 crater lakes, each one a testament to the country’s stunning natural beauty and ancient history. While some of these lakes are saline and emit a strong scent, many others are freshwater, offering breathtaking scenery. These lakes, formed over 12,000 years ago, are spectacular and timeless masterpieces of nature, and the dark waters of Lake Nyamirima, in particular, are sights few will ever witness up close.</b> <hr>"
 - slot:
   start: "08:00-"
   end: "09:00"
