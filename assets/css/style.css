@@ -8,7 +8,10 @@ img {
 .pre-scrollable {
     max-height: 340px
 }
-
+#event_page .description-container table td {
+    text-align: left;
+  }
+  
 .btn-group>.btn-group,
 .btn-toolbar .btn,
 .btn-toolbar .btn-group,
@@ -1515,12 +1518,6 @@ body {
     content: "\e260"
 }
 
-*,
-:after,
-:before {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box
-}
 
 body {
     font-size: 15px;
@@ -1963,7 +1960,7 @@ dl {
 
 ol,
 ul {
-    margin-bottom: 10.5px
+    margin-bottom: 8.5px
 }
 
 .list-inline {
@@ -16514,7 +16511,7 @@ p.discussion-no-comments {
 }
 
 #event_page ol {
-    padding-left: 12px
+    padding-left: 0px
 }
 
 #event_page .disclaimer {
@@ -16577,9 +16574,84 @@ p.discussion-no-comments {
 }
 
 #event_page .event-short-description-on-banner {
-    font-size: var(--general-paragraph-font-size);
-    margin-bottom: 20px
+    /*font-size: var(--general-paragraph-font-size);
+    margin-bottom: 20px*/
+    border: 2px solid #006400; /* Deep green boundary */
+    background-color: white;   /* White background */
+    padding: 10px;             /* Padding inside the card */
+    border-radius: 5px;        /* Rounded corners */
 }
+
+/* Added */
+#event_page .gcard {
+    .green-card {
+        background-color: rgb(0, 133, 66); /* Deep green background */
+        color: white;              /* White text */
+        padding: 4px;              /* Padding inside the card */
+        border-radius: 7px;        /* Rounded corners */
+        text-decoration: underline; /* Underline text */
+
+    }
+}
+
+.speakers-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .speaker {
+    background: #f9f9f9;
+    padding: 23px;
+    border-radius:27px;
+    box-shadow: 5px 10px 8px #c8c7c7;
+    flex: 1 1 calc(33.333% - 20px);
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  .speaker img {
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+    margin: 0 auto;
+  }
+  .speaker-details {
+    margin-top: 10px;
+  }
+  
+     
+  .team_card h5{
+    color: var(--bg-dark);
+  }
+  
+  .team_card p{
+    color: var(--font-body);
+    font-weight:400;
+    margin-bottom:24px;
+  }
+  
+  .team_card .team_btn{
+    padding:13px 27px !important;
+    line-height: normal;
+    background: var(--bg-dark);
+    border-radius:17px;
+    text-decoration:none;
+    color: #FFF;
+    box-shadow: 1px 7px 13px var(--shadow);
+    transition: all .7s ease;
+    align-items: right;
+  }
+  
+  .container h1{
+    color: #466a2b;
+    font-size: 50px;
+    text-align: center;
+  }
+
+  .team_card .team_btn:hover{
+    background: var(--bg-darker);
+    box-shadow: none;
+  }
 
 #event_page .view-instructions {
     font-size: 12px;
@@ -17033,7 +17105,8 @@ p.discussion-no-comments {
     padding-top: 60px;
     padding-bottom: 20px;
     color: #555;
-    background-color: #f4f4f4
+    background-color: #f4f4f4;
+    text-align: left;
 }
 
 #event_page .description-container.unpurchased-virtual-no-info {
@@ -17053,7 +17126,7 @@ p.discussion-no-comments {
 
 #event_page .description-container ol,
 #event_page .description-container ul {
-    padding: 0 0 0 30px
+    padding: 0 0 0 14px
 }
 
 #event_page .description-container .upper-logo {
@@ -17079,11 +17152,11 @@ p.discussion-no-comments {
 }
 
 #event_page .description-container .event-description-centered {
-    text-align: center
+    text-align: center; /*center*/
 }
 
 #event_page .description-container .instructions-title {
-    text-align: center;
+    text-align: center; /*center*/
     font-size: 24px;
     line-height: 22px;
     margin-top: 100px;

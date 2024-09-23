@@ -7,6 +7,7 @@ collections:
     output: true
 future: true
 
+incremental: true
 sass:
   load_paths:
     - _sass
@@ -46,3 +47,23 @@ gallerylinks:
  #- {imagename: "IMG_9817.jpg", thumbnail: "IMG_9817.jpg",  datasubhtml: "Caption Comes here", datasubparagraph: ""}
  
  
+# Speakers List Block
+showSessions: true
+
+# Head
+metaKeywords: "event, data science, africa, dsa, programming, machine learning, developers"
+twitterAccount: "@dsa_org"
+
+# Documents
+c4pUrl: ""
+c4sponsorsUrl: "mailto:info@datascienceafrica.org?subject=Event%20Sponsorship%20for%20DSA%202024%20Nyeri"
+
+# Highlights Block
+#aboutTitle: "Highlights"
+#aboutBlock:
+ #- {id: 1, title: "Generative AI", image: "Picture2-02.jpg", text: "<b>Photo credit-OpenArt SDXL AI generated prompt</b><br> Dive deep into the world of Deep Generative AI, exploring image, text, and code generation. Begin with a comprehensive introduction, then delve into the theory and practical applications of Variational Autoencoders and Generative Adversarial Networks. Our hands-on labs will guide you through developing your own generative systems, providing solutions to real-world challenges. Gain experience and knowledge in this field, enriching your understanding and skills in generative AI models.<br><b>Topics</b><ul><li>Deep Generative AI + Lab</li><li>General introduction</li><li>Variational Autoencoders): theory</li><li>Variational Autoencoders: laboratory (solutions)</li><li>Generative Adversarial Networks : Theory</li><li>Generative Adversarial Networks: laboratory (solutions)</li></ul>" }
+ #- {id: 2, title: "Natural Language Processing", image: "Picture2-03.jpg", text: "<b style='font-weight:bold'>Photo credit: <a  href='https://www.freewordcloudgenerator.com/generatewordcloud'>https://www.freewordcloudgenerator.com</a></b><br> This summer school offers an intensive dive into the world of Natural Language Processing (NLP) for African languages!  Over three days (Monday to Wednesday), you will explore the power of Large Language Models (LLMs), focusing on real-world applications for East Africa.  Develop an AI-powered agricultural assistant, tackle speech recognition for under-resourced languages, and delve into end-to-end speech technology.  Get hands-on experience building your own AI systems through practicum labs, and gain the skills to unlock the potential of NLP for African languages.<br><br><b>Topics</b><ul><li>Open Source LLMs in Production: Developing an AI-Powered Agricultural Assistant for East Africa</li><li>ASR for Low-Resourced Languages + Lab</li><li>End-to-End Automatic Speech Technology for African Languages + Lab</li><li>NLP and LLMs + Lab</li><li>Building RAG Agents with LLMs + Lab</li></ul>" }
+ #- {id: 3, title: "Edge AI", image: "Picture2-01.jpg", text: "<br><b>Photo credit: OpenArt SDXL AI generated prompt</b><p>Join us in exploring Edge AI, where intelligence converges with reality. Bid farewell to cumbersome servers and welcome the opportunity to develop and deploy Machine Learning models directly onto compact devices such as Raspberry Pis. Experience the marvel as your creation analyses bioacoustic data in the field, providing real-time insights into the concealed symphony of nature. Envision the wonder of observing your AI model identify bird calls or monitor animal movements, all made possible through your innovation and a pocket-sized powerhouse. This is not solely about acquiring knowledge; it is about surpassing the boundaries of AI and making a meaningful impact on the environment.</p><b>Topics</b><ul><li>Edge AI</li><li>Edge AI Fieldwork</li></ul><b>Other Topics</b><ul><li>Mathematical Foundations for ML</li><li>Uncertainty Quantification</li><li>Data Visualisation</li><li>GeoAI4Good: Harnessing the Transformative Power of AI Foundation Models for Earth Observation for Environmental Monitoring</li><li>Machine Learning for Remote Sensing</li><li>Introduction to Graphcast</li><li>Computer Vision</li><li>MLOps</li><li>Data Science for Policy</li></ul>" }
+ 
+# Latest News Block
+#latestNewsTitle: "Latest news"

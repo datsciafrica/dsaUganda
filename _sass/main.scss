@@ -9,6 +9,17 @@ body {
 }
 
 
+.img-fluid {
+  // Part 1: Set a maximum relative to the parent
+  max-width: 100%;
+  // Part 2: Override the height to auto, otherwise images will be stretched
+  // when setting a width and height attribute on the img element.
+  height: auto;
+}
+
+.mt-3 {
+  margin-top: 1rem !important; }
+
 @import url("https://fonts.googleapis.com/css2?family=Baloo+2&display=swap");
 $main-green: #008542 !default;
 $main-green-rgb-015: rgba(121, 221, 9, 0.1) !default;

@@ -1,0 +1,1579 @@
+#-
+#  id: assey
+#  name: "Theophil"
+#  surname: "Assey"
+#  title: "General Chair"
+#  company: "IAA"
+#  thumbnailUrl: TheophilAssey.jpg 
+##  social:
+##    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+#  ribbon:
+#    - {abbr: "GC", title: "General Chair", url: "https://datascienceafrica.org"}
+#-
+#  id: thiga
+#  name: "Moses"
+#  surname: "Thiga"
+#  title: "Lecturer"
+#  company: "Kabarak University, Kenya"
+#  thumbnailUrl: MosesThiga.svg
+#  ribbon:
+#    - {abbr: "PC", title: "DSA 2023 Program
+#Chair", url: "https://datascienceafrica.org"}
+-
+  id: ciira
+  name: "Ciira"
+  surname: "Maina"
+  company: "Dedan Kimathi University of Technology"
+  title: "Senior Lecturer and Director, Center for Data Science and AI"
+  bio: ""
+  thumbnailUrl: ciira.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/CwaMaina"}
+    - {name: "site", link: "http://ciirawamaina.com/"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
+-
+  id: dina
+  name: "Dina"
+  surname: "Machuve"
+  company: "Lacuna Fund Steering Committee"
+  title: "Member"
+  bio: ""
+  thumbnailUrl: dina.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
+  ribbon:
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+-
+  id: ernest
+  name: "Ernest"
+  surname: "Mwebabze"
+  company: "Sunbird AI"
+  title: "Director"
+  bio: ""
+  thumbnailUrl: earnest.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/earnest"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: elaine
+  name: "Elaine"
+  surname: "Nsoesie"
+  company: "Boston University"
+  title: "Assistant Professor"
+  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
+  thumbnailUrl: ElaineNsoesie.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/ensoesie"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#-
+#  id: billy
+#  name: "Billy"
+#  surname: "Okal"
+#  company: "NVIDIA"
+#  title: "Senior Research Engineer"
+#  bio: ""
+#  thumbnailUrl: billy_okal.png
+#  ribbon:
+#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/jadalawa"}
+#-
+#  id: damon
+#  name: "Damon"
+#  surname: "Civin"
+#  company: "Facebook"
+#  title: "Head of Data Science, Growth"
+#  bio: ""
+#  thumbnailUrl: damon.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/DCivin"}
+#
+#-
+#  id: neema
+#  name: "Neema"
+#  surname: "Mduma"
+#  company: "Nelson Mandela African Institute of Science and Technology"
+#  title: "Lecturer"
+#  bio: ""
+#  thumbnailUrl: neema.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/nakadori"}
+#
+-
+  id: neil
+  name: "Neil"
+  surname: "Lawrence"
+  company: "University of Cambridge"
+  title: "Professor"
+  bio: "DeepMind Professor of Machine Learning at the University of Cambridge"
+  thumbnailUrl: neil.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lawrend"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+  id: johnquinn
+  name: "John"
+  surname: "Quinn"
+  company: "Google AI"
+  title: "Research Scientist"
+  bio: ""
+  thumbnailUrl: johnquinn.svg
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+#-
+#  id: mikesmith
+#  name: "Mike"
+#  surname: "Smith"
+#  company: "Sheffield University"
+#  title: "Post Doc"
+#  bio: ""
+#  thumbnailUrl: mike.jpg
+-
+  id: joyce
+  name: "Joyce"
+  surname: "Nabende"
+  company: "Makerere University"
+  title: "Lecturer & Head of AI Lab"
+  thumbnailUrl: NabendeJoyce.svg
+  bio: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: morine
+  name: "Morine"
+  surname: "Amutorine"
+  title: "Data Associate"
+  company: "UN Global Pulse, Kampala"
+  thumbnailUrl: morine.svg
+  bio: "Morine is passionate about analysing, visualising and communicating data. Her work has been dominated by social data including social media data (conducting real-time content analysis and knowledge translation research), public radio (analysing public perceptions on topics that inform the work of the SDGs) and Google search data (to reveal knowledge gaps and detect disparities in health information availability). She particularly enjoys creating data-driven visuals to go with her research findings. She is currently a data associate at UN Global Pulse based in Kampala."
+  social:
+    - {name: "twitter", link: "https://twitter.com/theamutorine"}
+    - {name: "site", link: "http://site.com/"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: thiga
+  name: "Moses"
+  surname: "Thiga"
+  title: "Lecturer"
+  company: "Kabarak University, Kenya"
+  thumbnailUrl: MosesThiga.svg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program
+Chair", url: "https://datascienceafrica.org"}
+#-
+#  id: engineer
+#  name: "Engineer"
+#  surname: "Bainomugisha"
+#  title: "Associate Professor & Department Chair (CS)"
+#  company: "Makerere University"
+#  thumbnailUrl: engineer.png
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/iBaino"}
+#    - {name: "site", link: "http://ibaino.net"}
+#  ribbon:
+#    - {abbr: "FWC", title: "Field Work Chair", url: "https://datascienceafrica.org"}
+#
+-
+  id: claire
+  name: "Claire"
+  surname: "Babirye"
+  title: "Lecturer"
+  company: "UTAMU"
+  thumbnailUrl: claire2.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
+#-
+#  id: benakera
+#  name: "Benjamin"
+#  surname: "Akera"
+#  title: "Researcher"
+#  company: "McGill University"
+#  thumbnailUrl: Akera.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/benjaminakera"}
+-
+  id: andreas
+  name: "Andreas"
+  surname: "Damianou"
+  title: "senior manager and research scientist"
+  company: "Spotify"
+  thumbnailUrl: andreas.svg
+  bio: "I am a senior manager and research scientist at Spotify. I lead a research lab  on machine learning and information retrieval. More specifically, the focus is on representation learning at scale, including Graph ML and LLMs, to advance search and recommender systems. Before joining Spotify I was at Amazon."
+  social:
+    - {name: "twitter", link: "https://twitter.com/adamianou"}
+    - {name: "site", link: "http://adamian.github.io"}
+#-
+#  id: berens
+#  name: "Philipp"
+#  surname: "Berens"
+#  title: "Professor of Data Science"
+#  company: "University of Tübingen"
+#  thumbnailUrl: berens.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/CellTypist"}
+#    - {name: "site", link: "http://www.eye-tuebingen.de/berens/"}
+-
+  id: andrei
+  name: "Andrei"
+  surname: "Paleyes"
+  title: "PhD Candidate"
+  company: "University of Cambridge"
+  thumbnailUrl: andrei_paleyes.svg
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
+-
+  id: charles
+  name: "Isah Charles"
+  surname: "Saidu"
+  title: "Lecturer"
+  company: "Baze University, Nigeria"
+  thumbnailUrl: Charles-Saidu.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/charlesity"}
+#-
+#  id: melese
+#  name: "Michael"
+#  surname: "Melese"
+#  title: "Assistant Professor"
+#  company: "Addis Ababa University"
+#  thumbnailUrl: melese.jpg
+#  social:
+#    - {name: "site", link: "www.linkedin.com/in/michaelmelese"}
+#-
+#  id: justus
+#  name: "Justus Bernard"
+#  surname: "Muhwezi"
+#  title: "Head, Geo-Information Services"
+#  company: "Uganda Bureau of Statistics(UBOS)"
+#  thumbnailUrl: BJMuhwezi.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/MuhweziBernardJ"}
+#-
+#  id: pompe
+#  name: "Alex"
+#  surname: "Pompe"
+#  title: "Research Manager"
+#  company: "Facebook"
+#  thumbnailUrl: pompe.jpg
+#-
+#  id: sodomka
+#  name: "Eric"
+#  surname: "Sodomka"
+#  title: "Research Scientist"
+#  company: "Facebook"
+#  thumbnailUrl: sodomka.jpg
+#-
+#  id: nasia
+#  name: "Nasia"
+#  surname: "Ntalla"
+#  title: ""
+#  company: "Facebook"
+#  thumbnailUrl: person.svg
+#-
+#  id: kuldip
+#  name: "Kuldip"
+#  surname: "Bhathal"
+#  title: ""
+#  company: "Facebook"
+#  thumbnailUrl: person.svg
+#-
+#  id: meissner
+#  name: "Eric"
+#  surname: "Meissner"
+#  title: "PhD Student"
+#  company: "University of Cambridge"
+#  thumbnailUrl: meissner.jpg
+#-
+#  id: jennifer
+#  name: "Jennifer"
+#  surname: "Miles"
+#  title: "Senior Mediator and Program Manager"
+#  company: "Lacuna Fund"
+#  thumbnailUrl: jennifer.jpg
+#-
+#  id: hidalgo
+#  name: "Paula"
+#  surname: "Hidalgo-Sanchis"
+#  title: "Innovation Advisor"
+#  company: "UN Pulse Lab"
+#  thumbnailUrl: hidalgo.jpg
+#-
+#  id: tom
+#  name: "Tom"
+#  surname: "Dietterich"
+#  title: "Professor (Emeritus)"
+#  company: "Oregon State University"
+#  thumbnailUrl: tom.jpg
+#-
+#  id: irene
+#  name: "Irene"
+#  surname: "Tematelewo"
+#  title: "PhD Student"
+#  company: "Oregon State University"
+#  thumbnailUrl: irene.jpg
+#-
+#  id: tadesse
+#  name: "Tadesse"
+#  surname: "Zemicheal"
+#  title: "PhD Student"
+#  company: "Oregon State University"
+#  thumbnailUrl: tadesse.jpg
+#-
+#  id: shalmali
+#  name: "Shalmali"
+#  surname: "Joshi"
+#  title: "PostDoc"
+#  company: "Vector Institute"
+#  thumbnailUrl: shalmali.jpg
+#-
+#  id: hewitt
+#  name: "Hewitt"
+#  surname: "Tusiime"
+#  title: "Student"
+#  company: "Makerere University"
+#  thumbnailUrl: hewitt.jpg
+#-
+#  id: dorothy
+#  name: "Dorothy"
+#  surname: "Kabarozi"
+#  title: "Software Engineer"
+#  company: "Makerere University"
+#  thumbnailUrl: dorothy.jpg
+#-
+#  id: bailey
+#  name: "Mike"
+#  surname: "Bailey"
+#  title: "Research Science Manager"
+#  company: "Facebook"
+#  thumbnailUrl: bailey.jpg
+#-
+#  id: megan_allen
+#  name: "Megan"
+#  surname: "Allen"
+#  title: ""
+#  company: ""
+#  thumbnailUrl: person.svg
+#-
+#  id: rediet
+#  name: "Rediet"
+#  surname: "Abebe"
+#  title: "Junior Fellow (Havard Society of Fellows)"
+#  company: "Havard University"
+#  thumbnailUrl: Rediet.jpg
+#-
+#  id: abeba
+#  name: "Abeba"
+#  surname: "Birhane"
+#  title: "PhD Candidate"
+#  company: "University College Dublin & Lero"
+#  thumbnailUrl: abeba.jpg
+#-
+#  id: irenelo
+#  name: "Irene"
+#  surname: "Lo"
+#  title: "Assistant Professor"
+#  company: "Stanford University"
+#  thumbnailUrl: irenelo.jpg
+#-
+#  id: ana_andreea
+#  name: "Ana-Andreea"
+#  surname: "Stoica"
+#  title: "PhD Candidate"
+#  company: "Columbia University"
+#  thumbnailUrl: ana.jpg
+#-
+#  id: francisco
+#  name: "Francisco"
+#  surname: "Marmolejo"
+#  title: "PhD Candidate"
+#  company: "University of Oxford"
+#  thumbnailUrl: francisco.png
+#-
+#  id: obaido
+#  name: "George"
+#  surname: "Obaido"
+#  title: "Research Associate"
+#  company: "University of Witwatersrand"
+#  thumbnailUrl: george.jpg
+#-
+#  id: lilyxu
+#  name: "Lily"
+#  surname: "Xu"
+#  title: "PhD Candidate"
+#  company: "Havard University"
+#  thumbnailUrl: lilyxu.jpg
+#-
+#  id: wanyili
+#  name: "Wanyi"
+#  surname: "Li"
+#  title: "PhD Candidate"
+#  company: "Stanford University"
+#  thumbnailUrl: wanyi.png
+#-
+#  id: samuel
+#  name: "Samuel"
+#  surname: "Taggart"
+#  title: "Assistant Professor"
+#  company: "Oberlin College"
+#  thumbnailUrl: sam.jpg
+#-
+#  id: jared
+#  name: "Jared"
+#  surname: "Makario"
+#  title: "Research Intern"
+#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+#  thumbnailUrl: jared.jpg
+#-
+#  id: jason
+#  name: "Jason"
+#  surname: "Kabi"
+#  title: "Research Intern"
+#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+#  thumbnailUrl: JasonKabi.jpg
+#-
+#  id: shelmith
+#  name: "Shelmith"
+#  surname: "Kariuki"
+#  title: "Senior Data Analyst"
+#  company: "Independent Consultant"
+#  thumbnailUrl: ShelDSA.jpg
+#-
+#  id: sabelo
+#  name: "Sabelo"
+#  surname: "Mhlambi"
+#  title: "Fellow"
+#  company: "Berkman Klein Center for Internet & Society, Havard University"
+#  thumbnailUrl: sabelo.jpg
+#-
+#  id: beatrice
+#  name: "Beatrice"
+#  surname: "Kariuki"
+#  title: "Consultant, Public health specialist and health data analyst"
+#  company: ""
+#  thumbnailUrl: beatrice.jpg
+#
+#
+#
+##
+##
+##
+## Lacuna
+## Aissatou Bah
+## Nyalleng
+## Moustapha??
+#
+#
+#
+#
+##
+##
+##
+## DO NOT REMOTE THIS DUMMY SPEAKER. USED AS FILLER
+##
+#
+#-
+#  id: suvodeep
+#  name: "Suvodeep"
+#  surname: "Mazumdar"
+#  title: "Lecturer in Data Analytics"
+#  company: "The University of Sheffield"
+#  thumbnailUrl: Dr_Suvodeep_Mazumdar.jpeg
+#  social:
+#    - {name: "site", link: "https://www.sheffield.ac.uk/is/people/academic/suvodeep-mazumdar"}
+#-
+#  id: nafeesa
+#  name: "Nafeesa"
+#  surname: "Alibedi"
+#  title: "TBC"
+#  company: "TBC"
+#  thumbnailUrl: person.svg
+#-
+#  id: maria
+#  name: "Maria"
+#  surname: "Nyamukuru"
+#  title: "PH.D. Student"
+#  company: "Dartmouth College"
+#  thumbnailUrl: maria_nyamukuru.jpeg
+#  social:
+#    - {name: "site", link: "https://www.ah-lab.cs.dartmouth.edu/our-team/maria-nyamukuru"}
+#-
+#  id: anani
+#  name: "Anani"
+#  surname: "Sawadogo"
+#  title: "Software Engineer"
+#  company: "FreshAir Sensor corporation"
+#  thumbnailUrl: anani.jpeg
+#  social:
+#    - {name: "site", link: "https://www.linkedin.com/in/t-anani-sawadogo-693b0558/"}
+#-
+#  id: NVIDIA
+#  name: "Manal"
+#  surname: "Jalloul"
+#  title: "NVIDIA Certified Instructor"
+#  company: "NVIDIA"
+#  thumbnailUrl: manalJallou.png 
+#-
+#  id: vukosi
+#  name: "Vukosi"
+#  surname: "Marivate"
+#  title: "ABSA UP Chair of Data Science"
+#  company: "University of Pretoria"
+#  thumbnailUrl: vukosi_marivate.jpg 
+-
+  id: lorna
+  name: "Lorna"
+  surname: "Mugambi"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: LornaMugambi.svg
+#-
+#  id: gabriel
+#  name: "Gabriel"
+#  surname: "Kiarie"
+#  title: "Research intern"
+#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+#  thumbnailUrl: GabrielKiarieNjoroge.jpg
+#-
+#  id: adaugo
+#  name: "Adaugo"
+#  surname: "Trinitas"
+#  title: "TBD"
+#  company: "WanaData, Data Academy, Code for Africa"
+#  thumbnailUrl: adaugoTrinitasOnyebuchi.png 
+#-
+#  id: thenjiwe
+#  name: "Thenjiwe"
+#  surname: "Kubheka"
+#  title: "TBD"
+#  company: "TBD"
+#  thumbnailUrl: thenjiweKubheka.png
+#-
+#  id: moekestsi
+#  name: "Moekestsi"
+#  surname: "Mosia"
+#  title: "SPU team"
+#  company: "Sol Plaatje University (SPU)"
+#  thumbnailUrl: mosiaMoeketsi.png
+#-
+#  id: tejumade
+#  name: "Tejumade"
+#  surname: "Afonja"
+#  title: "Co-founder"
+#  company: "AI Saturdays (Lagos)"
+#  thumbnailUrl: zKAUJb6T_400x400.jpg
+#-
+#  id: luis
+#  name: "Luis"
+#  surname: "Cabanzón Gutiérrez"
+#  title: "Data Engineer"
+#  company: "META, USA"
+#  thumbnailUrl: luis.png 
+#-
+#  id: peter
+#  name: "Peter"
+#  surname: "Popoola"
+#  title: "TBD"
+#  company: "Sol Plaatje University (SPU)"
+#  thumbnailUrl: peterPopoola.png
+#-
+#  id: wanaData
+#  name: "Tricia"
+#  surname: "Govindasamy"
+#  title: "TBC"
+#  company: "WanaData/Code4Africa"
+#  thumbnailUrl: tricia.png
+#-
+#  id: nimy
+#  name: "Nimy,"
+#  surname: "Eli Bila"
+#  title: "SPU team"
+#  company: "Sol Plaatje University (SPU)"
+#  thumbnailUrl: nimy.png 
+#-
+#  id: melvin
+#  name: "Melvin"
+#  surname: "Kisten"
+#  title: "SPU team"
+#  company: "Sol Plaatje University (SPU)"
+#  thumbnailUrl: melvin.png 
+#-
+#  id: spu
+#  name: "Prof Mary"
+#  surname: "Jean Baxen"
+#  title: "Deputy Vice Chancellor (DVC)"
+#  company: "Sol Plaatje University (SPU)"
+#  thumbnailUrl: profMary.png 
+-
+  id: nakasi
+  name: "Nakasi"
+  surname: "Rose"
+  title: "Research Assistant"
+  company: "Makerere AI Lab"
+  thumbnailUrl: rose.svg
+#-
+#  id: afua
+#  name: "Afua"
+#  surname: "Bruce"
+#  title: "Chief Program Officer"
+#  company: "DataKind"
+#  thumbnailUrl: AfuaBruce.png
+#-
+#  id: zindi
+#  name: "Amy"
+#  surname: "Bray"
+#  title: "Competition Lead"
+#  company: "Zindi"
+#  thumbnailUrl: amyBray.jpeg
+#-
+#  id: celina
+#  name: "Celina"
+#  surname: "Lee"
+#  title: "CEO and Co-founder"
+#  company: "Zindi"
+#  thumbnailUrl: celine.png
+#-
+#  id: chisenga
+#  name: "Chisenga"
+#  surname: "Muyoya"
+#  title: "Co-founder"
+#  company: "Asikana Network"
+#  thumbnailUrl: chisenga.jpeg 
+-
+  id: martin
+  name: "Martin Gordon"
+  surname: "Mubangizi"
+  title: "Officer in Charge and Data Science Officer"
+  company: "UN Global Pulse, Kampala"
+  thumbnailUrl: martin.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Secretary", url: "https://datascienceafrica.org"}
+#-
+#  id: emmanuel
+#  name: "Emmanuel"
+#  surname: "Mupuya"
+#  title: "Field Facilitator"
+#  company: "Digital Opportunity Trust"
+#  thumbnailUrl: person.svg
+#  social:
+#    - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
+#-
+#  id: raesetje
+#  name: "Raesetje"
+#  surname: "Sefala"
+#  title: "TBD"
+#  company: "TBD"
+#  thumbnailUrl: person.svg 
+#-
+#  id: mohamed
+#  name: "Mohamed"
+#  surname: "Ahmed"
+#  title: "TBD"
+#  company: "TBD"
+#  thumbnailUrl: person.svg
+#-
+#  id: tabaro
+#  name: "Tabaro"
+#  surname: "Kabanda"
+#  title: "TBD"
+#  company: "TBD"
+#  thumbnailUrl: person.svg
+#-
+#  id: vernon
+#  name: "Vernon"
+#  surname: "Kok"
+#  title: "SPU team"
+#  company: "Sol Plaatje University (SPU)"
+#  thumbnailUrl: person.svg
+#-
+#  id: collins
+#  name: "Collins"
+#  surname: "Udanor"
+#  title: "Data Science Specialist"
+#  company: "University of Nigeria Nsukka"
+#  thumbnailUrl: person.svg 
+#-
+#  id: rabson
+#  name: "Rabson"
+#  surname: "Sayenda"
+#  title: "Chancellor College"
+#  company: "University of Malawi"
+#  thumbnailUrl: person.svg Prof Epaphra Manamba Deputy Rector -Academic Research and Consultancy, IAA
+#-
+#  id: epaphra
+#  name: "Prof Epaphra"
+#  surname: "Manamba"
+#  title: "Deputy Rector - Academic Research and Consultancy"
+#  company: "IAA"
+#  thumbnailUrl: EpaphraManamba.jpeg 
+#-
+#  id: everson
+#  name: "Richard"
+#  surname: "Everson"
+#  title: "Prof."
+#  company: "University of Exeter"
+#  thumbnailUrl: RichardEverson.jpeg
+#
+#-
+#  id: marcos
+#  name: "Marcos"
+#  surname: "Oliveira"
+#  title: "Lecturer"
+#  company: "University of Exeter"
+#  thumbnailUrl: MarcosOliveira.jpeg
+#-
+#  id: markus
+#  name: "Markus"
+#  surname: "Kaiser"
+#  title: "Lecturer"
+#  company: "University of Cambridge"
+#  thumbnailUrl: MarkusKaiser.jpeg
+#-
+#  id: mwaitete
+#  name: "Dr Mwaitete"
+#  surname: "Cairo"
+#  title: "Rector"
+#  company: "IAA"
+#  thumbnailUrl: MwaiteteCairo.jpeg
+#-
+#  id: kabaza
+#  name: "Kabaza"
+#  surname: "Runyeta"
+#  title: "TBD"
+#  company: "Habari Node"
+#  thumbnailUrl: KabazaRunyeta.jpeg
+#-
+#  id: kadeghe
+#  name: "Kadeghe"
+#  surname: "Fue"
+#  title: "TBD"
+#  company: "Sokoine University of Agriculture"
+#  thumbnailUrl: KadegheFue.jpeg
+#-
+#  id: menezes
+#  name: "Ronaldo"
+#  surname: "Menezes"
+#  title: "Professor of Data and Network Science"
+#  company: "University of Exeter"
+#  thumbnailUrl: RonaldoMenezes.jpeg
+#-
+#  id: agaba
+#  name: "Prof. Morris"
+#  surname: "Agaba"
+#  title: "Professor"
+#  company: "TBD"
+#  thumbnailUrl: MorrisAgaba.jpg
+#-
+#  id: maina
+#  name: "Noah"
+#  surname: "Maina"
+#  title: "TBD"
+#  company: "SEACOM"
+#  thumbnailUrl: NoahMaina.jpeg
+#-
+#  id: feng
+#  name: "Alice"
+#  surname: "Feng"
+#  title: "TBD"
+#  company: "Axios"
+#  bio: "Alice Feng is a data visualization developer based in the Washington, DC area. She is passionate about using design to make data and information more accessible to broader audiences and recently has been exploring ways to bring more diversity, equity, and inclusion into the way we visualize data. Alice is currently making charts and maps for the United Nations Development Programme. "
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/fleecealeece"}
+#  thumbnailUrl: alice_feng.png
+#-
+#  id: mugaga
+#  name: "Pius"
+#  surname: "Mugaga"
+#  title: "TBD"
+#  company: "UN Global Pulse, Kampala"
+#  thumbnailUrl: PiusMugagga.jpeg
+#-
+#  id: nyamawe
+#  name: "Ally"
+#  surname: "Nyamawe"
+#  company: "University of Dodoma"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: AllyNyamawe.jpeg
+#-
+#  id: katumba
+#  name: "Andrew"
+#  surname: "Katumba"
+#  company: "Makerere University"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: AndrewKatumba.jpeg
+#-
+#  id: damon
+#  name: "Civin"
+#  surname: "Damon"
+#  company: "META, USA"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: DamonCivin.jpeg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/DCivin"}
+#-
+#  id: wanzare
+#  name: "Lilian"
+#  surname: "Wanzare"
+#  company: "Maseno University"
+#  title: "Lecturer"
+#  bio: ""
+#  thumbnailUrl: LilianWanzare.jpeg
+#-
+#  id: hadgu
+#  name: "Asme"
+#  surname: "Hadgu"
+#  company: "Lesan"
+#  title: "Co-Founder"
+#  bio: ""
+#  thumbnailUrl: AsmeHadgu.jpeg
+#-
+#  id: shamsuddeen
+#  name: "Shamsuddeen"
+#  surname: "Muhammad"
+#  company: "Masakhane"
+#  title: "NLP Researcher"
+#  bio: ""
+#  thumbnailUrl: ShamsuddeenMuhammad.jpeg
+#-
+#  id: owomugisha
+#  name: "Godliver"
+#  surname: "Owomugisha"
+#  company: "Busitema University"
+#  title: "Senior Lecturer"
+#  bio: ""
+#  thumbnailUrl: GodliverOwomugisha.jpeg
+#-
+#  id: sekitoleko
+#  name: "Irene"
+#  surname: "Sekitoleko"
+#  company: "Ministry of ICT- Uganda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: IreneSekitoleko.jpeg
+#-
+#  id: gareth
+#  name: "Billy"
+#  surname: "Gareth"
+#  company: "NVIDIA AI Ambassador - Africa"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: BillyGareth.jpeg
+#-
+#  id: yuri
+#  name: "Yuri"
+#  surname: "Njathi"
+#  company: "Dedan Kimathi University of Technology, Kenya"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: YuriNjathi_DeKUT.jpg
+#-
+#  id: davis
+#  name: "Davis"
+#  surname: "David"
+#  title: "Zindi Ambassador"
+#  company: "Zindi"
+#  thumbnailUrl: person.svg
+#-
+#  id: christian
+#  name: "Cabrera-Jojoa"
+#  surname: "Christian"
+#  title: "Lecturer"
+#  company: "University of Cambridge"
+#  thumbnailUrl: ChristianHumberto.jpeg
+#-
+#  id: patel
+#  name: "Patel"
+#  surname: "Niel"
+#  company: "META, USA"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: neilpatel.png
+#-
+#  id: msolla
+#  name: "Allan"
+#  surname: "Msolla"
+#  title: "Head of Informatics Department"
+#  company: "IAA"
+#  thumbnailUrl: person.svg
+#-
+#  id: ryakitimbo
+#  name: "Rebecca"
+#  surname: "Ryakitimbo"
+#  company: "Mozilla"
+#  title: "Common Voice Fellow at Mozilla"
+#  bio: ""
+#  thumbnailUrl: person.svg
+#-
+#  id: facebook
+#  name: "Facebook"
+#  surname: ""
+#  company: "Facebook"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: person.svg 
+#-
+#  id: gaba
+#  name: "Yaé Ulrich"
+#  surname: "Gaba"
+#  company: "AIMS Rwanda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: person.svg
+#-
+#  id: adebayo
+#  name: "Segun"
+#  surname: "Adebayo"
+#  title: "TBD"
+#  company: "Bowen University"
+#  thumbnailUrl: person.svg
+#-
+#  id: dsa
+#  name: "DSA"
+#  surname: ""
+#  title: "TBC"
+#  company: "DSA"
+#  thumbnailUrl: person.svg 
+#-
+#  id: masakhane
+#  name: "Masakhane"
+#  surname: ""
+#  title: "TBD"
+#  company: "Masakhane"
+#  thumbnailUrl: person.svg
+#-
+#  id: damilare
+#  name: "Ms. Damilare"
+#  surname: "Ayonkule"
+#  title: "TBD"
+#  company: "Bowen University Iwo, Nigeria"
+#  thumbnailUrl: person.svg
+#-
+#  id: halleluyah
+#  name: "Dr Halleluyah"
+#  surname: "Aworinde"
+#  title: "TBD"
+#  company: "Bowen University Iwo, Nigeria"
+#  thumbnailUrl: person.svg
+#-
+#  id: pcgc
+#  name: "PCs and GC"
+#  surname: ""
+#  title: "TBD"
+#  company: ""
+#  thumbnailUrl: person.svg
+#-
+#  id: nssf
+#  name: "Alvin"
+#  surname: "Kabwama"
+#  company: "NSSF, Uganda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: person.svg
+#-
+#  id: googleAI
+#  name: "Google"
+#  surname: "AI"
+#  company: "Google AI, Ghana"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: person.svg 
+-
+  id: katumba
+  name: "Andrew"
+  surname: "Katumba"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: andrew_katumba.svg
+#-
+#  id: kouanou
+#  name: "Aurelle"
+#  surname: "Kouanou Tchagna"
+#  company: "AIMS Cameroon"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: AurelleTchagna.jpg
+#-
+#  id: kemme
+#  name: "Jodelle"
+#  surname: "Kemme"
+#  company: "Ishango Data Science Fellow"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: AurelieJodelleKemme.jpg
+-
+  id: kiptoo
+  name: "Daisy"
+  surname: "Kiptoo"
+  company: "Kabarak University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: daisy_kiptoo.svg
+#-
+#  id: Jongboom
+#  name: "Jan"
+#  surname: "Jongboom"
+#  company: "Edge Impulse"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: JanJongboom.jpg
+#-
+#  id: kipkebut
+#  name: "Andrew"
+#  surname: "Kipkebut"
+#  company: "Kabarak University"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: AndrewKipkebut.jpg
+#-
+#  id: ngaruye
+#  name: "Innocent"
+#  surname: "Ngaruye"
+#  company: "University of Rwanda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: innocent_ngaruye.png
+#-
+#  id: batamuliza
+#  name: "Jennifer"
+#  surname: "Batamuliza"
+#  company: "University of Rwanda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: jennifer_batamuliza.png
+#-
+#  id: kimeto
+#  name: "Pamela"
+#  surname: "Kimeto"
+#  company: "Kabarak University"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: Pamela_Kimeto.jpg
+#-
+#  id: ruganzu
+#  name: "Leon"
+#  surname: "Ruganzu"
+#  company: "University of Rwanda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: ruganzu_leon.png
+#-
+#  id: gaba
+#  name: "Yaé Ulrich"
+#  surname: "Gaba"
+#  company: "Quantum Leap Africa"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: Dr_YUGaba.PNG
+#-
+#  id: mwangi
+#  name: "Charles"
+#  surname: "Mwangi"
+#  company: "Kabarak University"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: CharlesMwangi.jpg
+#-
+#  id: rep_DSA
+#  name: "Representative of"
+#  surname: "DSA"
+#  company: "DSA"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: person.svg 
+#-
+#  id: ed_shee
+#  name: "Ed"
+#  surname: "Shee"
+#  company: "seldon.io"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: Ed_Shee.png 
+#-
+#  id: ruranga
+#  name: "Charles"
+#  surname: "Ruranga"
+#  company: "University of Rwanda"
+#  title: "TBD,"
+#  bio: ""
+#  thumbnailUrl: CharlesRuranga.jpg 
+#-
+#  id: osei
+#  name: "Prince"
+#  surname: "Osei"
+#  company: "Quantum Leap Africa(QLA)"
+#  title: "Lead Scientist &amp; Director,"
+#  bio: ""
+#  thumbnailUrl: Osei.jpeg 
+#-
+#  id: rep_dedani_kimathi
+#  name: ""
+#  surname: "TBD"
+#  company: "Dedani Kimathi University of Technology "
+#  title: "A.g Vice Chancellor"
+#  bio: ""
+#  thumbnailUrl: person.svg
+-
+  id: issa
+  name: "Issa"
+  surname: "Karambal"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: issa.svg 
+-
+  id: wanzare
+  name: "Lillian"
+  surname: "Wanzare"
+  company: "Maseno University"
+  title: "Lecturer"
+  bio: ""
+  thumbnailUrl: LilianWanzare.svg 
+-
+  id: olsson
+  name: "Sarah"
+  surname: "Olsson"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: SaraOlsson.svg
+-
+  id: baaijens
+  name: "Mathijs"
+  surname: "Baaijens"
+  company: "Edge AI"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: MathijsBaaijens.svg 
+-
+  id: lowe
+  name: "Ross"
+  surname: "Lowe"
+  company: "Edge AI"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: RossLowe.svg  
+-
+  id: omino
+  name: "Melissa"
+  surname: "Omino"
+  company: "CIPIT, Strathmore University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: MelissaOmino.svg 
+-
+  id: mazumdar
+  name: "Suvodeep"
+  surname: "Mazumdar"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: Dr_Suvodeep_Mazumdar.svg 
+-
+  id: dauwels
+  name: "Justin"
+  surname: "Dauwels"
+  company: "TU Delft"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: JustinDauwels.svg
+-
+  id: thomas
+  name: "Thomas"
+  surname: "G. Dietterich"
+  title: "Professor (Emeritus)"
+  company: "Oregon State University"
+  bio: ""
+  thumbnailUrl: ThomasDietterich.svg
+-
+  id: muhawenayo
+  name: "Gedeon"
+  surname: "Muhawenayo"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: GedeonMuhawenayo.svg
+-
+  id: nlebedim
+  name: "Valentine"
+  surname: "Nlebedim"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: ValentineNlebedim.svg 
+-
+  id: alessandro
+  name: "Alessandro "
+  surname: "Solbiati"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: AlessandroSolbiati.svg
+-
+  id: mbuvha
+  name: "Rendani"
+  surname: "Mbuvha"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: rendaniMbuvha.svg
+-
+  id: kerner
+  name: "Hannah"
+  surname: "Kerner"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: hannahKerner.svg
+-
+  id: tum
+  name: "Jackline"
+  surname: "Tum"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: jacklineTum.svg
+-
+  id: muguro
+  name: "Joseph"
+  surname: "Muguro"
+  company: "Dedan Kimathi University of Technology"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: josephMuguro.svg
+-
+  id: mutuku
+  name: "Leonida"
+  surname: "Mutuku"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: AminiAI
+  name: "AminiAI"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: dummy
+  name: "TBD"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: Edge_Impluse
+  name: "Edge"
+  surname: "Impluse"
+  company: "Edge Impluse"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+
+  id: Francis_Agama
+  name: "Francis"
+  surname: "Agamah"
+  company: "DSI Africa"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Lighton_Phiri
+  name: "Lighton"
+  surname: "Phiri"
+  company: "University of Zambia"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Peter_Ochieng
+  name: "Peter"
+  surname: "Ochieng"
+  company: "University of Cambridge"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Bonface_Kil
+  name: "Bonface"
+  surname: "Kilyungi"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Elizabeth_Mu
+  name: "Elizabeth"
+  surname: "Mutua"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Belayneh_end
+  name: "Belayneh"
+  surname: "Endalamaw"
+  company: "Dedan Kimathi University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Irene_korir
+  name: "Irene"
+  surname: "Korir"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Ann_wam
+  name: "Ann"
+  surname: "Wambui"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Austin_Kaburia
+  name: "Austin"
+  surname: "Kaburia"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Wabinya_Fidel
+  name: "Wabinyai"
+  surname: "Fidel Raja"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Marion_Warau
+  name: "Marion"
+  surname: "Mwaniki"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Noble_Mutabazi
+  name: "Noble"
+  surname: "Mutabazi"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Joel_Tibabwetiza
+  name: "Joel"
+  surname: "Muhanguzi"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Manasseh_Samantha
+  name: "Manasseh"
+  surname: "Matemba"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Joel_Tibabwetiza
+  name: "Joel"
+  surname: "Muhanguzi"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Denish_Azamuke
+  name: "Denish"
+  surname: "Azamuke"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Sharon_Kiprotich
+  name: "Sharon"
+  surname: "Kiprotich"
+  company: "Murang'a University of Technology"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Bakare_Firdous
+  name: "Bakare"
+  surname: "Damilola"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: George_Igwegbe
+  name: "George"
+  surname: "Igwegbe"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Epuret_Moses
+  name: "Epuret"
+  surname: "Obuya"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Imed_Eddine
+  name: "Imed"
+  surname: "Haouli"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Rahman_Sanya
+  name: "Rahman"
+  surname: "Sanya"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: George_Mageto
+  name: "George"
+  surname: "Mose"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Angela_Muthama
+  name: "Angela"
+  surname: "Muthama"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Flora_Oladipupo
+  name: "Flora"
+  surname: "Oladipupo"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Cedric_Kiplimo
+  name: "Cedric"
+  surname: "Kiplimo"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Wayne_Okello
+  name: "Wayne"
+  surname: "Okello"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Patricia_Ojonoka
+  name: "Patricia"
+  surname: "Idakwo"
+  company: "AUST"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Epuret_Moses
+  name: "Epuret"
+  surname: "Obuya"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Jonah_Mubuuke
+  name: "Jonah"
+  surname: "Kyagaba"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Imed_Eddine
+  name: "Imed"
+  surname: "Haouli"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Bob_Tumu
+  name: "Bob"
+  surname: "Tumushiime"
+  company: "UBOS"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Denish_Azamuke
+  name: "Denish"
+  surname: "Azmuke"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Sulaiman_Kagumire
+  name: "Sulaiman"
+  surname: "Kagumire"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Comfort_Ilevbare
+  name: "Comfort"
+  surname: "Ilevbare"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  
+
+
+
+
+
+  
+

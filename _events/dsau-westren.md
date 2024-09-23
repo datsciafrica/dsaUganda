@@ -243,9 +243,10 @@ day1:
   end: "10:30 "
   sessions:
   - room1:
-    topic1: "Python in Data science. <br> - Mr Ocen Samuel (Mountains of the Moon University)"
+
+    topic1: "<u>Python in Data science.</u>  <p>- Mr Ocen Samuel (Mountains of the Moon University)</p>"
   - room2:
-    topic2: "Introduction to Data Science and AI. <br> - Rukundo Benjamin (Makerere AI Health Lab)"
+    topic2: "<u>Introduction to Data Science and AI.</u> <br> <i>- Rukundo Benjamin (Makerere AI Health Lab)</i>"
 - slot:
   start: "10:30-"
   end: "11:00 "
@@ -255,17 +256,17 @@ day1:
   end: "12:00 "
   sessions:
   - room1: 
-    topic1: "Data Engineering & Analytics <br> - Wabinyai Fidel Raja, AirQo <br> - Martin Baale, AirQo"
+    topic1: "<u>Data Engineering & Analytics</u> <br> - Wabinyai Fidel Raja, AirQo <br> - Martin Baale, AirQo"
   - room2:
-    topic2: "Data  Visualization and Storytelling <br> - Wanyama Denis, UN Global Pulse <br> - Otim Gerrison, UN Global Pulse"
+    topic2: "<u>Data  Visualization and Storytelling</u> <br> - Wanyama Denis, UN Global Pulse <br> - Otim Gerrison, UN Global Pulse"
 - slot:
   start: "12:00-"
   end: "01:00 "
   sessions:
   - room1: 
-    topic1: "Machine Learning Fundamentals <br> - Hellen Namulinda, Makerere AI Lab"
+    topic1: "<u>Machine Learning Fundamentals</u> <br> - Hellen Namulinda, Makerere AI Lab"
   - room2: 
-    topic2: "Deep Learning Fundamentals <br> - Joel Tibabwetiza Muhanguzi, Sunbird AI "
+    topic2: "<u>Deep Learning Fundamentals</u> <br> - Joel Tibabwetiza Muhanguzi, Sunbird AI "
 - slot:
   start: "01:00-"
   end: "02:00 "
@@ -275,9 +276,9 @@ day1:
   end: "04:00 "
   sessions:
   - room1: 
-    topic1: "NLP Labs (Case study: Agriculture | Health | Environment | Tourism) <br> - Mubaraka Banadda, Makerere AI Lab"
+    topic1: "<u>NLP Labs</u> <i>(Case study: Agriculture | Health | Environment | Tourism)</i> <br> - Mubaraka Banadda, Makerere AI Lab"
   - room2: 
-    topic2: "Computer Vision Labs (Case study: Agriculture | Health | Environment | Tourism) <br> - Michael Ssengendo - Marconi Lab"
+    topic2: "<u>Computer Vision Labs </u> <i>(Case study: Agriculture | Health | Environment | Tourism)</i> <br> - Michael Ssengendo - Marconi Lab"
 - slot:
   start: "04:00-"
   end: "05:00 "
@@ -354,22 +355,40 @@ of Data & Commercialization at Stanbic Bank.
       topic1: "<u>Track 1: Agriculture and Tourism</u>"
     - room2: "<b>Track 2: </b>"
       topic2: "<u>Track 2: Health and Environment</u>"
+
+
 - slot:
   start: "11:45-"
   end: "12:30 "
   sessions:
     - room1: 
-      topic1: "Keynote Presentation: The Power of Data: Unlocking Uganda’s Potential with the National Data Strategy for a $500 Billion Economy. <br> - Ms. Doreen Gift Bujjingo, Infrastructure Engineer, Ministry of ICT and NG"
+      topic1: "Keynote Presentation:The Power of Data: Unlocking Uganda’s Potential with the National Data Strategy for a $500 Billion Economy. <br> - Ms. Doreen Gift Bujjingo, Infrastructure Engineer, Ministry of ICT and NG"
     - room2: 
       topic2: "Keynote Presentation: Securing Africa's Future: Advancing Responsible AI for Health—A Path You Can't Afford to Miss<br> - Dr. Rose Nakasi, Makerere AI Health Lab."
+
+
+
+
+
+
+
 - slot:
   start: "12:30-"
   end: "01:00 "
   sessions:
     - room1: 
-      topic1: "Panel 1: Transforming Tourism: Harnessing Data Science and AI for Sustainable Growth in Uganda’s Emerging Cities. <br> Moderator: Martin Gordon Mubangizi, Head of Office UN Global Pulse Uganda <ol><li>Deborah Baguma, City Tourism Officer,</li><li>Prof. Moses Muhumuza, Director UNIRI and Echo Homes</li><li>Joseph UTB</li></ol>"
+      topic1: "Panel 1: Transforming Tourism: Harnessing Data Science and AI for Sustainable Growth in Uganda’s Emerging Cities. <br> Moderator: Martin Gordon Mubangizi, Head of Office UN Global Pulse Uganda <ol <li>Deborah Baguma, City Tourism Officer,</li><li>Prof. Moses Muhumuza, Director UNIRI and Echo Homes</li><li>Joseph UTB</li></ol>"
     - room2:
-      topic2: "Panel 1: TBC  ( Dr. Ernest Mwebaze)<ol><li>Martin Bbaale</li><li>Dr. William Wasswa</li><li>Dr. Rose Nakasi</li><li>Dr. Andrew Katumba</li></ol>" 
+      topic2: "Panel 1: TBC  ( Dr. Ernest Mwebaze)
+      <ol><li>Martin Bbaale</li>
+        <li>Dr. William Wasswa</li>
+        <li>Dr. Rose Nakasi</li>
+        <li>Dr. Andrew Katumba</li>
+      </ol>" 
+
+
+  
+      
 - slot:
   start: "01:00-"
   end: "01:15 "
@@ -385,7 +404,7 @@ of Data & Commercialization at Stanbic Bank.
 - slot:
   start: ""
   end: ""
-  activity: "<center><b>Presentation on Ugandan Census 2024 - UBOS (15 minutes)</center></b>"
+  activity: "<b>Presentation on Ugandan Census 2024 - UBOS (15 minutes)</b>"
 - slot:
   start: 
   end: 
@@ -395,43 +414,60 @@ of Data & Commercialization at Stanbic Bank.
     - room2: "<b>Track 2: </b>"
       topic2: "<u>Track 2: Health and Environment</u>"
 - slot:
-  start: "02:15-"
-  end: "03:15 "
+  start: "02:30-"
+  end: "03:30 "
   sessions:
     - room1:
-      topic1: "Panel 2: Navigating the Data Landscape: Governance as the Key to Unlocking Trust, Innovation, and Transformative Development. <br> Moderator: Morine Amutorine <ol><li>ToroDev</li><li>UN Global Pulse</li><li>MinICT&NG</li><li>Fort Portal City</li></ol>"
+      topic1: "<u>Panel 2:</u> <i>Navigating the Data Landscape:</i> Governance as the Key to Unlocking Trust, Innovation, and Transformative Development. <br><br>
+       <u>Moderator:</u> Morine Amutorine 
+       <br><br>
+       Panelists
+      <ol>
+        <li>Johnstone Baguma,Executive Director,Toro Dev</li>
+        <li>Martin Mubangizi,HeadofO ce,UN Global Pulse</i>
+        <li>Doreen Bujingo,Infrastructure Engineer, MinICT&NG</i>
+        <li>Mr. Kusemererwa Peter Senior Assistant Town Clerk & AG.Town Clerk North Division,Fort Portal City</li>
+      </ol>"
+
+      
     - room2:
-      topic2: "Panel 2: Shaping Our Future: The Imperative of Responsible and Ethical Use of Data and AI. <br> Moderator: Dr. Rehema Baguma<ol><li> Mr. Baker Birikujja, Manager Compliance and Investigations, Personal Data Protection</li><li>Mr. Denish Azamuke, PhD  Computer Science PhD, <a>denishazamuke@gmail.com</a></li><li>Mr. Elly Beingana,  Acting Head,Data and Analytics at Stanbic Bank Uganda</li><li>Data Protection Officer, Kabarole Research and Resource center</li></ol>"
+      topic2: "Panel 2: Shaping Our Future: The Imperative of Responsible and Ethical Use of Data and AI. <br> Moderator: Dr. Rehema Baguma
+      <p>Panelists</p>
+      <ol>
+        <li> Mr. Stephen Mugabe,Manager Data Protection
+ Affairs, Personal Data Protection Office.</li>
+        <li>Mr. Denish Azamuke PhDComputer Science,<a>denishazamuke@gmail.com</a></li>
+        <li>Mr. Elly Beingana, Acting Head,Data and Analytics at Stanbic Bank Uganda</li>
+        
+      </ol>"
 - slot:
-  start: "03:15-"
-  end: "04:15 "
-  sessions:
-    - room1: 
-      topic1: "Spotlight + Mentorship 5 presentations @10 minutes"
-    - room2: 
-      topic2: "Spotlight + Mentorship 5 presentations @10 minutes"
-- slot:
-  start: "04:15-"
+  start: "03:30-"
   end: "04:30 "
   sessions:
     - room1: 
-      topic1: "Poster viewing"
-    - room2: 
-      topic2: "Poster viewing"
-- slot:
-  start: "04:30-"
-  end: "05:00 "
-  activity: "<center><b>Coffee Break and Networking</center></b>"
+      topic1: "<u>Panel 3:</u> DataCities:Towards developing the critical understanding, strategies, and data
+ tools needed to enhance urban services.
+
+ <ol>
+    <li>Jinja</li>
+    <li> Mr.Kusemererwa Peter Senior Assistant Town Clerk & AG.Town Clerk North Division, Fort
+ PortalCity</li>
+    <li> ErnestMwebaze,SurnbirdAI</li>
+    <li> JohnstoneBaguma,LeadToroDev</li>
+ </ol>
+ "
+    
+
 - slot:
   start: 
   end: 
-  activity: "<u><b>Closing Remarks and Networking</b></u>"
+  activity: "<u><b>Closing Remarks</u>"
   details:
     - title: 
 - slot:
   start: "05:00-"
   end: "05:45 "
-  activity: "Summary of the day’s discussions,<br> Final thoughts and future directions, <br> Closing remarks."
+  activity: "Summary of the day’s discussions, Final thoughts and future directions."
 
 day3:
 - slot:
@@ -465,7 +501,7 @@ speakers:
     name: "Dr. Godliver Owomugisha"
     title: "AI in Agriculture"
     company: "Busitema University"
-    twitter: "https://x.com/GodliverO"
+    twitter: "https://x.com/GodliverO" 
     image: "/assets/img/people/godliver.png"
     bio: "Dr. Godliver Owomugisha is a Senior Lecturer and researcher at Busitema University in the Faculty of Engineering. She received her PhD in Computational Intelligence & Modeling of Crop Disease Data in Africa from the University of Groningen in 2020, an achievement that also earned her the Best PhD Thesis Award from the University of Groningen Engineering Center. This recognition was bestowed upon her due to the high scientific impact of her papers, the strong interdisciplinary engineering focus and the societal/environmental impact with the aim of helping farmers to protect crops from disease and African regions to secure food production. Dr. Owomugisha has been working with multidisciplinary collaborative research groups and currently leads Busitema University Artificial Intelligence & Interdisciplinary Research (<a href='https://bu-ai.github.io/'>BUAIIR</a>) Group. <a href='https://bu-ai.github.io/'>BUAIIR</a> was founded on April 20, 2021, with a clear mission to spearhead interdisciplinary research leveraging AI algorithms to address various everyday human challenges. "
   - id: 2
