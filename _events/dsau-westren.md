@@ -452,7 +452,7 @@ of Data & Commercialization at Stanbic Bank.
     <li>Jinja</li>
     <li> Mr.Kusemererwa Peter Senior Assistant Town Clerk & AG.Town Clerk North Division, Fort
  PortalCity</li>
-    <li> ErnestMwebaze,SurnbirdAI</li>
+    <li> Ernest Mwebaze,Surn bird AI</li>
     <li> JohnstoneBaguma,LeadToroDev</li>
  </ol>
  "

@@ -1,0 +1,292 @@
+-
+  id: 1
+  name: "Joyce Nabende, PHD"
+  title: "Program Chair"
+  company: "Makerere AI Lab"
+  twitter: "https://twitter.com/j_nabende"
+  image: "/assets/img/people/joyce_photo.png"
+-
+  id: 2
+  name: "Martin Gordon Mubangizi"
+  title: "General Chair"
+  company: "Pulse Lab Kampala"
+  twitter: "https://twitter.com/mmubangizi15"
+  image: "/assets/img/people/martin.png"
+-
+  id: 3
+  name: "Egineer Bainomugisha, PhD"
+  title: "Academic Coordinator"
+  company: "Makerere University"
+  twitter: "https://twitter.com/iBaino"
+  image: "/assets/img/people/Engineer.jpg"
+-
+  id: 4
+  name: "Ernest Mwebaze, PhD"
+  title: "Strategy lead"
+  company: "SunBird AI"
+  twitter: "https://twitter.com/emwebaze"
+  image: "/assets/img/people/Ernest.jpg"
+-
+  id: 5
+  name: "Daudi Jjingo, PhD"
+  title: "Health Sector Coordinator	ACE"
+  company: "Infectious Disease Institute"
+  twitter: "https://twitter.com/Daudi_j"
+  image: "/assets/img/people/djjingo.jpg"
+-
+  id: 6
+  name: "Morine Amutorine"
+  title: "Media and Communications"
+  company: "Pulse Lab Kampala"
+  twitter: "https://twitter.com/theAmutorine"
+  image: "/assets/img/people/mamutorine.jpg"
+-
+  id: 7
+  name: "Micheal Niyitegeka"
+  title: "Private Sector Coordinator"
+  company: "Refactory"
+  twitter: "https://twitter.com/niyimic"
+  image: "/assets/img/people/Michael.jpeg"
+-
+  id: 8
+  name: "Osbert Osamai"
+  title: "Government Coordinator"
+  company: "NITA-U"
+  twitter: "https://twitter.com/osbertosamai"
+  image: "/assets/img/people/oosamai.jpg"
+-
+  id: 9
+  name: "Mukiibi Ivan"
+  title: "Strategic Partner"
+  company: "GIZ - Uganda"
+  twitter: "#"
+  image: "/assets/img/people/imukiibi.jpg"
+-
+  id: 10
+  name: "Clare Babirye"
+  title: "Secretary"
+  company: ""
+  twitter: "#"
+  image: "/assets/img/people/cbabirye.jpg"
+  
+  
+- 
+  id: 11
+  name: "Kabwama Alvin Leonard"
+  title: "Sponsorship Chair"
+  company: "DSA Uganda"
+  twitter: ""
+  image: "/assets/img/people/kabwama.jpeg"
+
+-
+  id: 12
+  name: "Dr. Godliver Owmugisha"
+  #title: "Sponsorship Chair"
+  company: "Busitema University"
+  twitter: ""
+  image: ""
+
+-
+  id: 13
+  name: " Mr. Ocen Samuel "
+  #title: "Sponsorship Chair"
+  company: "Mountains of the Moon University"
+  twitter: ""
+  image: ""
+
+-
+  id: 14
+  name: " Rukundo Benjamin "
+  #title: "Sponsorship Chair"
+  company: "Makerere AI Health Lab"
+  twitter: ""
+  image: ""
+-
+  id: 15
+  name: "Wabinyai Fidel Raja"
+  #title: "Sponsorship Chair"
+  company: "AirQo"
+  twitter: ""
+  image: ""
+-
+  id: 16
+  name: "Martin Bbaale"
+  #title: "Sponsorship Chair"
+  company: "AirQo"
+  twitter: ""
+  image: ""
+-
+  id: 17
+  name: "Wanyama Denis"
+  #title: "Sponsorship Chair"
+  company: "UN Global Pulse"
+  twitter: ""
+  image: ""
+-
+  id: 18
+  name: "Otim Gerrison"
+  #title: "Sponsorship Chair"
+  company: "UN Global Pulse"
+  twitter: ""
+  image: ""
+-
+  id: 19
+  name: "Hellen Namulinda"
+  #title: "Sponsorship Chair"
+  company: "Makerere AI Lab"
+  twitter: ""
+  image: ""
+-
+  id: 20
+  name: "Joel Tibabwetiza Muhanguzi"
+  #title: "Sponsorship Chair"
+  company: "Sunbird AI "
+  twitter: ""
+  image: ""
+-
+  id: 21
+  name: "Mubaraka Banadda"
+  #title: "Sponsorship Chair"
+  company: "Makerere AI Lab"
+  twitter: ""
+  image: ""
+-
+  id: 22
+  name: "Michael Ssengendo"
+  #title: "Sponsorship Chair"
+  company: "Marconi Lab"
+  twitter: ""
+  image: ""
+-
+  id: 23
+  name: "Joel Ssematimba"
+  #title: "Sponsorship Chair"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 24
+  name: "Raja Fidel"
+  #title: "Sponsorship Chair"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 25
+  name: "Dr. Daphine Nyachacki Bitalo"
+  #title: "Sponsorship Chair"
+  company: "NACCURI and UCU"
+  twitter: ""
+  image: ""
+-
+  id: 26
+  name: "Dickson Katto"
+  title: "Head of Data & Commercialization"
+  company: "Stanbic Bank"
+  twitter: ""
+  image: ""
+-
+  id: 27
+  name: "Ms. Doreen Gift Bujjingo"
+  title: "Infrastructure Engineer"
+  company: "Ministry of ICT and NG"
+  twitter: ""
+  image: ""
+-
+  id: 28
+  name: "Dr. Rose Nakasi"
+  #title: "Sponsorship Chair"
+  company: "Makerere AI Health Lab"
+  twitter: ""
+  image: ""
+-
+  id: 30
+  name: "Deborah Baguma"
+  title: "City Tourism Officer"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 31
+  name: "Prof. Moses Muhumuza"
+  #title: "Director"
+  company: "UNIRI and Echo Homes"
+  twitter: ""
+  image: ""
+-
+  id: 32
+  name: "Joseph UTB"
+  #title: "Sponsorship Chair"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 33
+  name: "Dr. William Wasswa"
+  #title: "Sponsorship Chair"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 34
+  name: "Dr. Andrew Katumba"
+  #title: "Sponsorship Chair"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 35
+  name: "Johnstone Baguma"
+  title: "Executive Director"
+  company: "Toro Dev"
+  twitter: ""
+  image: ""
+-
+  id: 36
+  name: "Mr. Kusemererwa Peter"
+  title: " Senior Assistant Town Clerk & AG.Town Clerk"
+  company: "Fort Portal City"
+  twitter: ""
+  image: ""
+-
+  id: 37
+  name: "Dr. Rehema Baguma "
+  #title: "Sponsorship Chair"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 38
+  name: "Mr. Stephen Mugabe"
+  title: "Manager Data Protection Affairs, Personal Data Protection Office"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 39
+  name: "Mr. Denish Azamuke PhD Computer Science"
+  #title: "Sponsorship Chair"Denish 
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 40
+  name: "Mr. Elly Beingana"
+  title: "Acting Head, Data and Analytics"
+  company: "Stanbic Bank Uganda"
+  twitter: ""
+  image: ""
+-
+  id: 41
+  name: "Jinja"
+  #title: "Sponsorship Chair"
+  company: ""
+  twitter: ""
+  image: ""
+-
+  id: 42
+  name: "Johnstone Baguma"
+  title: "Lead"
+  company: "ToroDev"
+  twitter: ""
+  image: ""
