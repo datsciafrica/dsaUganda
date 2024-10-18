@@ -1,14 +1,7 @@
 <div id="upcoming-events" class="container section chapter">
     <h1 class="section-header general-h1">Upcoming Events</h1>
     <div class="general-body">
-        <!-- {% for event in site.events %}
-        <h2>
-            <a href="{{ site.url }}{{site.baseurl}}{{ event.url }}">
-                {{ event.name }} - {{ event.date }}
-            </a>
-        </h2>
-        <p>{{ event.content | markdownify }}</p>
-        {% endfor %} -->
+        
         <ul class="event-list">
             {% assign today_date = 'now' | date: '%s' %}
             {% for event in site.events %}

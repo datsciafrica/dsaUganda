@@ -532,53 +532,13 @@ layout: default
 
 
     <div class="description-container unpurchased-virtual-no-info ">
-        <!-- <div class="container">
-            <div class="card-container-guest">
-                <div class="photo-container">
-                    <div class="date">
-                        <div class="day">05</div>
-                        <div class="month">August</div>
-                    </div>
-                    <div class="image"></div>
-                </div>
-                <div class="info-container">
-                    <div class="event-name">
-                        Guest of Honour. <br>DR. AMINAH ZAWEDDE
-                    </div>
-                    <div class="event-location">
-                        Permanent Secretary of the Ministry of ICT and National Guidance
-                    </div>
-                </div>
-                <div class="image-container">
-                    <div class="image">
-                        <img src="../assets/img/people/amina.jpeg" class="circle circle-shadow">
-                    </div>
-                </div>
-            </div>
-        </div> -->
+        
         <div class="container launch">
             <h1>About the Event </h1>
             <p>This event is a collaboration between Data Science Africa Uganda, Mountains of the Moon University, and
                 Fort
                 Portal Tourism City.</p>
             <p> </p>
-
-            <!-- <h1>About Data Science Africa Uganda <em>(DSA Uganda)</em></h1>
-            <ul>
-                <li>Purpose: Empower a community of practitioners and enthusiasts in data-centric technologies for
-                    African
-                    solutions.</li>
-                <li>Vision: Recognized continentally as a badge of excellence in training data-centric technologies
-                    among
-                    employers, policymakers, and community stakeholders.</li>
-                <li>Core Values: Openness and inclusivity, pragmatism, sustainability, community, and agility.</li>
-            </ul>
-
-            <p>Since its inception in 2015, DSA has organized 11 capacity-strengthening events across 8 African
-                countries,
-                with the most recent in Nyeri, Kenya, attracting over 320 participants from 28 countries.</p>
-
-            <p> </p> -->
 
             <h1>Context</h1>
             <p>DSAU 2024 Fort Portal is a timely event as Uganda develops its National Data Strategy. This strategy aims
@@ -650,13 +610,7 @@ layout: default
                     </tr>
                 </thead>
                 <tbody>
-                    <!-- <tr>
-                        <td>Benefits</td>
-                        <td>5000 USD</td>
-                        <td>2000 USD</td>
-                        <td>1000 USD</td>
-                        <td>500 USD</td>
-                    </tr> -->
+                    
                     <tr>
                         <td>Logo on the event website</td>
                         <td>✓</td>
@@ -771,30 +725,6 @@ layout: default
                 </tbody>
             </table>
 
-
-            <!-- <table class="presentations">
-                <thead>
-                    <tr>
-                        <th>
-                            <h4 class="text-center">Time</h4>
-                        </th>
-                        <th>
-                            <h4 class="text-center">Presentation</h4>
-                        </th>
-                        <th>
-
-                        </th>
-                    </tr>
-                </thead>
-                <tbody>
-
-                    {% for talk in page.agenda %} -->
-                    <!--<pre> {{ talk | inspect}} </pre>-->
-                    <!-- {% include listtalk.html %}
-                    {% endfor %}
-                </tbody>
-            </table> -->
-
         </div>
 
     </div>
@@ -816,12 +746,9 @@ layout: default
                         <h2 itemprop="name" class="people-card--name">{{ speaker.name }}</h2>
                         <p class="people-card--title">{{ speaker.title }}</p>
                         <p class="people-card--company">{{ speaker.company }}</p>
-                        <!--{%if speaker.bio %}
-                    <p> {{speaker.bio}}</p>
-                        {% endif %} -->
+                        
                     </div>
-                    <!--                    <a class="btn btn-secondary" href="#">View Profile</a>-->
-                    <!-- Button trigger modal -->
+                    
                     <button type="button" class="btn btn-secondary" data-toggle="modal"
                         data-target="#exampleModal{{ speaker.id }}">
                         View Profile
@@ -849,17 +776,9 @@ layout: default
                                             <h2 itemprop="name" class="people-card--name">{{ speaker.name }}</h2>
                                             <p class="people-card--title">{{ speaker.title }}</p>
                                             <p class="people-card--company">{{ speaker.company }}</p>
-                                            <!--{%if speaker.bio %}
-                    <p> {{speaker.bio}}</p>
-                        {% endif %} -->
+                                            
                                         </div>
-                                        <!--
-                    <span><strong>Skills: </strong></span>
-                        <span class="label label-warning">HTML5/CSS</span>
-                        <span class="label label-info">Adobe CS 5.5</span>
-                        <span class="label label-info">Microsoft Office</span>
-                        <span class="label label-success">Windows XP, Vista, 7</span>
--->
+                                        
                                     </center>
                                     <hr>
                                     <center>
@@ -982,11 +901,7 @@ layout: default
                 </div>
             </div>
         </div>
-        <!-- <div class="hosts event-partners">
-            <h1 class="event-page general-h1">
-                Bronze Sponsors
-            </h1>
-            <div class="container cards">
+        <!-- 
 
                 {% if page.bronze %}
                 {% for partner in page.bronze %}

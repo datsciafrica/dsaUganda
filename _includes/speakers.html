@@ -1,4 +1,3 @@
-
 <div class="container" style="padding-top:8em;">
     <h1>Speakers</h1>
     <div class="speakers-container">
@@ -6,7 +5,8 @@
         {% if site.showSessions %}
         <div class="speaker">
             <div class="speaker-details">
-                <img src="{{ site.baseurl | append: '/speakers_images/people/' | append: speaker.thumbnailUrl }}" class="w-100 mb-4 img img-fluid" />
+                <img src="{{ site.baseurl | append: '/speakers_images/people/' | append: speaker.thumbnailUrl }}"
+                    class="w-100 mb-4 img img-fluid" />
                 <h5>{{ speaker.name }} <span>{{ speaker.surname }}</span></h5>
                 <p>
                     {{ speaker.company }}
@@ -16,28 +16,5 @@
         {% endif %}
         {% endfor %}
 
-
-
-
-<!--
-        <div class="col-lg-4 col-sm-12 mb-5">
-            <div class="team_card">
-                <img src="images/highlight_1.png" class="w-100 mb-4 img img-fluid" />
-                <h5>Martin Gordon Mubangizi</h5>
-                <p>
-                    Data Coties Africa Chairman
-                </p>
-            </div>
-        </div>
-        <div class="col-lg-4 col-sm-12 mb-5">
-            <div class="team_card">
-                <img src="images/highlight_1.png" class="w-100 mb-4 img img-fluid" />
-                <h5>Martin Gordon Mubangizi</h5>
-                <p>
-                    Data Coties Africa Chairman
-                </p>
-            </div>
-        </div>
--->
     </div>
 </div>

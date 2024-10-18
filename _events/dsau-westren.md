@@ -568,28 +568,7 @@ speakers:
     image: ""
     bio: "Mubaraka is a Machine Learning Engineer and Research Assistant at Makerere AI Research Lab, focusing on natural language processing and AI solutions for African languages"
  
-  # - id: 11
-  #   name: "Dr Nibikora Ildephonse"
-  #   title: "Deputy Dean, Faculty of Engineering"
-  #   company: "Busitema University"
-  #   twitter: ""
-  #   image: "/assets/img/people/Michael.png"
-  #   bio: "Deputy Dean of Faculty of Engineering and technology, Busitema University (since January 2021), Senior Lecturer in Polymer Textile and Industrial Engineering department (since 2017), Head of Department of Textile and Ginning Engineering (since 2014 to December 2020), Worked as lecturer (from 2012 to 2017) in the Department of Textile and Ginning Engineering, Faculty of Engineering and Technology, Busitema University. I graduate from Donghua University, Shanghai, China, with PhD (2011) and Msc (2007) in Textile Engineering. I received a Bachelor of Science in Agronomy Engineering in 1999 any University of Burundi. Research focus areas: Optimization, modelling and simulation of textiles processes, and textile materials engineering with different applications. Contact: Busitema University, P.O BOX 236 Tororo, Eastern Uganda, Tel:+256785096691 , Email: nibikora6@gmail.com , nibikora.eng@busitema.ac.ug ."
-  # - id: 12
-  #   name: "Dr. Emmanuel Ahishakiye"
-  #   title: "Lecturer and a Researcher"
-  #   company: "Kyambogo University"
-  #   twitter: ""
-  #   image: "/assets/img/people/emmanuelAhishakiye.png"
-  #   bio: "Dr. Emmanuel Ahishakiye is a Lecturer and a Researcher at Kyambogo University in the School of Computing and Information Science, Department of Data Science and Artificial Intelligence. Emmanuel’s research interests are in the Theory of Machine Learning Algorithms, and in the Design of Models that are simple to Use and Efficient especially for local Settings. Emmanuel’s general research area is Artificial Intelligence for Development (AI4D)."
-  # - id: 13
-  #   name: "Mr. Katto Dickson"
-  #   title: "Head Data Commercialization"
-  #   company: "Stanbic Bank"
-  #   twitter: ""
-  #   image: "/assets/img/people/kattoDickson.jpeg"
-  #   bio: ""
-    
+      
 organizers:
   - id: 1
     name: "Dr. Akugizibwe Edwin."
